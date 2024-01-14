@@ -5,7 +5,7 @@ export default function Home() {
     <main className="hero-image">
       {/* <!-- Hero Image --> */}
       {/* <HeroImage src={selectedImage.src}/> */}
-      <img id="hero-image" src="/hero-images/hero-image-1.jpg"/>
+      <img id="hero-image" src="home/hero-images/hero-image-1.jpg"/>
     </main>
   )
 }

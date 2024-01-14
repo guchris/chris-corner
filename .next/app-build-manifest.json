@@ -80,6 +80,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/projects/brews-and-bites/page.js"
+    ],
+    "/founder/highs-lows-rainbows/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/founder/highs-lows-rainbows/page.js"
     ]
   }
 }

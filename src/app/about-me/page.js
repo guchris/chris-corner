@@ -14,7 +14,7 @@ const AboutMePage = () => {
             <div className="page-content">
                 <h2 className="directory">About Me</h2>
 
-                <img className="main-image" src="/about-me-image.jpg"/>
+                <img className="main-image" src="about-me/headshot.jpg"/>
 
                 <p className="paragraph-text">
                     Hi there - my name is Chris (he/him)!<br/>

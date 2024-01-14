@@ -15,8 +15,28 @@ const BrewsAndBitesPage = () => {
                 <h2 className="directory">Projects / Brews & Bites</h2>
 
                 <p className="intro">
-                    Coffee and friends.
+                    Building community is important to me. Maintaining and deepning friendships is too.
+                    And with my appreciate and love for coffee, I knew that hosting my own pop-up coffee shop in my apartment would be the most perfect blend. Hence, Brews & Bites.<br/><br/>
+                    
+                    Not only is this a space for me to form more meaningful connections, it's also an opportunity for me to practice my barista skills (honing in my coffee making abilities), more opportunities to bake, make designs for my menu, getting more use out of my apartment, and more!
+                    It's honestly the best. I highly reccomend doing this or something similar that aligns more with your interests!
                 </p>
+
+                <section>
+                    <h4 className="section-title">Iterations</h4>
+                    <div className="menu-grid">
+                        <img src="brews-and-bites/v3-front.png" alt="Brews & Bites v3 Menu - Front"/>
+                        <img src="brews-and-bites/v2-front.png" alt="Brews & Bites v2 Menu - Front"/>
+                        <div className="menu-wrapper">
+                            <img src="brews-and-bites/v1-front.png" alt="Brews & Bites v1 Menu - Front"/>
+                            <img className="hover-image" src="brews-and-bites/v1-back.png" alt="Brews & Bites v1 Menu - Back"/>
+                        </div>
+                        <div className="menu-wrapper">
+                            <img src="brews-and-bites/v0-front.png" alt="Brews & Bites v0 Menu - Front"/>
+                            <img className="hover-image" src="brews-and-bites/v0-back.png" alt="Brews & Bites v0 Menu - Back"/>
+                        </div>
+                    </div>
+                </section>
             </div>
         </>
     );
