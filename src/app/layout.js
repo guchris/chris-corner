@@ -3,6 +3,7 @@ import './globals.css'
 import Link from 'next/link';
 import DateSection from '@/components/DateSection'
 import Navigation from '@/components/NavigationSection'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function RootLayout({ children }) {
 
