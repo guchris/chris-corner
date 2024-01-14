@@ -12,7 +12,7 @@ const HighsLowsRainbowsPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Highs Lows Rainbows</h2>
+                <h2 className="directory">Founder / Highs Lows Rainbows</h2>
 
                 <p className="intro">
                     An artistic expression of our love of card making and giving.

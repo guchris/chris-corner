@@ -17,7 +17,7 @@ const GoalsPage = () => {
                 <p className="intro">
                     In my approach to setting and achieving goals, I prioritize consistency and acknowledge the possibility of failure.
                     I've categorized my goals into two main groups: those I track weekly and those that are one-time endeavors.
-                    Within the weekly tracked goals, I further classNameify them into "ins" and "outs."
+                    Within the weekly tracked goals, I further classify them into "ins" and "outs."
                     "Ins" represent what I aim to incorporate and sustain in my life, while "outs" denote habits or activities I aim to eliminate.<br/><br/>
                     
                     Every week, I assess each goal, marking them as either "true" with a black fill or "false" with a gray fill.
@@ -139,7 +139,7 @@ const GoalsPage = () => {
                             </div>
                         </div>
                         <div className="goal">
-                            <p className="goal-text">Facetime (more) with family</p>
+                            <p className="goal-text">Facetime with family</p>
                             <div className="checkboxes">
                                 <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="false"/>
@@ -178,7 +178,7 @@ const GoalsPage = () => {
                             <p className="goal-text">3x strength training</p>
                             <div className="checkboxes">
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="fals"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>

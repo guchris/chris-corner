@@ -12,7 +12,7 @@ const WornPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Worn</h2>
+                <h2 className="directory">Founder / Worn</h2>
 
                 <p className="intro">
                     Wear worn.

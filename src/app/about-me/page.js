@@ -17,7 +17,9 @@ const AboutMePage = () => {
                 <img className="main-image" src="/about-me-image.jpg"/>
 
                 <p className="paragraph-text">
-                    Hi, I'm Chris (he/him), 25 years old, and living life to the fullest.<br/><br/>
+                    Hi there - my name is Chris (he/him)!<br/>
+                    I'm all about staying active, embracing spontaneity, and finding joy in the little things.<br/>
+                    Living my best pedestrian life and fully immersed in my self-love era.<br/><br/>
                     Here are a few mottos I'm living by:
                 </p>
                 <ul className='small-bullets'>

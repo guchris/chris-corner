@@ -234,7 +234,7 @@ header {
   display: flex;
   flex-direction: column;
   margin-top: 10px;
-  margin-bottom: 0;
+  margin-bottom: 20px;
 }
 
 .link {
@@ -301,8 +301,8 @@ header {
   font-style: italic;
   border-left: 2px solid #000;
   padding-left: 10px;
-  margin-top: 20px;
-  margin-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 10px;
 }
 
 
@@ -339,7 +339,8 @@ header {
 
 .courses,
 .scholarships,
-.awards {
+.awards,
+.reccomendations {
   display: flex;
   flex-direction: column;
   margin-top: 0;
