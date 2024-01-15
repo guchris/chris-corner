@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const WornPage = () => {
     
@@ -14,9 +15,8 @@ const WornPage = () => {
             <div className="page-content">
                 <h2 className="directory">Founder / Worn</h2>
 
-                <p className="intro">
-                    Wear worn.
-                </p>
+                <p className="intro">Your digital closet.</p>
+                <Link href="https://wearworn.com" className="link">Worn Website (UNDER CONSTRUCTION)</Link>
             </div>
         </>
     );

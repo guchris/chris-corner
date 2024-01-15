@@ -27,7 +27,9 @@ const AboutMePage = () => {
                     <li>Be brave and bold for future you</li>
                     <li>How lucky we are to be alive right now</li>
                     <li>You are always on time for your own life</li>
+                    <li>Your life is not a thing, it's an experience</li>
                     <li>Fulfill your curiosity</li>
+                    <li>Bias to action</li>
                 </ul>
             </div>
         </>

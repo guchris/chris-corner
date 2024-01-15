@@ -85,6 +85,26 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/founder/highs-lows-rainbows/page.js"
+    ],
+    "/food/sunday-suppers/sweet-potato-balls/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/food/sunday-suppers/sweet-potato-balls/page.js"
+    ],
+    "/founder/stellar-effects/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/founder/stellar-effects/page.js"
+    ],
+    "/founder/worn/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/founder/worn/page.js"
+    ],
+    "/not-found": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/not-found.js"
     ]
   }
 }

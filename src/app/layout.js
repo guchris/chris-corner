@@ -36,7 +36,6 @@ export default function RootLayout({ children }) {
 
 								{/* <!-- LOGO --> */}
 								<Link href="/" className="logo">CHRIS' CORNER</Link>
-								{/* <h1 href="/" className="logo">CHRIS' CORNER</h1> */}
 
 								{/* <!-- Current Datetime --> */}
 								<DateSection/>

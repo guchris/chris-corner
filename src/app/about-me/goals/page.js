@@ -23,7 +23,6 @@ const GoalsPage = () => {
                     Every week, I assess each goal, marking them as either "true" with a black fill or "false" with a gray fill.
                     Success, in my system, is defined by achieving a rate of over 80% "true" by the end of a 13-week quarter.
                     This structured and measurable approach has evolved from experienting with various online goal-setting stratgies and templates over the years, and has proven to be a reliable method for assessing and achieving my life goals.
-                    I share this framework with the hope that you may find valuable insights to enhance your own goal-setting journey.
                 </p>
                 
                 <div className="section">

@@ -16,11 +16,11 @@ const EducationPage = () => {
 
                 <section className="education">
                     <div className="details">
-                    <h3 className="title">Missouri University of Science & Technology (S&T)</h3>
-                    <p className="discipline">B.S. Computer Science</p>
-                    <p className="date-range">Aug 2016 - Dec 2020</p>
-                    <p className="location">Rolla, MO, USA</p>
-                    <p className="gpa">GPA 3.81, Summa Cum Laude</p>
+                        <h3 className="title">Missouri University of Science & Technology (S&T)</h3>
+                        <p className="discipline">B.S. Computer Science</p>
+                        <p className="date-range">Aug 2016 - Dec 2020</p>
+                        <p className="location">Rolla, MO, USA</p>
+                        <p className="gpa">GPA 3.81, Summa Cum Laude</p>
                     </div>
                 </section>
                 
@@ -77,7 +77,7 @@ const EducationPage = () => {
                     <p className="award">O4U Tech Scholar (2019)</p>
                 </div>
 
-                <h4 className="section-title">Reccomendations</h4>
+                <h4 className="section-title">Recommendations</h4>
                 <div className="reccomendations">
                     <p className="reccomendation">
                         Chris Maples, Missouri S&T Chancellor<br/>

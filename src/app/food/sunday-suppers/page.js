@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const SundaySuppersPage = () => {
     
@@ -53,7 +54,7 @@ const SundaySuppersPage = () => {
                     <div className="rankings">
                         <div className="ranking">
                             <p className="ranking-score">45</p>
-                            <a href="#" className="ranking-dish">Sweet Potato Balls</a>
+                            <Link href="sunday-suppers/sweet-potato-balls" className="ranking-dish">Sweet Potato Balls</Link>
                         </div>
                         <div className="ranking">
                             <p className="ranking-score">40</p>

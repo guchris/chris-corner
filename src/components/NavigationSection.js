@@ -10,15 +10,15 @@ const navigationTabs = [
         subTabs: [
             {
                 name: "Career",
-                href: "/about-me/career",
+                href: "/about-me/career"
             },
             {
                 name: "Education",
-                href: "/about-me/education",
+                href: "/about-me/education"
             },
             {
                 name: "Goals",
-                href: "/about-me/goals",
+                href: "/about-me/goals"
             }
         ]
     },
@@ -32,11 +32,11 @@ const navigationTabs = [
         subTabs: [
             {
                 name: "Closet",
-                href: "/fashion/closet",
+                href: "/fashion/closet"
             },
             {
                 name: "Outfits",
-                href: "/fashion/outfits",
+                href: "/fashion/outfits"
             }
         ]
     },
@@ -46,11 +46,11 @@ const navigationTabs = [
         subTabs: [
             {
                 name: "Recipies",
-                href: "/food/recipies",
+                href: "/food/recipies"
             },
             {
                 name: "Sunday Suppers",
-                href: "/food/sunday-suppers",
+                href: "/food/sunday-suppers"
             }
         ]
     },
@@ -60,15 +60,15 @@ const navigationTabs = [
         subTabs: [
             {
                 name: "Highs Lows Rainbows",
-                href: "/founder/highs-lows-rainbows",
+                href: "/founder/highs-lows-rainbows"
             },
             {
                 name: "Stellar Effects",
-                href: "/founder/stellar-effects",
+                href: "/founder/stellar-effects"
             },
             {
                 name: "Worn",
-                href: "/founder/worn",
+                href: "/founder/worn"
             }
         ]
     },
@@ -78,7 +78,7 @@ const navigationTabs = [
         subTabs: [
             {
                 name: "Brews and Bites",
-                href: "/projects/brews-and-bites",
+                href: "/projects/brews-and-bites"
             }
         ]
     }

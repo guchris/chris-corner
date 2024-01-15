@@ -198,6 +198,7 @@ header {
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 40px;
+  max-width: 800px;
 }
 
 .main-image {
@@ -243,7 +244,6 @@ header {
   font-size: 12px;
   margin-top: 0;
   margin-bottom: 0;
-  max-width: 800px;
 }
 
 .links {
@@ -283,6 +283,7 @@ header {
   gap: 10px;
   margin-top: 0;
   margin-bottom: 40px;
+  max-width: 800px;
 }
 
 .job-experience .details {
@@ -309,7 +310,6 @@ header {
 .job-experience .description {
   font-size: 12px;
   margin: 0;
-  max-width: 800px;
 }
 
 .reccomendation {
@@ -361,6 +361,7 @@ header {
   flex-direction: column;
   margin-top: 0;
   margin-bottom: 40px;
+  max-width: 800px;
 }
 
 .course,
@@ -375,6 +376,7 @@ header {
   display: block;
   margin-top: 0;
   margin-bottom: 30px;
+  max-width: 800px;
 }
 
 .extracurricular .details {
@@ -400,7 +402,6 @@ header {
   font-size: 12px;
   margin-top: 10px;
   margin-bottom: 0;
-  max-width: 800px;
 }
 
 

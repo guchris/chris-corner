@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const StellarEffectsPage = () => {
     
@@ -14,9 +15,8 @@ const StellarEffectsPage = () => {
             <div className="page-content">
                 <h2 className="directory">Founder / Stellar Effects</h2>
 
-                <p className="intro">
-                    Fun project turned side hustle turned LLC.
-                </p>
+                <p className="intro">Fun project turned side hustle turned LLC.</p>
+                <Link href="https://stell-ar.com" className="link">Stellar Effects Website</Link>
             </div>
         </>
     );

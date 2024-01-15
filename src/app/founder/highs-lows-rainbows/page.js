@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const HighsLowsRainbowsPage = () => {
     
@@ -14,9 +15,8 @@ const HighsLowsRainbowsPage = () => {
             <div className="page-content">
                 <h2 className="directory">Founder / Highs Lows Rainbows</h2>
 
-                <p className="intro">
-                    An artistic expression of our love of card making and giving.
-                </p>
+                <p className="intro">An artistic expression of our love of card making and giving.</p>
+                <Link href="https://highslowsandrainbows.etsy.com/" className="link">Highs Lows & Rainbows Etsy Storefront</Link>
             </div>
         </>
     );
