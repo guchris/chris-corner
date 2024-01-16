@@ -1,10 +1,10 @@
 {
-  "/not-found": "app/not-found.js",
-  "/founder/worn/page": "app/founder/worn/page.js",
   "/page": "app/page.js",
-  "/about-me/education/page": "app/about-me/education/page.js",
   "/fashion/page": "app/fashion/page.js",
+  "/fashion/closet/[id]/page": "app/fashion/closet/[id]/page.js",
   "/fashion/closet/page": "app/fashion/closet/page.js",
-  "/fashion/outfits/page": "app/fashion/outfits/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/food/page": "app/food/page.js",
+  "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
+  "/food/sunday-suppers/sweet-potato-balls/page": "app/food/sunday-suppers/sweet-potato-balls/page.js",
+  "/food/sunday-suppers/squash-gnocchi-soup/page": "app/food/sunday-suppers/squash-gnocchi-soup/page.js"
 }

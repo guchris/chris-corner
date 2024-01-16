@@ -53,35 +53,35 @@ const SundaySuppersPage = () => {
                     <h4 className="section-title">Current Rankings</h4>
                     <div className="rankings">
                         <div className="ranking">
-                            <p className="ranking-score">45</p>
+                            <p className="ranking-score">XX</p>
                             <Link href="sunday-suppers/sweet-potato-balls" className="ranking-dish">Sweet Potato Balls</Link>
                         </div>
                         <div className="ranking">
-                            <p className="ranking-score">40</p>
-                            <a href="#" className="ranking-dish">Squash Gnocchi Soup</a>
+                            <p className="ranking-score">XX</p>
+                            <Link href="sunday-suppers/squash-gnocchi-soup" className="ranking-dish">Squash Gnocchi Soup</Link>
                         </div>
                         <div className="ranking">
-                            <p className="ranking-score">35</p>
+                            <p className="ranking-score">XX</p>
                             <a href="#" className="ranking-dish">Crispy Gochujang Tofu</a>
                         </div>
                         <div className="ranking">
-                            <p className="ranking-score">30</p>
+                            <p className="ranking-score">XX</p>
                             <a href="#" className="ranking-dish">Scissor Cut Noodles</a>
                         </div>
                         <div className="ranking">
-                            <p className="ranking-score">25</p>
+                            <p className="ranking-score">XX</p>
                             <a href="#" className="ranking-dish">Fried Spring Rolls</a>
                         </div>
                         <div className="ranking">
-                            <p className="ranking-score">20</p>
+                            <p className="ranking-score">XX</p>
                             <a href="#" className="ranking-dish">Thiccc Potato Noodles</a>
                         </div>
                         <div className="ranking">
-                            <p className="ranking-score">15</p>
+                            <p className="ranking-score">XX</p>
                             <a href="#" className="ranking-dish">Cabbage Dumplings</a>
                         </div>
                         <div className="ranking">
-                            <p className="ranking-score">10</p>
+                            <p className="ranking-score">XX</p>
                             <a href="#" className="ranking-dish">Cauliflower Steaks</a>
                         </div>
                     </div>

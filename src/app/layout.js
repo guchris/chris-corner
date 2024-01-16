@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
 			<html lang="en">
 				<body>
 					{/* <!-- Blocker --> */}
-					<div class="blocker">
+					<div className="blocker">
 						<img id="blocker" src="blocker.png"/>
 					</div>
 
