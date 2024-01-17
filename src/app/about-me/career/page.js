@@ -97,7 +97,7 @@ const CareerPage = () => {
                         Chris would be a huge asset to any DevRel, evangelism, or product marketing team."</i>
                     </p>
                     <p className="reccomendation">
-                        Nick Quinlan, COO<br/><br/>
+                        Nick Quinlan, Chief Operating Officer<br/><br/>
                         <i>"I was introduced to Chris by way of a 30ft tall banner depicting Chris that my company, Major League Hacking (MLH), had printed celebrating him for his achievements in building community at his university. Out of a community of more than 5,000 campus organizers we worked with that year, he had set himself apart for the way he was able to create events, connection, and community for the student developers at his school.<br/><br/>
                         As I got to know Chris better and he began working at MLH as a Coach, I got to see how he puts his community building skills to work firsthand in a developer relations context. Chris has shown great ability to help people understand and get setup on a suite of developer tools including APIs and cloud services, all while engaging them personally and authentically.<br/><br/>
                         If you have the chance to work with Chris, seize it, you might just end up printing a larger than life banner of him."</i>

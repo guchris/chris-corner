@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Sweet Potato Balls",
+        "image1": "sweet-potato-balls-1.png",
+        "image2": "sweet-potato-balls-2.png",
+        "date": "Sunday, December 3, 2023",
+        "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend vulputate tincidunt. Cras quis facilisis sem. Sed nec commodo ante, quis molestie elit. Suspendisse quam felis, interdum ut scelerisque non, tristique a purus. Vestibulum dictum malesuada ante nec venenatis. Donec fermentum laoreet risus et cursus. Curabitur ac est sit amet arcu rutrum vestibulum.Nunc luctus dolor finibus lorem elementum posuere. Etiam lorem lectus, aliquam sed ultrices ut, venenatis vitae odio. Vestibulum sed viverra quam. Pellentesque eros diam, convallis cursus eros sed, consequat tristique mauris. Suspendisse bibendum risus sed purus tristique, consectetur posuere lectus pulvinar. Donec ultricies dignissim tortor, in efficitur quam elementum non. Nunc quis erat tortor. Etiam congue vitae diam porttitor auctor. Nulla facilisi. Praesent convallis blandit mauris nec porttitor. Praesent ut eleifend urna. Nunc vitae ex auctor, laoreet est et, suscipit tellus. Integer laoreet, ligula a commodo egestas, ipsum felis tincidunt arcu, vitae pellentesque urna leo eget nulla. Aenean vitae bibendum lacus.",
+        "catgory1score1": "X/10",
+        "catgory1score2": "X/10",
+        "catgory2score1": "X/5",
+        "catgory2score2": "X/5",
+        "catgory3score1": "X/5",
+        "catgory3score2": "X/5",
+        "catgory4score1": "X/5",
+        "catgory4score2": "X/5",
+        "catgory5score1": "X/5",
+        "catgory5score2": "X/5"
+    },
+    {
+        "id": 2,
+        "name": "Squash Gnocchi Soup",
+        "image1": "squash-gnocchi-soup-1.png",
+        "image2": "squash-gnocchi-soup-2.png",
+        "date": "Sunday, December 3, 2023",
+        "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend vulputate tincidunt. Cras quis facilisis sem. Sed nec commodo ante, quis molestie elit. Suspendisse quam felis, interdum ut scelerisque non, tristique a purus. Vestibulum dictum malesuada ante nec venenatis. Donec fermentum laoreet risus et cursus. Curabitur ac est sit amet arcu rutrum vestibulum.Nunc luctus dolor finibus lorem elementum posuere. Etiam lorem lectus, aliquam sed ultrices ut, venenatis vitae odio. Vestibulum sed viverra quam. Pellentesque eros diam, convallis cursus eros sed, consequat tristique mauris. Suspendisse bibendum risus sed purus tristique, consectetur posuere lectus pulvinar. Donec ultricies dignissim tortor, in efficitur quam elementum non. Nunc quis erat tortor. Etiam congue vitae diam porttitor auctor. Nulla facilisi. Praesent convallis blandit mauris nec porttitor. Praesent ut eleifend urna. Nunc vitae ex auctor, laoreet est et, suscipit tellus. Integer laoreet, ligula a commodo egestas, ipsum felis tincidunt arcu, vitae pellentesque urna leo eget nulla. Aenean vitae bibendum lacus.",
+        "catgory1score1": "X/10",
+        "catgory1score2": "X/10",
+        "catgory2score1": "X/5",
+        "catgory2score2": "X/5",
+        "catgory3score1": "X/5",
+        "catgory3score2": "X/5",
+        "catgory4score1": "X/5",
+        "catgory4score2": "X/5",
+        "catgory5score1": "X/5",
+        "catgory5score2": "X/5"
+    }
+]
