@@ -3,5 +3,6 @@
   "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
   "/about-me/goals/page": "app/about-me/goals/page.js",
   "/food/sunday-suppers/sweet-potato-balls/page": "app/food/sunday-suppers/sweet-potato-balls/page.js",
-  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js"
+  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
+  "/page": "app/page.js"
 }
