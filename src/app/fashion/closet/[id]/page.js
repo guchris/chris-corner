@@ -16,32 +16,32 @@ const ClosetItemPage = ({ params }) => {
             <div className="page-content">
                 <h2 className="directory">Fashion / Closet / {item.name}</h2>
                 <section>
-                    <div className="item-details">
-                        <div className="item-details-images">
+                    <div className="item">
+                        <div className="item-images">
                             <img src={item.image1} alt="Clothing Item Image 1"/>
                             <img src={item.image2} alt="Clothing Item Image 2"/>
                         </div>
-                        <div className="item-details-text">
-                            <div className="item-details-main">
+                        <div className="item-details">
+                            <div className="section-skinny">
                                 <div className="item-details-brand">{item.brand}</div>
                                 <div className="item-details-name">{item.name}</div>
-                                <div className="item-details-description">{item.description}</div>
                             </div>
-                            <div className="item-details-meta">
-                                <div className="item-details-attribute"><b>Size</b>: {item.size}</div>
-                                <div className="item-details-attribute"><b>Material</b>: {item.material}</div>
-                                <div className="item-details-attribute"><b>Color</b>: {item.color}</div>
-                                <div className="item-details-attribute"><b>Made In</b>: {item.made}</div>
-                                <div className="item-details-attribute"><b>Category</b>: {item.category}</div>
+                            <div className="body-lower">{item.description}</div>
+                            <div className="section-skinny">
+                                <div className="body-upper"><b>Size</b>: {item.size}</div>
+                                <div className="body-upper"><b>Material</b>: {item.material}</div>
+                                <div className="body-upper"><b>Color</b>: {item.color}</div>
+                                <div className="body-upper"><b>Made In</b>: {item.made}</div>
+                                <div className="body-upper"><b>Category</b>: {item.category}</div>
                             </div>
-                            <div className="item-details-meta">
-                                <div className="item-details-attribute"><b>Condition</b>: {item.condition}</div>
-                                <div className="item-details-attribute"><b>Carbon Emissions</b>: {item.carbon}</div>
-                                <div className="item-details-attribute"><b>Water Emissions</b>: {item.water}</div>
+                            <div className="section-skinny">
+                                <div className="body-upper"><b>Condition</b>: {item.condition}</div>
+                                <div className="body-upper"><b>Carbon Emissions</b>: {item.carbon}</div>
+                                <div className="body-upper"><b>Water Emissions</b>: {item.water}</div>
                             </div>
-                            <div className="item-details-meta">
-                                <div className="item-details-attribute"><b>Purchase Cost</b>: {item.cost}</div>
-                                <div className="item-details-attribute"><b>Purchase Date</b>: {item.date}</div>
+                            <div className="section-skinny">
+                                <div className="body-upper"><b>Purchase Cost</b>: {item.cost}</div>
+                                <div className="body-upper"><b>Purchase Date</b>: {item.date}</div>
                             </div>
                         </div>
                     </div>
@@ -50,25 +50,5 @@ const ClosetItemPage = ({ params }) => {
         </>
     )
 }
-
-// export async function getStaticPaths() {
-//     const paths = closetData.map((item) => ({
-//         params: { id: item.id.toString() },
-//     }));
-
-//     return { paths, fallback: false };
-// }
-
-// export async function getStaticProps({ params }) {
-//     const itemId = parseInt(params.id);
-//     const item = closetData.find((item) => item.id === itemId);
-
-//     return {
-//         props: {
-//             item,
-//         },
-//     };
-// }
-
 
 export default ClosetItemPage;

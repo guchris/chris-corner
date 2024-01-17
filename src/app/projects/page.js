@@ -15,7 +15,9 @@ const ProjectsPage = () => {
                 <h2 className="directory">Projects</h2>
 
                 <p className="intro">
-                    Ambitious.
+                    Live. Laugh. Love. Projects.<br/>
+                    Page content coming soon.<br/>
+                    Check out Brews & Bites in the meantime.
                 </p>
             </div>
         </>

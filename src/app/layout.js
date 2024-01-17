@@ -48,6 +48,7 @@ export default function RootLayout({ children }) {
 									<a href="mailto:cleegu@gmail.com" className="tab-link" target="_blank">EMAIL</a>
 									<a href="https://www.linkedin.com/in/christopherlgu/" className="tab-link" target="_blank">LINKEDIN</a>
 									<a href="https://www.instagram.com/gu_christopher/" className="tab-link" target="_blank">INSTAGRAM</a>
+									<a href="https://www.tiktok.com/@gu_christopher" className="tab-link" target="_blank">TIKTOK</a>
 								</section>
 
 								{/* <!-- Hero Image Caption --> */}

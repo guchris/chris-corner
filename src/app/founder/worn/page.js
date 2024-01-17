@@ -15,8 +15,8 @@ const WornPage = () => {
             <div className="page-content">
                 <h2 className="directory">Founder / Worn</h2>
 
-                <p className="intro">Your digital closet.</p>
-                <Link href="https://wearworn.com" className="link">Worn Website (UNDER CONSTRUCTION)</Link>
+                <p className="intro">Your digital closet. Landing page still under construction.</p>
+                <Link href="https://wearworn.com" className="body-lower">Worn Website</Link>
             </div>
         </>
     );

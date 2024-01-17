@@ -13,6 +13,9 @@ const BlogPage = () => {
             </Head>
             <div className="page-content">
                 <h2 className="directory">Blog</h2>
+                <p className="intro">
+                    Blog content coming soon.
+                </p>
             </div>
         </>
     );

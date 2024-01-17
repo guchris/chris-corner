@@ -13,6 +13,9 @@ const OutfitsPage = () => {
             </Head>
             <div className='page-content'>
                 <h2 className="directory">Fashion / Outfits</h2>
+                <p className="intro">
+                    Dope outfits coming soon.
+                </p>
             </div>
         </>
     );

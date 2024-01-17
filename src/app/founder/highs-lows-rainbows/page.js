@@ -14,9 +14,8 @@ const HighsLowsRainbowsPage = () => {
             </Head>
             <div className="page-content">
                 <h2 className="directory">Founder / Highs Lows Rainbows</h2>
-
-                <p className="intro">An artistic expression of our love of card making and giving.</p>
-                <Link href="https://highslowsandrainbows.etsy.com/" className="link">Highs Lows & Rainbows Etsy Storefront</Link>
+                <p className="intro">An aritistic outlet for card making and giving - with my partner in crime, Anjuli.</p>
+                <Link href="https://highslowsandrainbows.etsy.com/" className="body-lower">Highs Lows & Rainbows Etsy Storefront</Link>
             </div>
         </>
     );

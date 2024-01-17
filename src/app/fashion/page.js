@@ -15,7 +15,9 @@ const FashionPage = () => {
                 <h2 className="directory">Fashion</h2>
 
                 <p className="intro">
-                    Fashion and sustainability.
+                    Fashion and sustainability.<br/>
+                    Additional content in this page coming soon.<br/>
+                    Check out Closet for the moment.<br/>
                 </p>
             </div>
         </>

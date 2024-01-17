@@ -16,13 +16,11 @@ const AboutMePage = () => {
 
                 <img className="main-image" src="about-me/headshot.jpg"/>
 
-                <p className="paragraph-text">
-                    Hi there - my name is Chris (he/him)!<br/>
-                    I'm all about staying active, embracing spontaneity, and finding joy in the little things.<br/>
-                    Living my best pedestrian life and fully immersed in my self-love era.<br/><br/>
-                    Here are a few mottos I'm living by:
+                <p className="intro">
+                    Hi there - my name is Chris (he/him)! I'm all about staying active, embracing spontaneity, and finding joy in the little things.<br/>
+                    Living my best pedestrian life and fully immersed in my self-love era. Below are a few mottos I'm living by.<br/>
                 </p>
-                <ul className='small-bullets'>
+                <ul className="bullets">
                     <li>Happiness lives in the present</li>
                     <li>Be brave and bold for future you</li>
                     <li>How lucky we are to be alive right now</li>

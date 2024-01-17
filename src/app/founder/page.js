@@ -15,7 +15,9 @@ const FounderPage = () => {
                 <h2 className="directory">Founder</h2>
 
                 <p className="intro">
-                    Ambitious.
+                    Fulfilling my curiosity and being ambitious.<br/>
+                    Page content coming soon.<br/>
+                    Check out sub-tabs in the meantime.
                 </p>
             </div>
         </>

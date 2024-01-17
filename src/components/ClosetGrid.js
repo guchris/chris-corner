@@ -9,8 +9,10 @@ const ClosetGrid = ({ items }) => {
                 <Link key={item.id} href={`/fashion/closet/${item.id}`} className="dynamic-page-link">
                     <div key={index} className="closet-item">
                         <img src={"closet/" + item.image1} alt={item.name} />
-                        <p className="item-brand">{item.brand}</p>
-                        <p className="item-name">{item.name}</p>
+                        <div className="section-skinny">
+                            <p className="caption-upper-bold">{item.brand}</p>
+                            <p className="caption-upper">{item.name}</p>
+                        </div>
                     </div>
                 </Link>
             ))}

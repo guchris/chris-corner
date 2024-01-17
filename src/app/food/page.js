@@ -15,7 +15,9 @@ const FoodPage = () => {
                 <h2 className="directory">Food</h2>
 
                 <p className="intro">
-                    Food is one of the joys in life. Here is a collection of culinary experiences.
+                    Food is one of the joys in life. Here is a collection of culinary experiences.<br/>
+                    Page content coming soon.<br/>
+                    Check out Sunday Suppers in the meantime.
                 </p>
             </div>
         </>

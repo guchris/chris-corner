@@ -13,6 +13,9 @@ const RecipiesPage = () => {
             </Head>
             <div className="page-content">
                 <h2 className="directory">Food / Recipies</h2>
+                <p className="intro">
+                    Delicious, asian-fusion recipies coming soon.
+                </p>
             </div>
         </>
     );
