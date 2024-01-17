@@ -169,7 +169,7 @@ header {
 }
 
 /* RESPONSIVE STYLES */
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
   .blocker {
     display: block;
     position: absolute;
