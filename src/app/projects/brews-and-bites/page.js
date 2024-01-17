@@ -12,7 +12,7 @@ const BrewsAndBitesPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Projects / Brews & Bites</h2>
+                <h2 className="directory">Projects | Brews & Bites</h2>
 
                 <p className="intro">
                     Building community is important to me. Maintaining and deepning friendships is too.

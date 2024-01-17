@@ -12,7 +12,7 @@ const GoalsPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className='page-content'>
-                <h2 className="directory">About Me / Goals</h2>
+                <h2 className="directory">About Me | Goals</h2>
     
                 <p className="intro">
                     In my approach to setting and achieving goals, I prioritize consistency and acknowledge the possibility of failure.

@@ -12,7 +12,7 @@ const EducationPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">About Me / Education</h2>
+                <h2 className="directory">About Me | Education</h2>
 
                 <h4 className="section-title">Missouri University of Science & Technology (S&T)</h4>
                 <section className="section">

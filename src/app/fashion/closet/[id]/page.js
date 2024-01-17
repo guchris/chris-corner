@@ -14,7 +14,7 @@ const ClosetItemPage = ({ params }) => {
                 <meta name="description" content={item.description}/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Fashion / Closet / {item.name}</h2>
+                <h2 className="directory">Fashion | Closet | {item.name}</h2>
                 <section>
                     <div className="item">
                         <div className="item-images">

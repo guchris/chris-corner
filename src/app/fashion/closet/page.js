@@ -15,7 +15,7 @@ const ClosetPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className='page-content'>
-                <h2 className="directory">Fashion / Closet</h2>
+                <h2 className="directory">Fashion | Closet</h2>
                 <ClosetGrid items={closetData} />
             </div>
         </>

@@ -12,7 +12,7 @@ const CareerPage = () => {
                 <meta name="details" content="Lorem Ipsum"/>
             </Head>
             <div className='page-content'>
-                <h2 className="directory">About Me / Career</h2>
+                <h2 className="directory">About Me | Career</h2>
 
                 <p className="intro">
                     Product manager by day, entrepreneur by night, and a connoisseur of good memes always.

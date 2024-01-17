@@ -1,6 +1,9 @@
 import React from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import RankingSection from '@/components/RankingSection';
+
+import suppersData from './suppers-data.json';
 
 const SundaySuppersPage = () => {
     
@@ -13,7 +16,7 @@ const SundaySuppersPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className='page-content'>
-                <h2 className="directory">Food / Sunday Suppers</h2>
+                <h2 className="directory">Food | Sunday Suppers</h2>
 
                 <p className="intro">
                     Sunday Suppers is my cherished weekly tradition with my best friend Anjuli. It's our way of blending the joy of cooking with genuine connection every weekend.
@@ -44,40 +47,7 @@ const SundaySuppersPage = () => {
                 </div>
 
                 <h4 className="section-title">Current Rankings</h4>
-                <div className="section-skinny">
-                    <div className="row-skinny">
-                        <p className="body-lower">39.5</p>
-                        <Link href="sunday-suppers/sweet-potato-balls" className="body-upper">Sweet Potato Balls</Link>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="body-lower">39.0</p>
-                        <a href="#" className="body-upper">Squash Gnocchi Soup</a>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="body-lower">XX</p>
-                        <a href="#" className="body-upper">Crispy Gochujang Tofu</a>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="body-lower">XX</p>
-                        <a href="#" className="body-upper">Scissor Cut Noodles</a>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="body-lower">XX</p>
-                        <a href="#" className="body-upper">Fried Spring Rolls</a>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="body-lower">XX</p>
-                        <a href="#" className="body-upper">Thiccc Potato Noodles</a>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="body-lower">XX</p>
-                        <a href="#" className="body-upper">Cabbage Dumplings</a>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="body-lower">XX</p>
-                        <a href="#" className="body-upper">Cauliflower Steaks</a>
-                    </div>
-                </div>
+                <RankingSection suppers={suppersData} />
             </div>
         </>
     );

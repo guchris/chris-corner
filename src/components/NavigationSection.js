@@ -81,6 +81,20 @@ const navigationTabs = [
                 href: "/projects/brews-and-bites"
             }
         ]
+    },
+    {
+        name: "Travel",
+        href: "/travel",
+        subTabs: [
+            {
+                name: "Checklist",
+                href: "/travel/checklist"
+            },
+            {
+                name: "Guides",
+                href: "/travel/guides"
+            }
+        ]
     }
 ]
 

@@ -13,9 +13,9 @@ const HighsLowsRainbowsPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Founder / Highs Lows Rainbows</h2>
+                <h2 className="directory">Founder | Highs Lows Rainbows</h2>
                 <p className="intro">An aritistic outlet for card making and giving - with my partner in crime, Anjuli.</p>
-                <Link href="https://highslowsandrainbows.etsy.com/" className="body-lower">Highs Lows & Rainbows Etsy Storefront</Link>
+                <Link href="https://highslowsandrainbows.etsy.com/" className="body-lower">Highs Lows Rainbows Etsy Storefront</Link>
             </div>
         </>
     );

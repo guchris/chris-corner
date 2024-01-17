@@ -13,7 +13,7 @@ const WornPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Founder / Worn</h2>
+                <h2 className="directory">Founder | Worn</h2>
 
                 <p className="intro">Your digital closet. Landing page still under construction.</p>
                 <Link href="https://wearworn.com" className="body-lower">Worn Website</Link>
