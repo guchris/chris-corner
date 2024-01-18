@@ -26,7 +26,7 @@ const SupperPage = ({ params }) => {
                 <h4 className="section-title">The Story</h4>
                 <div className="section-gap">
                     <p className="caption-upper">{supper.date}</p>
-                    <p className="body-lower">{supper.story}</p>
+                    <div className="body-lower" dangerouslySetInnerHTML={{ __html: supper.story }} />
                 </div>
 
                 <div className="section">
