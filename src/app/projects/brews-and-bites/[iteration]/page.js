@@ -23,9 +23,10 @@ const BrewPage = ({ params }) => {
                     </div>
                 </div>
 
-                <h4 className="section-title">The Story</h4>
+                <h4 className="section-title">The Deets</h4>
                 <div className="section-gap">
                     <p className="caption-upper">{brew.date}</p>
+                    <p className="body-lower">{brew.title}</p>
                     <p className="body-lower">{brew.story}</p>
                 </div>
 

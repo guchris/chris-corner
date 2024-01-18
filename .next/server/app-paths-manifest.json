@@ -1,7 +1,8 @@
 {
   "/page": "app/page.js",
-  "/founder/highs-lows-rainbows/page": "app/founder/highs-lows-rainbows/page.js",
+  "/about-me/education/page": "app/about-me/education/page.js",
+  "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
+  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
   "/founder/stellar-effects/page": "app/founder/stellar-effects/page.js",
-  "/about-me/career/page": "app/about-me/career/page.js",
-  "/about-me/education/page": "app/about-me/education/page.js"
+  "/founder/highs-lows-rainbows/page": "app/founder/highs-lows-rainbows/page.js"
 }

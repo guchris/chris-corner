@@ -5,6 +5,7 @@
         "menuFront": "v0-front.png",
         "menuBack": "v0-back.png",
         "date": "December 9, 2023",
+        "title": "Breaking in my new cofee gear! Coffee, banana bread, good vibes - what more could you want?!",
         "story": "Nullam sit amet pharetra augue. Fusce venenatis nisl eget luctus convallis. Nunc massa tellus, facilisis aliquet pulvinar at, interdum luctus ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras egestas, tellus ornare dapibus pharetra, dolor orci placerat mi, vel luctus lacus sem finibus elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur at laoreet lectus. Praesent finibus interdum sem nec scelerisque. Etiam et ultrices massa.",
         "guests": [
             {
@@ -47,6 +48,7 @@
         "menuFront": "v1-front.png",
         "menuBack": "v1-back.png",
         "date": "January 6, 2024",
+        "title": "The Brews & Bites saga continues... Stop by and enjoy some drinks, snacks, and and a whole latte joy!",
         "story": "Nullam sit amet pharetra augue. Fusce venenatis nisl eget luctus convallis. Nunc massa tellus, facilisis aliquet pulvinar at, interdum luctus ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras egestas, tellus ornare dapibus pharetra, dolor orci placerat mi, vel luctus lacus sem finibus elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur at laoreet lectus. Praesent finibus interdum sem nec scelerisque. Etiam et ultrices massa.",
         "guests": [
             {
@@ -66,6 +68,10 @@
                 "order": "Hot Cocoa"
             },
             {
+                "name": "Jack Liu",
+                "order": "(Iced) Latte w/ Oat Milk"
+            },
+            {
                 "name": "Lesley Lin",
                 "order": "(Hot) Matcha Latte w/ Almond Milk, Vanilla Syrup"
             },
@@ -74,12 +80,12 @@
                 "order": "(Iced) Matcha Latte w/ Oat Milk"
             },
             {
-                "name": "Sam French",
-                "order": "(Iced) Latte w/ Oat Milk"
-            },
-            {
                 "name": "Raine Tenerelli",
                 "order": "(Iced) Latte w/ Oat Milk, Vanilla Syrup"
+            },
+            {
+                "name": "Sam French",
+                "order": "(Iced) Latte w/ Oat Milk"
             },
             {
                 "name": "Steven Lara",
@@ -97,10 +103,15 @@
         "menuFront": "v2-front.png",
         "menuBack": "v2-back.png",
         "date": "January 27, 2024",
+        "title": "Espresso yourself at Brews & Bites v2! Sip, chat, and munch on happiness. See you for a cup full of smiles!",
         "story": "Nullam sit amet pharetra augue. Fusce venenatis nisl eget luctus convallis. Nunc massa tellus, facilisis aliquet pulvinar at, interdum luctus ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras egestas, tellus ornare dapibus pharetra, dolor orci placerat mi, vel luctus lacus sem finibus elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur at laoreet lectus. Praesent finibus interdum sem nec scelerisque. Etiam et ultrices massa.",
         "guests": [
             {
                 "name": "Anjuli Goring",
+                "order": "TBD"
+            },
+            {
+                "name": "Annika Dasani",
                 "order": "TBD"
             },
             {
@@ -120,15 +131,19 @@
                 "order": "TBD"
             },
             {
-                "name": "Sam French",
-                "order": "TBD"
-            },
-            {
                 "name": "Raine Tenerelli",
                 "order": "TBD"
             },
             {
+                "name": "Sam French",
+                "order": "TBD"
+            },
+            {
                 "name": "Steven Lara",
+                "order": "TBD"
+            },
+            {
+                "name": "Theo Tran",
                 "order": "TBD"
             },
             {
