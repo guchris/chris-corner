@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Word Search",
+        "collection": "Word Game",
+        "type": "Birthday",
+        "image": "word-search.png",
+        "url": "https://www.etsy.com/listing/1448196273/word-search-birthday-card-word-game-word"
+    },
+    {
+        "id": 2,
+        "name": "Wordle",
+        "collection": "Word Game",
+        "type": "Birthday",
+        "image": "wordle.png",
+        "url": "https://www.etsy.com/listing/1433988880/wordle-birthday-card-word-game-wordle"
+    },
+    {
+        "id": 3,
+        "name": "Crossword",
+        "collection": "Word Game",
+        "type": "Birthday",
+        "image": "crossword.png",
+        "url": "https://www.etsy.com/listing/1433991114/crossword-birthday-card-word-game"
+    },
+    {
+        "id": 4,
+        "name": "Scrabble",
+        "collection": "Word Game",
+        "type": "Birthday",
+        "image": "scrabble.png",
+        "url": "https://www.etsy.com/listing/1448194229/scrabble-birthday-card-word-game"
+    },
+    {
+        "id": 5,
+        "name": "i love you a little smore every day",
+        "collection": "Pun",
+        "type": "Friendship, Love",
+        "image": "i-love-you-a-little-smore-every-day.png",
+        "url": "https://www.etsy.com/listing/957376466/i-love-you-a-little-smore-every-day"
+    },
+    {
+        "id": 6,
+        "name": "you are udderly fabulous",
+        "collection": "Pun",
+        "type": "Friendship, Love",
+        "image": "you-are-udderly-fabulous.png",
+        "url": "https://www.etsy.com/listing/957369584/you-are-udderly-fabulous-friendship-love"
+    },
+    {
+        "id": 7,
+        "name": "herd it's your birthday",
+        "collection": "Pun",
+        "type": "Birthday",
+        "image": "herd-its-your-birthday.png",
+        "url": "https://www.etsy.com/listing/957380600/herd-its-your-birthday-birthday-llama"
+    },
+    {
+        "id": 8,
+        "name": "happy birthday to my best-tea",
+        "collection": "Pun",
+        "type": "Birthday",
+        "image": "happy-birthday-to-my-best-tea.png",
+        "url": "https://www.etsy.com/listing/971361227/happy-birthday-to-my-best-tea-birthday"
+    },
+    {
+        "id": 9,
+        "name": "orange you glad it's your birthday",
+        "collection": "Pun",
+        "type": "Birthday",
+        "image": "orange-you-glad-its-your-birthday.png",
+        "url": "https://www.etsy.com/listing/957386234/orange-you-glad-its-your-birthday"
+    },
+    {
+        "id": 10,
+        "name": "you're one in a melon",
+        "collection": "Pun",
+        "type": "Friendship, Love",
+        "image": "youre-one-in-a-melon.png",
+        "url": "https://www.etsy.com/listing/971357297/youre-one-in-a-melon-friendship-love-pun"
+    },
+    {
+        "id": 11,
+        "name": "there's no otter like you",
+        "collection": "Pun",
+        "type": "Friendship, Love",
+        "image": "theres-no-otter-like-you.png",
+        "url": "https://www.etsy.com/listing/971354671/theres-no-otter-like-you-friendship-love"
+    },
+    {
+        "id": 12,
+        "name": "sending you hedge hugs",
+        "collection": "Pun",
+        "type": "Well Wishes",
+        "image": "sending-you-hedge-hugs.png",
+        "url": "https://www.etsy.com/listing/971344797/sending-you-hedge-hugs-well-wishes"
+    },
+    {
+        "id": 13,
+        "name": "hope you're feline better soon",
+        "collection": "Pun",
+        "type": "Get Well",
+        "image": "hope-youre-feline-better-soon.png",
+        "url": "https://www.etsy.com/listing/957376360/hope-youre-feline-better-soon-get-well"
+    },
+    {
+        "id": 14,
+        "name": "have a whaley great day",
+        "collection": "Pun",
+        "type": "Well Wishes",
+        "image": "have-a-whaley-great-day.png",
+        "url": "https://www.etsy.com/listing/957372662/have-a-whaley-great-day-well-wishes-pun"
+    }
+]

@@ -15,8 +15,10 @@ const StellarEffectsPage = () => {
             <div className="page-content">
                 <h2 className="directory">Founder | Stellar Effects</h2>
 
-                <p className="intro">Fun project turned side hustle turned LLC.</p>
-                <Link href="https://stell-ar.com" className="body-lower">Stellar Effects Website</Link>
+                <p className="intro">
+                    Fun project turned side hustle turned LLC.<br/>
+                    <Link href="https://stell-ar.com" className="body-lower">Stellar Effects Website</Link>
+                </p>
             </div>
         </>
     );

@@ -136,27 +136,5 @@
                 "order": "TBD"
             }
         ]
-    },
-    {
-        "id": 3,
-        "iteration": "v3",
-        "menuFront": "v3-front.png",
-        "menuBack": "v3-back.png",
-        "date": "March 9, 2024",
-        "story": "Nullam sit amet pharetra augue. Fusce venenatis nisl eget luctus convallis. Nunc massa tellus, facilisis aliquet pulvinar at, interdum luctus ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras egestas, tellus ornare dapibus pharetra, dolor orci placerat mi, vel luctus lacus sem finibus elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur at laoreet lectus. Praesent finibus interdum sem nec scelerisque. Etiam et ultrices massa.",
-        "guests": [
-            {
-                "name": "TBD",
-                "order": "TBD"
-            },
-            {
-                "name": "TBD",
-                "order": "TBD"
-            },
-            {
-                "name": "TBD",
-                "order": "TBD"
-            }
-        ]
     }
 ]

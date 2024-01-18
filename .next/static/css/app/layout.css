@@ -472,8 +472,22 @@ header {
 
 
 
-/* FOOD / SUNDAY SUPPERS */
+/* FOUNDER / HIGHS LOWS RAINBOWS */
+.card-grid {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 40px 10px;
+  justify-content: flex-start;
+}
 
+.card-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  cursor: pointer;
+  max-width: 200px;
+}
 
 
 
