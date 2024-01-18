@@ -1,5 +1,8 @@
 import React from 'react';
 import Head from 'next/head';
+import MenuGrid from '@/components/MenuGrid';
+
+import brewsData from './brews-data.json';
 
 const BrewsAndBitesPage = () => {
     
@@ -24,25 +27,7 @@ const BrewsAndBitesPage = () => {
 
                 <section>
                     <h4 className="section-title">Iterations</h4>
-                    <div className="menu-grid">
-                        <img src="brews-and-bites/temp.png" alt="Temp Menu"/>
-                        <div className="menu-wrapper">
-                            <img src="brews-and-bites/v3-front.png" alt="Brews & Bites v3 Menu - Front"/>
-                            <img className="hover-image" src="brews-and-bites/v3-back.png" alt="Brews & Bites v3 Menu - Back"/>
-                        </div>
-                        <div className="menu-wrapper">
-                            <img src="brews-and-bites/v2-front.png" alt="Brews & Bites v2 Menu - Front"/>
-                            <img className="hover-image" src="brews-and-bites/v2-back.png" alt="Brews & Bites v2 Menu - Back"/>
-                        </div>
-                        <div className="menu-wrapper">
-                            <img src="brews-and-bites/v1-front.png" alt="Brews & Bites v1 Menu - Front"/>
-                            <img className="hover-image" src="brews-and-bites/v1-back.png" alt="Brews & Bites v1 Menu - Back"/>
-                        </div>
-                        <div className="menu-wrapper">
-                            <img src="brews-and-bites/v0-front.png" alt="Brews & Bites v0 Menu - Front"/>
-                            <img className="hover-image" src="brews-and-bites/v0-back.png" alt="Brews & Bites v0 Menu - Back"/>
-                        </div>
-                    </div>
+                    <MenuGrid brews={brewsData} />
                 </section>
             </div>
         </>

@@ -1,0 +1,162 @@
+[
+    {
+        "id": 0,
+        "iteration": "v0",
+        "menuFront": "v0-front.png",
+        "menuBack": "v0-back.png",
+        "date": "December 9, 2023",
+        "story": "Nullam sit amet pharetra augue. Fusce venenatis nisl eget luctus convallis. Nunc massa tellus, facilisis aliquet pulvinar at, interdum luctus ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras egestas, tellus ornare dapibus pharetra, dolor orci placerat mi, vel luctus lacus sem finibus elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur at laoreet lectus. Praesent finibus interdum sem nec scelerisque. Etiam et ultrices massa.",
+        "guests": [
+            {
+                "name": "Anjuli Goring",
+                "order": "(Hot) Cappuccino w/ 2% Milk"
+            },
+            {
+                "name": "Asher Johnson Hogan",
+                "order": "(Hot) Latte w/ Oat Milk"
+            },
+            {
+                "name": "Clay McGinnis",
+                "order": "Hot Cocoa"
+            },
+            {
+                "name": "Mags Castro",
+                "order": "(Iced) Latte w/ Oat Milk"
+            },
+            {
+                "name": "Sam French",
+                "order": "Affogato"
+            },
+            {
+                "name": "Steven Lara",
+                "order": "(Hot) Latte w/ Almond Milk"
+            },
+            {
+                "name": "Theo Trung",
+                "order": "(Iced) Matcha Latte w/ Almond Milk"
+            },
+            {
+                "name": "Tommy Dong",
+                "order": "(Iced) Matcha Latte w/ Oat Milk"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "iteration": "v1",
+        "menuFront": "v1-front.png",
+        "menuBack": "v1-back.png",
+        "date": "January 6, 2024",
+        "story": "Nullam sit amet pharetra augue. Fusce venenatis nisl eget luctus convallis. Nunc massa tellus, facilisis aliquet pulvinar at, interdum luctus ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras egestas, tellus ornare dapibus pharetra, dolor orci placerat mi, vel luctus lacus sem finibus elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur at laoreet lectus. Praesent finibus interdum sem nec scelerisque. Etiam et ultrices massa.",
+        "guests": [
+            {
+                "name": "Anjuli Goring",
+                "order": "(Hot) Latte w/ Oat Milk, Hazelnut Syrup"
+            },
+            {
+                "name": "Asher Johnson Hogan",
+                "order": "(Iced) Latte w/ Oat Milk"
+            },
+            {
+                "name": "Christine Lam",
+                "order": "(Iced) Matcha Latte w/ Oat Milk"
+            },
+            {
+                "name": "Clay McGinnis",
+                "order": "Hot Cocoa"
+            },
+            {
+                "name": "Lesley Lin",
+                "order": "(Hot) Matcha Latte w/ Almond Milk, Vanilla Syrup"
+            },
+            {
+                "name": "Mags Castro",
+                "order": "(Iced) Matcha Latte w/ Oat Milk"
+            },
+            {
+                "name": "Sam French",
+                "order": "(Iced) Latte w/ Oat Milk"
+            },
+            {
+                "name": "Raine Tenerelli",
+                "order": "(Iced) Latte w/ Oat Milk, Vanilla Syrup"
+            },
+            {
+                "name": "Steven Lara",
+                "order": "Water"
+            },
+            {
+                "name": "Tommy Dong",
+                "order": "(Iced) Matcha Latte w/ 2% Milk"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "iteration": "v2",
+        "menuFront": "v2-front.png",
+        "menuBack": "v2-back.png",
+        "date": "January 27, 2024",
+        "story": "Nullam sit amet pharetra augue. Fusce venenatis nisl eget luctus convallis. Nunc massa tellus, facilisis aliquet pulvinar at, interdum luctus ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras egestas, tellus ornare dapibus pharetra, dolor orci placerat mi, vel luctus lacus sem finibus elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur at laoreet lectus. Praesent finibus interdum sem nec scelerisque. Etiam et ultrices massa.",
+        "guests": [
+            {
+                "name": "Anjuli Goring",
+                "order": "TBD"
+            },
+            {
+                "name": "Asher Johnson Hogan",
+                "order": "TBD"
+            },
+            {
+                "name": "Christine Lam",
+                "order": "TBD"
+            },
+            {
+                "name": "Clay McGinnis",
+                "order": "TBD"
+            },
+            {
+                "name": "Mags Castro",
+                "order": "TBD"
+            },
+            {
+                "name": "Sam French",
+                "order": "TBD"
+            },
+            {
+                "name": "Raine Tenerelli",
+                "order": "TBD"
+            },
+            {
+                "name": "Steven Lara",
+                "order": "TBD"
+            },
+            {
+                "name": "Tommy Dong",
+                "order": "TBD"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "iteration": "v3",
+        "menuFront": "v3-front.png",
+        "menuBack": "v3-back.png",
+        "date": "March 9, 2024",
+        "story": "Nullam sit amet pharetra augue. Fusce venenatis nisl eget luctus convallis. Nunc massa tellus, facilisis aliquet pulvinar at, interdum luctus ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras egestas, tellus ornare dapibus pharetra, dolor orci placerat mi, vel luctus lacus sem finibus elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur at laoreet lectus. Praesent finibus interdum sem nec scelerisque. Etiam et ultrices massa.",
+        "guests": [
+            {
+                "name": "TBD",
+                "order": "TBD"
+            },
+            {
+                "name": "TBD",
+                "order": "TBD"
+            },
+            {
+                "name": "TBD",
+                "order": "TBD"
+            }
+        ]
+    }
+]

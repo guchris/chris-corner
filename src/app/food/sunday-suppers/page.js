@@ -1,6 +1,5 @@
 import React from 'react';
 import Head from 'next/head';
-import Link from 'next/link';
 import RankingSection from '@/components/RankingSection';
 
 import suppersData from './suppers-data.json';

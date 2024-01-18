@@ -27,7 +27,7 @@ const ChecklistPage = () => {
                         </div>
                         <div className="row-skinny">
                             <p className="body-upper">[02/2024]</p>
-                            <p className="body-upper">Guatemala, Guatemala</p>
+                            <p className="body-upper">Antigua, Guatemala</p>
                         </div>
                         <div className="row-skinny">
                             <p className="body-upper">[02/2024]</p>
