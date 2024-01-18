@@ -63,6 +63,7 @@ export default function RootLayout({ children }) {
 							</aside>
 							{children}
 							<Analytics />
+							<SpeedInsights/>
 						</div>
 					</main>
 				</body>
