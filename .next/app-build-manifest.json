@@ -116,10 +116,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/founder/stellar-effects/page.js"
     ],
-    "/not-found": [
+    "/founder/worn/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/not-found.js"
+      "static/chunks/app/founder/worn/page.js"
     ]
   }
 }
