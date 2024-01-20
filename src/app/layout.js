@@ -3,6 +3,7 @@ import './globals.css'
 import Link from 'next/link';
 import DateSection from '@/components/DateSection'
 import Navigation from '@/components/NavigationSection'
+import MobileMenu from '@/components/MobileMenu';
 import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Analytics } from '@vercel/analytics/react';
 
@@ -28,20 +29,21 @@ export default function RootLayout({ children }) {
 						{/* <!-- Banner --> */}
 						<header>
 							<p>WELCOME TO MY CORNER OF THE INTERNET.&nbsp; &nbsp; &nbsp;SITE UNDER CONSTRUCTION.</p>
+							<div className="menu-icon" id="menu-icon">&#9776;</div>
 						</header>
 
 						<div className="container">
 							{/* <!-- Navigation Sidebar --> */}
-							<aside className="left-column">
+							<aside className="left-column active">
 
 								{/* <!-- LOGO --> */}
 								<Link href="/" className="logo">CHRIS' CORNER</Link>
 
 								{/* <!-- Current Datetime --> */}
-								<DateSection/>
+								<DateSection />
 
 								{/* <!-- Navigation Content pt. 1 --> */}
-								<Navigation/>
+								<Navigation />
 
 								{/* <!-- Links --> */}
 								<section className="tab-links">
@@ -66,6 +68,7 @@ export default function RootLayout({ children }) {
 							<SpeedInsights/>
 						</div>
 					</main>
+					<MobileMenu />
 				</body>
 			</html>
 		</>
