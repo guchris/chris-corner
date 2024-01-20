@@ -206,6 +206,7 @@ header {
     background-color: white;
     z-index: 1000;
     display: none;
+    border-bottom: 1px solid #000;
   }
 
   .left-column.active {
