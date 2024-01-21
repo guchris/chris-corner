@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const RecipiesPage = () => {
     
@@ -12,7 +13,9 @@ const RecipiesPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Food | Recipies</h2>
+                <h2 className="directory">
+                    <Link href="/food" className="link">Food</Link> | Recipies
+                </h2>
                 <p className="intro">
                     Delicious, asian-fusion recipies coming soon.
                 </p>

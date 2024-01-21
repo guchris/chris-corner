@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 import brewsData from '../brews-data.json';
 
@@ -14,7 +15,9 @@ const BrewPage = ({ params }) => {
                 <meta name="description" content="Lorem ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Projects | Brews & Bites | {brew.iteration}</h2>
+                <h2 className="directory">
+                    <Link href="/projects" className="link">Projects</Link> | <Link href="/projects/brews-and-bites" className="link">Brews & Bites</Link> | {brew.iteration}
+                </h2>
 
                 <div className="section">
                     <div className="row-skinny">

@@ -9,7 +9,7 @@ const MenuGrid = ({ brews }) => {
     return (
         <div className="menu-grid">
             {sortedBrews.map((brew, index) => (
-                <Link key={brew.id} href={`/projects/brews-and-bites/${brew.iteration}`} className="dynamic-page-link">
+                <Link key={brew.id} href={`/projects/brews-and-bites/${brew.iteration}`} className="link">
                     <div key={index} className="menu-wrapper">
                         <img src={"brews-and-bites/" + brew.menuFront} alt="Brews & Bites Menu - Front"/>
                         <img className="hover-image" src={"brews-and-bites/" + brew.menuBack} alt="Brews & Bites Menu - Back"/>

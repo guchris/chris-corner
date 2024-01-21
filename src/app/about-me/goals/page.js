@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const GoalsPage = () => {
     
@@ -12,7 +13,9 @@ const GoalsPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className='page-content'>
-                <h2 className="directory">About Me | Goals</h2>
+                <h2 className="directory">
+                    <Link href="/about-me" className="link">About Me</Link> | Goals
+                </h2>
     
                 <p className="intro">
                     In my approach to setting and achieving goals, I prioritize consistency and acknowledge the possibility of failure.
@@ -214,7 +217,7 @@ const GoalsPage = () => {
                             <div className="checkboxes">
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
@@ -235,7 +238,7 @@ const GoalsPage = () => {
                             <div className="checkboxes">
                                 <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
@@ -253,7 +256,7 @@ const GoalsPage = () => {
                             <div className="checkboxes">
                                 <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
@@ -271,7 +274,7 @@ const GoalsPage = () => {
                             <div className="checkboxes">
                                 <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>

@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 import RankingSection from '@/components/RankingSection';
 
 import suppersData from './suppers-data.json';
@@ -15,7 +16,9 @@ const SundaySuppersPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className='page-content'>
-                <h2 className="directory">Food | Sunday Suppers</h2>
+                <h2 className="directory">
+                    <Link href="/food" className="link">Food</Link> | Sunday Suppers
+                </h2>
 
                 <p className="intro">
                     Sunday Suppers is my cherished weekly tradition with my best friend Anjuli. It's our way of blending the joy of cooking with genuine connection every weekend.

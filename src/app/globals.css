@@ -381,18 +381,19 @@ header {
   max-width: 200px;
 }
 
-
-
-
-
-/* REFACTOR */
-/* REFACTOR */
-/* REFACTOR */
-
-.dynamic-page-link {
+.link {
   color: #000;
   text-decoration: none;
 }
+
+
+
+
+
+/* REFACTOR */
+/* REFACTOR */
+/* REFACTOR */
+
 .ranking-category {
   font-size: 12px;
   text-transform: uppercase;

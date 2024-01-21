@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 import suppersData from '../suppers-data.json';
 
@@ -14,7 +15,9 @@ const SupperPage = ({ params }) => {
                 <meta name="description" content="Lorem ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Food | Sunday Suppers | {supper.name}</h2>
+                <h2 className="directory">
+                    <Link href="/food" className="link">Food</Link> | <Link href="/food/sunday-suppers" className="link">Sunday Suppers</Link> | {supper.name}
+                </h2>
 
                 <div className="section">
                     <div className="row-skinny">

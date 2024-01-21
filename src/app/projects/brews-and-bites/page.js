@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 import MenuGrid from '@/components/MenuGrid';
 
 import brewsData from './brews-data.json';
@@ -15,7 +16,9 @@ const BrewsAndBitesPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Projects | Brews & Bites</h2>
+                <h2 className="directory">
+                    <Link href="/projects" className="link">Projects</Link> | Brews & Bites
+                </h2>
 
                 <p className="intro">
                     Building community is important to me. Maintaining and deepning friendships is too.

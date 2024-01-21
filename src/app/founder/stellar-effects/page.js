@@ -13,7 +13,9 @@ const StellarEffectsPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Founder | Stellar Effects</h2>
+                <h2 className="directory">
+                    <Link href="/founder" className="link">Founder</Link> | Stellar Effects
+                </h2>
 
                 <p className="intro">
                     Fun project turned side hustle turned LLC.<br/>

@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const CareerPage = () => {
     
@@ -12,7 +13,9 @@ const CareerPage = () => {
                 <meta name="details" content="Lorem Ipsum"/>
             </Head>
             <div className='page-content'>
-                <h2 className="directory">About Me | Career</h2>
+                <h2 className="directory">
+                    <Link href="/about-me" className="link">About Me</Link> | Career
+                </h2>
 
                 <p className="intro">
                     Product manager by day, entrepreneur by night, and a connoisseur of good memes always.

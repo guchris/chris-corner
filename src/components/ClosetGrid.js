@@ -6,7 +6,7 @@ const ClosetGrid = ({ items }) => {
     return (
         <div className="closet-grid">
             {items.map((item, index) => (
-                <Link key={item.id} href={`/fashion/closet/${item.id}`} className="dynamic-page-link">
+                <Link key={item.id} href={`/fashion/closet/${item.id}`} className="link">
                     <div key={index} className="closet-item">
                         <img src={"closet/" + item.image1} alt={item.name} />
                         <div className="section-skinny">

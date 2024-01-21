@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const OutfitsPage = () => {
     
@@ -12,7 +13,9 @@ const OutfitsPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className='page-content'>
-                <h2 className="directory">Fashion | Outfits</h2>
+                <h2 className="directory">
+                    <Link href="/fashion" className="link">Fashion</Link> | Outfits
+                </h2>
                 <p className="intro">
                     Dope outfits coming soon.
                 </p>

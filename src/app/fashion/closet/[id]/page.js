@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 import closetData from '../closet-data.json';
 
@@ -14,7 +15,9 @@ const ClosetItemPage = ({ params }) => {
                 <meta name="description" content={item.description}/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Fashion | Closet | {item.name}</h2>
+                <h2 className="directory">
+                    <Link href="/fashion" className="link">Fashion</Link> | <Link href="/fashion/closet" className="link">Closet</Link> | {item.name}
+                </h2>
                 <section>
                     <div className="item">
                         <div className="item-images">

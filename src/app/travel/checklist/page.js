@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const ChecklistPage = () => {
     
@@ -12,7 +13,9 @@ const ChecklistPage = () => {
                 <meta name="description" content="Lorem Ipsum"/>
             </Head>
             <div className="page-content">
-                <h2 className="directory">Travel | Checklist</h2>
+                <h2 className="directory">
+                    <Link href="/travel" className="link">Travel</Link> | Checklist
+                </h2>
 
                 <p className="intro">
                     Traveling brings me so much joy. Solo-traveling, even more so.<br/>
