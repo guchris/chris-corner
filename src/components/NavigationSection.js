@@ -1,6 +1,6 @@
 "use client";
-import Link from 'next/link';
-import { usePathname } from 'next/navigation';
+import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 
 // Data model for navigation tabs, sub-tabs, and sub-sub-tabs
 const navigationTabs = [
