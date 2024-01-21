@@ -25,7 +25,7 @@ const HighsLowsRainbowsPage = () => {
 
                 <div className="card-grid">
                     {cardsData.map((card, i) => (
-                        <Link href={card.url} className="link">
+                        <Link key={i} href={card.url} className="link" target="_blank">
                             <div className="card-item">
                                 <img src={"/founder/highs-lows-rainbows/" + card.image} alt={card.name} />
                                 <div className="section-skinny">

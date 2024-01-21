@@ -1,7 +1,11 @@
 {
-  "/page": "app/page.js",
-  "/fashion/closet/page": "app/fashion/closet/page.js",
+  "/not-found": "app/not-found.js",
   "/fashion/page": "app/fashion/page.js",
-  "/about-me/page": "app/about-me/page.js",
-  "/fashion/closet/[id]/page": "app/fashion/closet/[id]/page.js"
+  "/fashion/closet/page": "app/fashion/closet/page.js",
+  "/food/page": "app/food/page.js",
+  "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
+  "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js",
+  "/page": "app/page.js",
+  "/founder/highs-lows-rainbows/page": "app/founder/highs-lows-rainbows/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }

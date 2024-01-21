@@ -19,11 +19,6 @@ export default function RootLayout({ children }) {
 			</Head>
 			<html lang="en">
 				<body>
-					{/* <!-- Blocker --> */}
-					<div className="blocker">
-						<img id="blocker" src="blocker.png"/>
-					</div>
-
 					<main className="wrapper">
 
 						{/* <!-- Banner --> */}
