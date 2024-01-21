@@ -194,6 +194,8 @@ header {
 
   .menu-icon {
     display: block;
+    font-size: 14px;
+    top: 5px;
   }
 
   .container {

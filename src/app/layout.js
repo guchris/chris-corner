@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
 
 						<div className="container">
 							{/* <!-- Navigation Sidebar --> */}
-							<aside className="left-column active">
+							<aside className="left-column">
 
 								{/* <!-- LOGO --> */}
 								<Link href="/" className="logo">CHRIS' CORNER</Link>

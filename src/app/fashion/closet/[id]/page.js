@@ -21,8 +21,8 @@ const ClosetItemPage = ({ params }) => {
                 <section>
                     <div className="item">
                         <div className="item-images">
-                            <img src={item.image1} alt="Clothing Item Image 1"/>
-                            <img src={item.image2} alt="Clothing Item Image 2"/>
+                            <img loading="lazy" src={item.image1} alt="Clothing Item Image 1"/>
+                            <img loading="lazy" src={item.image2} alt="Clothing Item Image 2"/>
                         </div>
                         <div className="item-details">
                             <div className="section-skinny">
