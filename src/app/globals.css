@@ -482,7 +482,6 @@ header {
   flex-direction: column;
   gap: 10px;
   cursor: pointer;
-  max-width: 200px;
 }
 
 .item {
