@@ -21,8 +21,8 @@ const BrewPage = ({ params }) => {
 
                 <div className="section">
                     <div className="row-skinny">
-                        <img src={brew.menuFront} alt="Menu Front" className="image-small"/>
-                        <img src={brew.menuBack} alt="Menu Back" className="image-small"/>
+                        <img src={"/projects/brews-and-bites/" + brew.menuFront} alt="Menu Front" className="image-small"/>
+                        <img src={"/projects/brews-and-bites/" + brew.menuBack} alt="Menu Back" className="image-small"/>
                     </div>
                 </div>
 

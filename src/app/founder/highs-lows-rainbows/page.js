@@ -27,7 +27,7 @@ const HighsLowsRainbowsPage = () => {
                     {cardsData.map((card, i) => (
                         <Link href={card.url} className="link">
                             <div className="card-item">
-                                <img src={"highs-lows-rainbows/" + card.image} alt={card.name} />
+                                <img src={"/founder/highs-lows-rainbows/" + card.image} alt={card.name} />
                                 <div className="section-skinny">
                                     <p className="caption-upper-bold">{card.collection + " - " + card.type}</p>
                                     <p className="caption-upper">{card.name}</p>

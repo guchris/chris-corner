@@ -1,9 +1,7 @@
 {
-  "/not-found": "app/not-found.js",
   "/page": "app/page.js",
   "/fashion/closet/page": "app/fashion/closet/page.js",
   "/fashion/page": "app/fashion/page.js",
   "/about-me/page": "app/about-me/page.js",
-  "/fashion/closet/[id]/page": "app/fashion/closet/[id]/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/fashion/closet/[id]/page": "app/fashion/closet/[id]/page.js"
 }

@@ -21,8 +21,8 @@ const SupperPage = ({ params }) => {
 
                 <div className="section">
                     <div className="row-skinny">
-                        <img src={supper.image1} alt="Image 1" className="image-small"/>
-                        <img src={supper.image2} alt="Image 2" className="image-small"/>
+                        <img src={"/food/sunday-suppers/" + supper.image1} alt="Image 1" className="image-small"/>
+                        <img src={"/food/sunday-suppers/" + supper.image2} alt="Image 2" className="image-small"/>
                     </div>
                 </div>
 
