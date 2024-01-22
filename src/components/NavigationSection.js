@@ -59,8 +59,8 @@ const navigationTabs = [
         href: "/founder",
         subTabs: [
             {
-                name: "Highs Lows Rainbows",
-                href: "/founder/highs-lows-rainbows"
+                name: "Highs Lows & Rainbows",
+                href: "/founder/highs-lows-and-rainbows"
             },
             {
                 name: "Stellar Effects",

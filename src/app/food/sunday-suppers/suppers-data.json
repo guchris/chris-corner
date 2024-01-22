@@ -160,5 +160,23 @@
         "catgory4score1": "3/5",
         "catgory4score2": "3/5",
         "totalScore": "31.5"
+    },
+    {
+        "id": 10,
+        "name": "Khachapuri Cheese Bread",
+        "slug": "khachapuri-cheese-bread",
+        "image1": "khachapuri-cheese-bread-1.png",
+        "image2": "khachapuri-cheese-bread-2.png",
+        "date": "January 21, 2024",
+        "story": "One evening, Anjuli shared her adventure in crafting homemade pizzas with her boyfriend. As I glimpsed at the captivating pictures, a thought struck me—it bore an uncanny resemblance to something we devoured at a Seattle eatery called Skalka. Little did I know, Anjuli enlightened me on the Georgian origin of those delectable delights—Khachapuri, Georgian cheese breads. The fusion of pizza and flatbreads, coupled with the addition of milk in the dough and a tantalizing array of cheeses and a gooey egg on top, ignited our culinary curiosity. It was settled; our next Sunday Suppers would feature Khachapuri.<br/><br/>Throughout the week, we discovered a promising recipe online from Simply Homecooked, published by Dina. The beauty of it all? The only shopping required was for an assortment of cheeses; everything else already nestled in our pantry—a delightful bonus for our frugal hearts. The dough, a precursor to the main event, proved incredibly simple to whip up. After allowing it to leisurely rest for a few hours, we divided it into two portions, engaged in a bit of kneading, and got creative with shaping. I opted for a heart, while Anjuli crafted an elongated oval. A makeshift egg wash, courtesy of my trusty hands, adorned our dough, and the cheese and kale topping concoction followed suit before the oven beckoned.<br/><br/>Fifteen minutes later, we intervened, creating charming dimples in our browning breads. An encore of eggs, a sprinkle of seasonings, and an extra layer of Trader Joe's Parmesan—the final touches before the second oven rendezvous. Another brief interlude of five minutes, and there it was—the masterpiece. Instantly, we were smitten. The size, the coloring, the aesthetic appeal—it was the epitome of *servinggg*. As we tore into the bread, the cheeses gracefully unraveled and the toppings were doing their thang. Even Topher, my resident Shiba Inu, was desperate to get a quick nibble in. We knew, without a shadow of a doubt, that this Khachapuri creation had soared to the top of our Sunday Suppers list, reigning supreme for the foreseeable future.",
+        "catgory1score1": "10/10",
+        "catgory1score2": "10/10",
+        "catgory2score1": "5/5",
+        "catgory2score2": "5/5",
+        "catgory3score1": "4.5/5",
+        "catgory3score2": "4/5",
+        "catgory4score1": "3.5/5",
+        "catgory4score2": "4/5",
+        "totalScore": "46.0"
     }
 ]

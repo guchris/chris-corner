@@ -38,7 +38,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
@@ -56,7 +56,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
@@ -74,7 +74,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
@@ -367,7 +367,13 @@ const GoalsPage = () => {
                             </div>
                         </div>
                         <div className="row-skinny">
-                            <p className="goal-text">[HLR] Release a journal</p>
+                            <p className="goal-text">[HLR] Release 10 new cards</p>
+                            <div className="checkboxes">
+                                <input type="checkbox" className="empty"/>
+                            </div>
+                        </div>
+                        <div className="row-skinny">
+                            <p className="goal-text">[HLR] Become an Etsy Star Seller</p>
                             <div className="checkboxes">
                                 <input type="checkbox" className="empty"/>
                             </div>
