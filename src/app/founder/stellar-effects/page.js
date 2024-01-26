@@ -23,14 +23,7 @@ const StellarEffectsPage = () => {
                 </p>
 
                 <div className="video-container">
-                    <iframe
-                        width="800"
-                        height="450"
-                        src="https://youtu.be/xy2q7O75olA?si=jqKNZgDydZqGB73X"
-                        title="YouTube video player"
-                        frameBorder="0"
-                        allowFullScreen
-                    ></iframe>
+                    <iframe width="800" height="400" src="https://www.youtube.com/embed/xy2q7O75olA?si=VzYQVOAZesASSsXH" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
                 </div>
 
                 <h4 className="section-title">Recommendations</h4>
