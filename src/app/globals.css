@@ -237,12 +237,6 @@ header {
   max-width: 800px;
 }
 
-.main-image {
-  max-width: 300px;
-  margin-top: 0;
-  margin-bottom: 20px;
-}
-
 .intro {
   font-size: 12px;
   margin-top: 0;
@@ -363,6 +357,20 @@ header {
   margin: 0;
 }
 
+.image-main {
+  max-width: 300px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.image-banner {
+  max-width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+}
+
 .image-small {
   max-width: 200px;
 }
@@ -370,6 +378,19 @@ header {
 .link {
   color: #000;
   text-decoration: none;
+}
+
+.video-container {
+  position: relative;
+  overflow: hidden;
+  max-width: 800px;
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.video-container iframe {
+  width: 100%;
+  height: 100%;
 }
 
 

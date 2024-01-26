@@ -22,6 +22,17 @@ const StellarEffectsPage = () => {
                     <Link href="https://stell-ar.com" className="body-lower">Stellar Effects Website</Link>
                 </p>
 
+                <div className="video-container">
+                    <iframe
+                        width="800"
+                        height="450"
+                        src="https://youtu.be/xy2q7O75olA?si=jqKNZgDydZqGB73X"
+                        title="YouTube video player"
+                        frameBorder="0"
+                        allowFullScreen
+                    ></iframe>
+                </div>
+
                 <h4 className="section-title">Recommendations</h4>
                 <div className="section-gap">
                     <p className="reccomendation">

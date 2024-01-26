@@ -94,6 +94,7 @@ const EducationPage = () => {
                         <p className="body-upper">Co-Founder, Co-Director, Finance + Dev + Design Lead</p>
                         <p className="body-upper">Mar 2018 - Jan 2021</p>
                     </div>
+                    <img className="image-banner" src="/about-me/pickhacks.png" alt="PickHacks Team Picture"/>
                     <p className="body-lower">Transformed the Midwest hackathon landscape by scaling an organizing team of students, raising an ungodly amount of sponsorship money, and establishing a thriving hacker community.</p>
                     <ul className="bullets">
                         <li>Orchestrated and guided a dynamic team of 18 students, propelling PickHacks and PickleHack to become premier hackathons in the Midwest, boasting over 500 attendees annually.</li>
@@ -117,6 +118,7 @@ const EducationPage = () => {
                         <p className="body-upper">Founder, President, Music Director</p>
                         <p className="body-upper">Jan 2018 - Jan 2021</p>
                     </div>
+                    <img className="image-banner" src="/about-me/miner-key.png" alt="Miner Key ICCA Group Picture"/>
                     <p className="body-lower">Founded and propelled Miner Key, a dynamic co-ed collegiate a cappella group, to meteoric success with over 15,000 subscribers and 3 million views/streams on YouTube and Spotify, culminating in multiple accolades at the prestigious ICCA competition.</p>
                     <ul className="bullets">
                         <li>Assembled, directed, and musically led a team of 18 students, achieving 2nd place in the 2020 Midwest Quarterfinals of the prestigious ICCA competition. Secured additional accolades for the best choreography and recorded the 2nd highest score ever for a first-time group.</li>
@@ -141,6 +143,7 @@ const EducationPage = () => {
                         <p className="body-upper">Vice President, ACM Hack Chair</p>
                         <p className="body-upper">May 2018 - Aug 2020</p>
                     </div>
+                    <img className="image-banner" src="/about-me/acm.png" alt="ACM Executive Team Picture"/>
                     <p className="body-lower">Orchestrated a transformative era of S&T's chapter of ACM by engaging with 7 dynamic communities of over 200 members across 100s of events.</p>
                     <ul className="bullets">
                         <li>Elevated S&T ACM and its communities by introducing groundbreaking programs such as concept events, captivating socials, and career-shaping workshops.</li>
@@ -163,6 +166,7 @@ const EducationPage = () => {
                         <p className="body-upper">Public Relations</p>
                         <p className="body-upper">Apr 2019 - May 2020</p>
                     </div>
+                    <img className="image-banner" src="/about-me/spectrum.png" alt="Spectrum Executive Team Picture"/>
                     <p className="body-lower">Cultivated a profound sense of belonging and community for S&T LGBTQ+ students, fostering an inclusive environment that transcends the digital and physical realms.</p>
                     <ul className="bullets">
                         <li>Revolutionized SPECTRUM's outreach by catapulting the organization into the digital age with a vibrant and active presence on Instagram and Twitter.</li>
@@ -183,6 +187,7 @@ const EducationPage = () => {
                         <p className="body-upper">Cybersecurity Fellow</p>
                         <p className="body-upper">Dec 2019 - Jan 2020</p>
                     </div>
+                    <img className="image-banner" src="/about-me/tavtech.png" alt="TAVtech Class Picture"/>
                     <p className="body-lower">Chosen as a standout participant in the prestigious TAVtech Cybersecurity Fellowship's Winter 2019 class, studying cybersecurity while fully immersed in the vibrant Israeli culture and startup ecosystem.</p>
                     <ul className="bullets">
                         <li>Immersed myself in over 80 hours of intensive and immersive cybersecurity training throughout an entire winter break.</li>
