@@ -1,5 +1,5 @@
 {
   "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
-  "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js",
-  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js"
+  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
+  "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js"
 }
