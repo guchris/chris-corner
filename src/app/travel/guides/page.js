@@ -18,7 +18,7 @@ const GuidesPage = () => {
                 </h2>
 
                 <p className="intro">
-                    Learned a lot from my travels and am happy to share.<br/>
+                    Learnings and itineraries from my travels.<br/>
                     Guides coming soon.
                 </p>
             </div>

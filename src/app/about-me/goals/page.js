@@ -301,7 +301,7 @@ const GoalsPage = () => {
                             </div>
                         </div>
                         <div className="row-skinny">
-                            <p className="goal-text">Fall in love (boyfriend)</p>
+                            <p className="goal-text">Fall in love</p>
                             <div className="checkboxes">
                                 <input type="checkbox" className="empty"/>
                             </div>
@@ -367,7 +367,7 @@ const GoalsPage = () => {
                             </div>
                         </div>
                         <div className="row-skinny">
-                            <p className="goal-text">[HLR] Release 10 new cards</p>
+                            <p className="goal-text">[HLR] Release new cards</p>
                             <div className="checkboxes">
                                 <input type="checkbox" className="empty"/>
                             </div>

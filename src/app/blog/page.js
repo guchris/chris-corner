@@ -14,7 +14,7 @@ const BlogPage = () => {
             <div className="page-content">
                 <h2 className="directory">Blog</h2>
                 <p className="intro">
-                    Blog content coming soon.
+                    Blog coming soon.
                 </p>
             </div>
         </>

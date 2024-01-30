@@ -53,20 +53,43 @@ const ChecklistPage = () => {
                 <div className="section">
                     <h4 className="section-title">Wishlist</h4>
                     <div className="section-skinny">
-                        <p className="body-upper">Australia: Sydney</p>
-                        <p className="body-upper">New Zealand: Auckland</p>
-                        <p className="body-upper">South Africa: Cape Town</p>
-                        <p className="body-upper">Italy: Florence, Sicily, Milan, Rome</p>
-                        <p className="body-upper">Mexico: Mexico City, Cabo, Puerto Vallarta</p>
-                        <p className="body-upper">Germany: Berlin</p>
-                        <p className="body-upper">Austria: Vienna</p>
-                        <p className="body-upper">Hungary: Budapest</p>
-                        <p className="body-upper">Thailand: Bangkok, Chiang Mai</p>
-                        <p className="body-upper">Vietnam: Hanoi, Ho Chi Minh City</p>
-                        <p className="body-upper">Finland: Helsinki</p>
-                        <p className="body-upper">Egypt: Cairo</p>
+                        <p className="body-upper">Sydney, Australia</p>
+                        <p className="body-upper">Christchurch, New Zealand</p>
+                        <p className="body-upper">Auckland, New Zealand</p>
+                        <p className="body-upper">Cape Town, South Africa</p>
+                        <p className="body-upper">Milan, Italy</p>
+                        <p className="body-upper">Rome, Italy</p>
+                        <p className="body-upper">Florence, Italy</p>
+                        <p className="body-upper">Sicily, Italy</p>
+                        <p className="body-upper">Mexico City, Mexico</p>
+                        <p className="body-upper">Cabo, Mexico</p>
+                        <p className="body-upper">Puerto Vallarta, Mexico</p>
+                        <p className="body-upper">Berlin, Germany</p>
+                        <p className="body-upper">Vienna, Austria</p>
+                        <p className="body-upper">Budapest, Hungary</p>
+                        <p className="body-upper">Bangkok, Thailand</p>
+                        <p className="body-upper">Chiang Mai, Thailand</p>
+                        <p className="body-upper">Hanoi, Vietnam</p>
+                        <p className="body-upper">Ho Chi Minh City, Vietnam</p>
+                        <p className="body-upper">Helsinki, Finland</p>
+                        <p className="body-upper">Cairo, Egypt</p>
                     </div>
                 </div>
+
+                <div className="section">
+                    <h4 className="section-title">Trek TODOs</h4>
+                    <div className="section-skinny">
+                        <p className="body-upper">Torres Del Paine, Chile (80 miles)</p>
+                        <p className="body-upper">Manaslu Circuit, Nepal (100 miles)</p>
+                        <p className="body-upper">Dolomites Alta Via 1, Italy (75 miles)</p>
+                        <p className="body-upper">Picos De Europa, Spain (90 miles)</p>
+                        <p className="body-upper">West Highland Way, Scotland (100 miles)</p>
+                        <p className="body-upper">Kepler Track, New Zealand (43 miles)</p>
+                        <p className="body-upper">Routeburn Track, New Zealand (25 miles)</p>
+                        <p className="body-upper">Milford Track, New Zealand (41 miles)</p>
+                    </div>
+                </div>
+
 
                 <div className="section">
                     <h4 className="section-title">Traveled</h4>
@@ -119,7 +142,7 @@ const ChecklistPage = () => {
                         <p className="body-upper">Hayden, Idaho</p>
                     </div>
                     <div className="row-skinny">
-                        <p className="body-upper">[06/2023]</p>
+                        <p className="body-upper">[07/2023]</p>
                         <p className="body-upper">Prague, Czech Republic</p>
                     </div>
                     <div className="row-skinny">

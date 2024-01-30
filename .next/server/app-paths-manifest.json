@@ -1,7 +1,9 @@
 {
-  "/about-me/goals/page": "app/about-me/goals/page.js",
+  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
+  "/about-me/career/page": "app/about-me/career/page.js",
   "/about-me/education/page": "app/about-me/education/page.js",
-  "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
-  "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
-  "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js"
+  "/about-me/goals/page": "app/about-me/goals/page.js",
+  "/food/page": "app/food/page.js",
+  "/page": "app/page.js",
+  "/food/recommendations/page": "app/food/recommendations/page.js"
 }
