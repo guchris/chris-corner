@@ -1,7 +1,7 @@
 {
-  "/about-me/page": "app/about-me/page.js",
-  "/founder/stellar-effects/page": "app/founder/stellar-effects/page.js",
-  "/about-me/education/page": "app/about-me/education/page.js",
   "/about-me/goals/page": "app/about-me/goals/page.js",
-  "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js"
+  "/about-me/education/page": "app/about-me/education/page.js",
+  "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
+  "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
+  "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js"
 }

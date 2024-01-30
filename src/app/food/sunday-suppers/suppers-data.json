@@ -178,5 +178,23 @@
         "catgory4score1": "3.5/5",
         "catgory4score2": "4/5",
         "totalScore": "46.0"
+    },
+    {
+        "id": 11,
+        "name": "Mayak Eggs",
+        "slug": "mayak-eggs",
+        "image1": "mayak-eggs-1.png",
+        "image2": "mayak-eggs-2.png",
+        "date": "January 29, 2024",
+        "story": "So, our Sunday Supper turned into a Monday affair this time around due to scheduling conflicts, but we were determined to keep the tradition alive, even if it meant shifting it a day later. We were both feeling a bit tired decided to opt for something simpler. Anjuli mentioned earlier in the week about wanting to try making a Korean egg dish. And with a surplus of eggs in the fridge and the need to use them all before my upcoming vacation, it seemed like the perfect opportunity to give it a shot. Plus, I'm a huge fan of Korean cuisine, so I was all in!<br/><br/>We found a straightforward recipe from @yourfriendalanna, which made the process a breeze. Since we were only going to marinate the eggs for 2 hours, all we had to do was whip up the sauce, boil and peel the eggs, and let everything soak together in a container. Easy peasy. With the eggs left to marinate, we took the opportunity to catch up on the week's highlights and lowlights, and even brainstormed some ideas for our greeting cards business, Highs Lows & Rainbows. It seems like food-related events are a common thread in both our lives lately, with friends really going all out in their culinary creations. We also delved into some relationship talk, and while I'm still flying solo, it's great to see Anjuli thriving with her mans.<br/><br/>Soon enough, it was time to taste-test the eggs. We eagerly cracked open the container and each grabbed an egg. Bite after bite, we were blown away. The flavors were incredible—sweet, spicy, and oh-so-addictive. That marinade stole the show, no doubt about it. Anjuli and I were both in agreement, exchanging plenty of 'wows' between mouthfuls. After polishing off all six eggs, we decided to whip up some stir-fried green beans using the leftover sauce, and let me tell you, they were equally fantastic. We were brainstorming all the other dishes we could use this marinade for—noodles, tofu, chicken, you name it. The possibilities seemed endless.<br/><br/>As the clock neared 9:30/10 pm, exhaustion started to set in, signaling it was time to tidy up and call it a night. The next Sunday Supper would have to wait until March, once I returned from my vacation, so it was a bittersweet goodbye for now.",
+        "catgory1score1": "10/10",
+        "catgory1score2": "9/10",
+        "catgory2score1": "2/5",
+        "catgory2score2": "3/5",
+        "catgory3score1": "5/5",
+        "catgory3score2": "5/5",
+        "catgory4score1": "2.5/5",
+        "catgory4score2": "4/5",
+        "totalScore": "40.5"
     }
 ]
