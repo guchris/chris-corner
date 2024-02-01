@@ -1,9 +1,7 @@
 {
-  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
-  "/about-me/career/page": "app/about-me/career/page.js",
-  "/about-me/education/page": "app/about-me/education/page.js",
-  "/about-me/goals/page": "app/about-me/goals/page.js",
-  "/food/page": "app/food/page.js",
   "/page": "app/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
+  "/food/page": "app/food/page.js",
   "/food/recommendations/page": "app/food/recommendations/page.js"
 }

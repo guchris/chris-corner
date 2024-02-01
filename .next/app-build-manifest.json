@@ -1,60 +1,15 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
-    "/projects/brews-and-bites/[iteration]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/projects/brews-and-bites/[iteration]/page.js"
-    ],
-    "/projects/brews-and-bites/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/projects/brews-and-bites/page.js"
-    ],
-    "/founder/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/founder/page.js"
-    ],
-    "/food/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/food/page.js"
-    ],
-    "/food/sunday-suppers/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/food/sunday-suppers/page.js"
-    ],
-    "/food/sunday-suppers/[slug]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/food/sunday-suppers/[slug]/page.js"
-    ],
-    "/projects/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/projects/page.js"
-    ],
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/founder/stellar-effects/page": [
+    "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/founder/stellar-effects/page.js"
-    ],
-    "/fashion/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/fashion/page.js"
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
     "/about-me/page": [
       "static/chunks/webpack.js",
@@ -76,40 +31,20 @@
       "static/chunks/main-app.js",
       "static/chunks/app/about-me/goals/page.js"
     ],
-    "/travel/page": [
+    "/projects/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/travel/page.js"
+      "static/chunks/app/projects/page.js"
     ],
-    "/travel/checklist/page": [
+    "/projects/brews-and-bites/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/travel/checklist/page.js"
+      "static/chunks/app/projects/brews-and-bites/page.js"
     ],
-    "/founder/highs-lows-and-rainbows/page": [
+    "/food/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/founder/highs-lows-and-rainbows/page.js"
-    ],
-    "/founder/worn/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/founder/worn/page.js"
-    ],
-    "/food/recipies/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/food/recipies/page.js"
-    ],
-    "/blog/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog/page.js"
-    ],
-    "/travel/guides/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/travel/guides/page.js"
+      "static/chunks/app/food/page.js"
     ],
     "/food/recommendations/page": [
       "static/chunks/webpack.js",
