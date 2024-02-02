@@ -49,8 +49,8 @@ const navigationTabs = [
                 href: "/food/recipies"
             },
             {
-                name: "Recommendations",
-                href: "/food/recommendations"
+                name: "Reviews",
+                href: "/food/reviews"
             },
             {
                 name: "Sunday Suppers",

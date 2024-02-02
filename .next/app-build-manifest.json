@@ -46,10 +46,20 @@
       "static/chunks/main-app.js",
       "static/chunks/app/food/page.js"
     ],
-    "/food/recommendations/page": [
+    "/food/reviews/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/food/recommendations/page.js"
+      "static/chunks/app/food/reviews/page.js"
+    ],
+    "/food/reviews/[slug]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/food/reviews/[slug]/page.js"
+    ],
+    "/food/recipies/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/food/recipies/page.js"
     ]
   }
 }
