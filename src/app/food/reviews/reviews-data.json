@@ -9,6 +9,7 @@
         "tags": "",
         "review": "Lorem ipsum",
         "rating": "7.5/10",
+        "address": "1621 E Olive Wy, Seattle, WA 98102",
         "url": "https://maps.app.goo.gl/RTSBxmm1mxZEsLMR9"
     },
     {
@@ -21,6 +22,7 @@
         "tags": "",
         "review": "Lorem ipsum",
         "rating": "7/10",
+        "address": "406 Broadway E, Seattle, WA 98102",
         "url": "https://maps.app.goo.gl/wGfcdde817MKFN327"
     },
     {
@@ -31,8 +33,9 @@
         "cuisine": "Vietnamese",
         "type": "Restaurant",
         "tags": "Pho",
-        "review": "Lorem ipsum",
+        "review": "Local chain serving beef, chicken & vegetarian pho, plus signature cream puffs, in a basic setting.",
         "rating": "7/10",
+        "address": "527 Broadway E, Seattle, WA 98102",
         "url": "https://maps.app.goo.gl/uJdLkKec4kgC5yVL8"
     },
     {
@@ -43,8 +46,9 @@
         "cuisine": "Japanese",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Casual-chic stop for ramen, donburi bowls, and izakaya-style snacks, plus Japanese cocktails.",
         "rating": "7/10",
+        "address": "224 Broadway E, Seattle, WA 98102",
         "url": "https://maps.app.goo.gl/6sBx9XhtFgDzDHceA"
     },
     {
@@ -55,8 +59,9 @@
         "cuisine": "Mexican",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Vibrant, informal, family-owned Mexican cantina with homemade corn tortillas & tequila cocktails.",
         "rating": "8/10",
+        "address": "600 E Pine St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/oGp7iiG3EtyWWoLv8"
     },
     {
@@ -69,6 +74,7 @@
         "tags": "Fried Chicken",
         "review": "Lorem ipsum",
         "rating": "8/10",
+        "address": "725 E Pine St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/AhpTJWhiAYKdbWXz9"
     },
     {
@@ -79,8 +85,9 @@
         "cuisine": "Chinese",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Trendy, industrial-style Chinese noodle house dishing up dumplings, baos, and chicken wings.",
         "rating": "8/10",
+        "address": "601 E Pike St Unit 100, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/vVpjr882LWddjsZt7"
     },
     {
@@ -91,8 +98,9 @@
         "cuisine": "Thai",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Comfy spot specializing in Thai classics such as coconut chicken & drunken noodles, with happy hour.",
         "rating": "7.5/10",
+        "address": "727 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/LP9HPYjd2c1TEMrQ9"
     },
     {
@@ -103,8 +111,9 @@
         "cuisine": "Thai",
         "type": "Restaurant",
         "tags": "Vegan",
-        "review": "Lorem ipsum",
+        "review": "Vegan Thai cuisine & original cocktail in an airy, modern space with pendant lights & blonde wood.",
         "rating": "7/10",
+        "address": "1190 Thomas St, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/u17kuasEL2uuZxbS9"
     },
     {
@@ -115,8 +124,9 @@
         "cuisine": "Vietnamese",
         "type": "Restaurant",
         "tags": "Pho",
-        "review": "Lorem ipsum",
+        "review": "Laid-back Vietnamese cafe serving pho, banh mi & vermicelli made with carefully sourced ingredients.",
         "rating": "6/10",
+        "address": "2134 Westlake Ave, Seattle, WA 98121",
         "url": "https://maps.app.goo.gl/j9nFukxrsWAxRZKR7"
     },
     {
@@ -127,8 +137,9 @@
         "cuisine": "American",
         "type": "Restaurant",
         "tags": "Sandwiches, Salads",
-        "review": "Lorem ipsum",
+        "review": "Creative gourmet sandwiches, soups & salads, made with local & seasonal ingredients.",
         "rating": "8/10",
+        "address": "2118 Westlake Ave, Seattle, WA 98121",
         "url": "https://maps.app.goo.gl/gd7Wshj1XaLzEPRk6"
     },
     {
@@ -139,8 +150,9 @@
         "cuisine": "American",
         "type": "Restaurant",
         "tags": "Pizza",
-        "review": "Lorem ipsum",
+        "review": "Laid-back pizzeria offering thin-crust pies, beer & wine, for in-store, take-out or delivery.",
         "rating": "8.5/10",
+        "address": "415 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/CKJQbj9RTk1CbKJE6"
     },
     {
@@ -151,8 +163,9 @@
         "cuisine": "Thai",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Thai street food is the focus of this sleek, modern eatery, which also serves classic curries.",
         "rating": "6.5/10",
+        "address": "1121 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/vbQNQjnBLKh8U5ag6"
     },
     {
@@ -163,8 +176,9 @@
         "cuisine": "American",
         "type": "Restaurant",
         "tags": "Vegan",
-        "review": "Lorem ipsum",
+        "review": "Organic, sustainable vegan dishes featuring seitan & tofu in an industrial-chic space.",
         "rating": "6.5/10",
+        "address": "1429 12th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/cdEdgvdMz8cE57eU7"
     },
     {
@@ -175,8 +189,9 @@
         "cuisine": "Japanese",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Industrial-chic space specializing in Japanese drinking snacks & street food alongside cocktails.",
         "rating": "8/10",
+        "address": "500 E Pine St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/c34FDnn2pMEREgXD7"
     },
     {
@@ -187,8 +202,9 @@
         "cuisine": "Middle Eastern",
         "type": "Restaurant",
         "tags": "",
-        "review": "Overpriced",
+        "review": "Traditional Middle Eastern cooking gets modern tweaks at a popular eatery in a former warehouse.",
         "rating": "5/10",
+        "address": "500 E Pine St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/rVtZ664qH89t2mt87"
     },
     {
@@ -199,8 +215,9 @@
         "cuisine": "Thai",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Classic Thai street food noodles, salads, skewered meats & drinks in a bright, chill setting.",
         "rating": "8/10",
+        "address": "2319 2nd Ave, Seattle, WA 98121",
         "url": "https://maps.app.goo.gl/UNFCUF4PqWXE2tWr6"
     },
     {
@@ -211,8 +228,9 @@
         "cuisine": "Japanese",
         "type": "Restaurant",
         "tags": "Contemporary",
-        "review": "Lorem ipsum",
+        "review": "Contemporary Japanese small plates, mains & a robust sushi menu, plus sake, in a sleek setting.",
         "rating": "7/10",
+        "address": "731 Bell St, Seattle, WA 98121",
         "url": "https://maps.app.goo.gl/MTmYD1xffNKZXhhg8"
     },
     {
@@ -223,8 +241,9 @@
         "cuisine": "Thai",
         "type": "Restaurant",
         "tags": "Pho",
-        "review": "Lorem ipsum",
+        "review": "Neighborhood Vietnamese eatery in a corner storefront known for noodle soups & banh mi sandwiches.",
         "rating": "9/10",
+        "address": "3414 Fremont Ave N, Seattle, WA 98103",
         "url": "https://maps.app.goo.gl/nLovr3Kuf3TgD8Cp7"
     },
     {
@@ -235,8 +254,9 @@
         "cuisine": "American",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Bustling, bright cafe serving local, organic & seasonal breakfast, brunch & lunch dishes.",
         "rating": "8/10",
+        "address": "391 Terry Ave N, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/ugD4yeFZFDYd4uGz8"
     },
     {
@@ -247,8 +267,9 @@
         "cuisine": "American",
         "type": "Bistro",
         "tags": "European",
-        "review": "Lorem ipsum",
+        "review": "European-style bistro and bar offering an eclectic, seasonal menu in a casual, stylish space.",
         "rating": "8/10",
+        "address": "407 Cedar St, Seattle, WA 98121",
         "url": "https://maps.app.goo.gl/eh3YA6QAwdjPL9XW9"
     },
     {
@@ -261,6 +282,7 @@
         "tags": "",
         "review": "Lorem ipsum",
         "rating": "8/10",
+        "address": "500 9th Ave N ste 150, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/sWr1b8ivkcav4b8Q7"
     },
     {
@@ -271,8 +293,9 @@
         "cuisine": "Asian",
         "type": "Restaurant",
         "tags": "Vegan",
-        "review": "Lorem ipsum",
+        "review": "Easygoing Asian restaurant featuring a vegan menu & a seasonal patio, plus takeaway.",
         "rating": "8/10",
+        "address": "500 Terry Ave N, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/wMm21FXniETFdtwm8"
     },
     {
@@ -283,8 +306,9 @@
         "cuisine": "American",
         "type": "Restaurant",
         "tags": "Burgers",
-        "review": "Fries are amazing. And you get so much!",
+        "review": "Burgers in many combos plus housemade shakes served in an energetic local-chain outpost.",
         "rating": "7/10",
+        "address": "1211 Pine St, Seattle, WA 98101",
         "url": "https://maps.app.goo.gl/CkgYsKaL59BPZooa7"
     },
     {
@@ -295,8 +319,9 @@
         "cuisine": "Japanese",
         "type": "Restaurant",
         "tags": "Ramen",
-        "review": "Lorem ipsum",
+        "review": "Hip venue serving Japanese noodle soups & small plates, plus whiskey, sake & beer amid artful decor.",
         "rating": "8/10",
+        "address": "320 E Pine St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/nbnLQT7kXekp958U8"
     },
     {
@@ -522,8 +547,8 @@
         "meals": "",
         "cuisine": "",
         "type": "Bar",
-        "tags": "",
-        "review": "Lorem ipsum",
+        "tags": "Queer",
+        "review": "Live entertainment at a hip gay venue offering a full bar & a menu of bar snacks.",
         "rating": "9/10",
         "url": "https://maps.app.goo.gl/TWJwFUfe6jt5rmYA7"
     },
@@ -534,9 +559,440 @@
         "meals": "",
         "cuisine": "",
         "type": "Bar",
-        "tags": "",
-        "review": "Lorem ipsum",
+        "tags": "Queer",
+        "review": "Airy bar & eatery with a leafy patio serving cocktails alongside hearty comfort food & happy hours.",
         "rating": "8/10",
         "url": "https://maps.app.goo.gl/KFgppHL7oKVsFGo79"
+    },
+    {
+        "id": 46,
+        "name": "Massive",
+        "slug": "massive",
+        "meals": "",
+        "cuisine": "",
+        "type": "Bar",
+        "tags": "Queer",
+        "review": "Lorem ipsum",
+        "rating": "8/10",
+        "url": "https://maps.app.goo.gl/vNkvHwt75vPBY4xp9"
+    },
+    {
+        "id": 47,
+        "name": "Pony",
+        "slug": "pony",
+        "meals": "",
+        "cuisine": "",
+        "type": "Bar",
+        "tags": "Queer",
+        "review": "A 1930s-era gas station now houses this gay bar with a tiny dance floor, outdoor patio & fire pit.",
+        "rating": "8/10",
+        "url": "https://maps.app.goo.gl/e45gzxULeKk2iz2F8"
+    },
+    {
+        "id": 48,
+        "name": "Kremwerk",
+        "slug": "kremwerk",
+        "meals": "",
+        "cuisine": "",
+        "type": "Bar",
+        "tags": "Queer",
+        "review": "Dance club with DJs, stand-up comedy & burlesque shows in an industrial, ultramodern space.",
+        "rating": "8/10",
+        "url": "https://maps.app.goo.gl/6uEwUmPvJG5T9L9W7"
+    },
+    {
+        "id": 49,
+        "name": "Cuff Complex",
+        "slug": "cuff-complex",
+        "meals": "",
+        "cuisine": "",
+        "type": "Bar",
+        "tags": "Queer",
+        "review": "Gay entertainment multiplex with 3 bars, dance club & patio often attracts a leather-clad crowd.",
+        "rating": "8/10",
+        "url": "https://maps.app.goo.gl/QuwRrFw3Zdg1qtnK7"
+    },
+    {
+        "id": 50,
+        "name": "Diesel",
+        "slug": "diesel",
+        "meals": "",
+        "cuisine": "",
+        "type": "Bar",
+        "tags": "Queer",
+        "review": "Lorem ipsum",
+        "rating": "7/10",
+        "url": "https://maps.app.goo.gl/CvSw6C9qYqdnZSAs7"
+    },
+    {
+        "id": 51,
+        "name": "Unicorn",
+        "slug": "unicorn",
+        "meals": "",
+        "cuisine": "",
+        "type": "Bar",
+        "tags": "",
+        "review": "Corn dogs meet cocktails at this carnival-themed bar with arcades & a stage downstairs.",
+        "rating": "8/10",
+        "url": "https://maps.app.goo.gl/H65USSJuTg2JgEP9A"
+    },
+    {
+        "id": 52,
+        "name": "Tavern Law",
+        "slug": "tavern-law",
+        "meals": "",
+        "cuisine": "",
+        "type": "Bar",
+        "tags": "",
+        "review": "High-end vintage cocktails & American fare in a dark, sophisticated space with a speakeasy vibe.",
+        "rating": "8.5/10",
+        "url": "https://maps.app.goo.gl/Np4T7fSoiwZZ5uov9"
+    },
+    {
+        "id": 53,
+        "name": "Life On Mars",
+        "slug": "life-on-mars",
+        "meals": "",
+        "cuisine": "",
+        "type": "Bar",
+        "tags": "",
+        "review": "Lorem ipsum.",
+        "rating": "7.5/10",
+        "url": "https://maps.app.goo.gl/JA1MpJ393yeQATez6"
+    },
+    {
+        "id": 54,
+        "name": "Inside Passage",
+        "slug": "inside-passage",
+        "meals": "",
+        "cuisine": "Cuban",
+        "type": "Bar",
+        "tags": "",
+        "review": "Rum-based cocktails & light snacks in a unique venue with fanciful decor, including a giant octopus.",
+        "rating": "8/10",
+        "url": "https://maps.app.goo.gl/WKu6Ho2aX2mF47Y77"
+    },
+    {
+        "id": 55,
+        "name": "Cha Cha Lounge",
+        "slug": "cha-cha-lounge",
+        "meals": "",
+        "cuisine": "Mexican",
+        "type": "Bar",
+        "tags": "",
+        "review": "Festive, funky cantina featuring a Mexican small-plates menu, margaritas & beer, plus a photo booth.",
+        "rating": "8/10",
+        "url": "https://maps.app.goo.gl/9mTLThgRTXhzDRtXA"
+    },
+    {
+        "id": 56,
+        "name": "mBar",
+        "slug": "mbar",
+        "meals": "Lunch, Dinner",
+        "cuisine": "Middle Eastern, Mediterranean",
+        "type": "Restaurant, Bar",
+        "tags": "Rooftop",
+        "review": "Artful rooftop space with a modern Middle Eastern–meets-Mediterranean menu, drinks & sweeping views.",
+        "rating": "8/10",
+        "url": "https://maps.app.goo.gl/An2KUGHHhR8W5G7E7"
+    },
+    {
+        "id": 57,
+        "name": "Capital One Café",
+        "slug": "capital-one-cafe",
+        "meals": "",
+        "cuisine": "",
+        "type": "Cafe",
+        "tags": "",
+        "review": "Bank-affiliated coffeehouse chain offering hot drinks & free WiFi in a modern setting.",
+        "rating": "10/10",
+        "url": "https://maps.app.goo.gl/LSqw4T9mYYjDwVUB9"
+    },
+    {
+        "id": 58,
+        "name": "The Moo Bar",
+        "slug": "the-moo-bar",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Boba",
+        "review": "Modern Asian dessert shop crafting milk teas, ice cream & waffle concoctions, coffee & cakes.",
+        "rating": "5/10",
+        "url": "https://maps.app.goo.gl/LSqw4T9mYYjDwVUB9"
+    },
+    {
+        "id": 59,
+        "name": "Mr. West Cafe Bar",
+        "slug": "mr-west-cafe-bar",
+        "meals": "Breakfast, Brunch, Lunch",
+        "cuisine": "American",
+        "type": "Restaurant, Cafe, Bar",
+        "tags": "",
+        "review": "Ultramodern fixture serving espresso drinks, beer/wine & modern cafe eats in an open, airy interior.",
+        "rating": "10/10",
+        "url": "https://maps.app.goo.gl/hEqHeFxBcJBKvKjR9"
+    },
+    {
+        "id": 60,
+        "name": "Molly Moon's",
+        "slug": "molly-moons",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Ice Cream",
+        "review": "Creative flavors like salted caramel & honey lavender made of dairy from hormone-free cows.",
+        "rating": "9/10",
+        "url": "https://maps.app.goo.gl/NQrZkpJio4ZAkXDM9"
+    },
+    {
+        "id": 61,
+        "name": "Salt & Straw",
+        "slug": "salt-and-straw",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Ice Cream",
+        "review": "Lorem ipsum",
+        "rating": "9/10",
+        "url": "https://maps.app.goo.gl/5Ji5WnSYxWBSuaLJ7"
+    },
+    {
+        "id": 62,
+        "name": "Frankie & Joe's",
+        "slug": "frankie-and-joes",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Ice Cream, Vegan",
+        "review": "Stylish & airy shop scooping up unusual plant-based ice creams & vegan toppings.",
+        "rating": "9/10",
+        "url": "https://maps.app.goo.gl/oykDMaxKjLTrJ7xb7"
+    },
+    {
+        "id": 63,
+        "name": "R+M Dessert Bar",
+        "slug": "rm-dessert-bar",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "",
+        "review": "Unique, chef-driven dessert & wine takeaway boutique with a frequently changing menu.",
+        "rating": "9/10",
+        "url": "https://maps.app.goo.gl/fx7114gKnG9K7dNK9"
+    },
+    {
+        "id": 64,
+        "name": "Tea Addicts",
+        "slug": "tea-addicts",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Boba",
+        "review": "Lorem ipsum",
+        "rating": "9/10",
+        "url": "https://maps.app.goo.gl/KsNsy3vhNyDB5ZdHA"
+    },
+    {
+        "id": 65,
+        "name": "Drip Tea",
+        "slug": "drip-tea",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Boba",
+        "review": "Extensive menu of inventive bubble teas offered in a pared-back venue with an apparel shop.",
+        "rating": "8.5/10",
+        "url": "https://maps.app.goo.gl/4mSThEt1pPzoufo27"
+    },
+    {
+        "id": 66,
+        "name": "Dough Joy",
+        "slug": "dough-joy",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Donuts, Vegan",
+        "review": "Lorem ipsum",
+        "rating": "9/10",
+        "url": "https://maps.app.goo.gl/wMTBH1rPfnwbdYDAA"
+    },
+    {
+        "id": 67,
+        "name": "Mighty-O Donuts",
+        "slug": "mighty-o-donuts",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Donuts",
+        "review": "Lorem ipsum",
+        "rating": "7.5/10",
+        "url": "https://maps.app.goo.gl/6D5q3JVYZDC4gDCa9"
+    },
+    {
+        "id": 68,
+        "name": "Half and Half Doughnut Co.",
+        "slug": "half-and-half-doughnut-co",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Donuts",
+        "review": "Lorem ipsum",
+        "rating": "8/10",
+        "url": "https://maps.app.goo.gl/XBfjCnWfGXvkmftP9"
+    },
+    {
+        "id": 69,
+        "name": "Nana’s Green Tea",
+        "slug": "nanas-green-tea",
+        "meals": "",
+        "cuisine": "Japanese",
+        "type": "Dessert",
+        "tags": "Matcha",
+        "review": "Matcha-based lattes and parfaits, plus traditional Japanese sweets in a modern, minimalist space.",
+        "rating": "10/10",
+        "url": "https://maps.app.goo.gl/XBfjCnWfGXvkmftP9"
+    },
+    {
+        "id": 70,
+        "name": "Rhein Haus",
+        "slug": "rhein-haus",
+        "meals": "",
+        "cuisine": "German",
+        "type": "Bar",
+        "tags": "",
+        "review": "German biergarten with bratwurst, pretzels, and schnitzels, plus fireplaces and bocce ball courts.",
+        "rating": "8/10",
+        "address": "912 12th Ave, Seattle, WA 98122",
+        "url": "https://maps.app.goo.gl/GTMV8CNGroA8qeU19"
+    },
+    {
+        "id": 71,
+        "name": "Olmstead",
+        "slug": "olmstead",
+        "meals": "Breakfast, Brunch, Lunch, Dinner",
+        "cuisine": "American",
+        "type": "Restaurant",
+        "tags": "",
+        "review": "Hip, loungey space serving specialty cocktails & refined comfort food classics in two bold rooms.",
+        "rating": "8/10",
+        "address": "314 Broadway E, Seattle, WA 98102",
+        "url": "https://maps.app.goo.gl/4hgphS4C3ADqrtGq8"
+    },
+    {
+        "id": 72,
+        "name": "Sumo Express",
+        "slug": "sumo-express",
+        "meals": "Lunch, Dinner",
+        "cuisine": "Japanese",
+        "type": "Restaurant",
+        "tags": "",
+        "review": "Easygoing restaurant offering Japanese-inspired eats such as yakisoba, sushi & poke bowls.",
+        "rating": "8/10",
+        "address": "219 Broadway E #18, Seattle, WA 98102",
+        "url": "https://maps.app.goo.gl/fETLYpzLq59DWY2r8"
+    },
+    {
+        "id": 73,
+        "name": "Tacos Chukis",
+        "slug": "tacos-chukis",
+        "meals": "Brunch, Lunch, Dinner",
+        "cuisine": "Mexican",
+        "type": "Restaurant",
+        "tags": "",
+        "review": "No-frills pick for counter-serve Mexican street food, including tacos, quesadillas & burritos.",
+        "rating": "9.5/10",
+        "address": "219 Broadway E, Seattle, WA 98102",
+        "url": "https://maps.app.goo.gl/GxSxLnE648JXMmXG8"
+    },
+    {
+        "id": 74,
+        "name": "BOCA Restobar & Grill",
+        "slug": "boca-restobar-and-grill",
+        "meals": "Lunch, Dinner",
+        "cuisine": "Argentinian",
+        "type": "Restaurant",
+        "tags": "",
+        "review": "Festive eatery emphasizing Argentine-inspired meats, ceviche, empanadas & cocktails in cool digs.",
+        "rating": "9/10",
+        "address": "416 Broadway E, Seattle, WA 98102",
+        "url": "https://maps.app.goo.gl/xk6b5dwtZpENbtb48"
+    },
+    {
+        "id": 75,
+        "name": "Dont Yell At Me",
+        "slug": "dont-yell-at-me",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Boba",
+        "review": "Lorem ipsum",
+        "rating": "9/10",
+        "address": "125 Broadway E, Seattle, WA 98102",
+        "url": "https://maps.app.goo.gl/u8xVuwoNHPJYXWPt9"
+    },
+    {
+        "id": 76,
+        "name": "Seoul Bowl & Bar",
+        "slug": "seoul-bowl-and-bar",
+        "meals": "Lunch, Dinner",
+        "cuisine": "Korean",
+        "type": "Restaurant",
+        "tags": "",
+        "review": "Buzzy space for custom Korean barbecue bowls & side dishes plus beer in a lively setting.",
+        "rating": "9/10",
+        "address": "722 12th Ave, Seattle, WA 98122",
+        "url": "https://maps.app.goo.gl/FXadWBRTVbvtuwZTA"
+    },
+    {
+        "id": 77,
+        "name": "Ezell's Famous Chicken",
+        "slug": "ezells-famous-chicken",
+        "meals": "Lunch, Dinner",
+        "cuisine": "American",
+        "type": "Restaurant",
+        "tags": "Fried Chicken",
+        "review": "Local fast-food chain known for its housemade fried chicken, plus down-home sides & desserts.",
+        "rating": "8.5/10",
+        "address": "501 23rd Ave, Seattle, WA 98122",
+        "url": "https://maps.app.goo.gl/XQ8R78zMj6z7na2F7"
+    },
+    {
+        "id": 78,
+        "name": "Ba Bar",
+        "slug": "ba-bar",
+        "meals": "Lunch, Dinner",
+        "cuisine": "Vietnamese",
+        "type": "Restaurant, Bar",
+        "tags": "",
+        "review": "Upscale Vietnamese fare and innovative cocktails served until late in a stylish, industrial setting.",
+        "rating": "8/10",
+        "address": "550 12th Ave, Seattle, WA 98122",
+        "url": "https://maps.app.goo.gl/v8Yw58VencuQbn3u9"
+    },
+    {
+        "id": 79,
+        "name": "Cheeky Cafe",
+        "slug": "cheeky-cafe",
+        "meals": "Breakfast, Brunch, Lunch, Dinner",
+        "cuisine": "American, Korean",
+        "type": "Restaurant, Cafe",
+        "tags": "",
+        "review": "Quirky eatery serving ample portions of American comfort food incorporating Korean flavors.",
+        "rating": "8/10",
+        "address": "1700 S Jackson St, Seattle, WA 98144",
+        "url": "https://maps.app.goo.gl/4oE3YaNugZDmGa6F9"
+    },
+    {
+        "id": 80,
+        "name": "Analog Coffee",
+        "slug": "analog-coffee",
+        "meals": "",
+        "cuisine": "",
+        "type": "Cafe",
+        "tags": "",
+        "review": "Comfy neighborhood coffeehouse with a nautical feel offering a pour-over menu & cold brew on tap.",
+        "rating": "8/10",
+        "address": "235 Summit Ave E, Seattle, WA 98102",
+        "url": "https://maps.app.goo.gl/F9icrhW5KGCnu7K36"
     }
 ]
