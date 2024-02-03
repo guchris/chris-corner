@@ -25,6 +25,7 @@ const ReviewPage = ({ params }) => {
                     <p className="body-upper"><b>Meals:</b> {review.meals}</p>
                     <p className="body-upper"><b>Type:</b> {review.type}</p>
                     <p className="body-upper"><b>Tags:</b> {review.tags}</p>
+                    <p className="body-upper"><b>Review:</b> {review.review}</p>
                     <p className="body-upper"><b>Rating:</b> {review.rating}</p>
                     <p className="body-upper"><b>Google Maps:</b> {review.url}</p>
                 </div>
