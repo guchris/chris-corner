@@ -59,7 +59,7 @@ const ReviewsMap = ({ reviews }) => {
 
         // Load Google Maps API script
         const script = document.createElement('script');
-        script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyC7xIFUTB7vRthBh7H2LcjDVFpzTH7g57s&callback=initializeMap`;
+        script.src = `https://maps.googleapis.com/maps/api/js?key=&callback=initializeMap`;
         script.defer = true;
         script.async = true;
         window.initializeMap = initializeMap;
