@@ -332,8 +332,9 @@
         "cuisine": "Italian",
         "type": "Restaurant",
         "tags": "Pasta",
-        "review": "Lorem ipsum",
+        "review": "Housemade pastas & upmarket rustic Italian fare in a stylish space with communal tables.",
         "rating": "7/10",
+        "address": "501 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/EF83NUDqPVWgghsdA"
     },
     {
@@ -344,8 +345,9 @@
         "cuisine": "Korean",
         "type": "Restaurant",
         "tags": "KBBQ",
-        "review": "Lorem ipsum",
+        "review": "Window-filled eatery serving contemporary Korean barbecue dishes, small plates & fermented sides.",
         "rating": "8/10",
+        "address": "500 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/f4DCrKvBPysHuGYs6"
     },
     {
@@ -356,8 +358,9 @@
         "cuisine": "Japanese",
         "type": "Restaurant",
         "tags": "Ramen",
-        "review": "Lorem ipsum",
+        "review": "Industrial-chic warehouse dishing up traditional Japanese ramen with a choice of broth & toppings.",
         "rating": "8/10",
+        "address": "1510 Belmont Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/9sLTu1au1Y7PMyyFA"
     },
     {
@@ -370,6 +373,7 @@
         "tags": "",
         "review": "Lorem ipsum",
         "rating": "8/10",
+        "address": "1505 10th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/27JYwANGCE4yKAr59"
     },
     {
@@ -380,8 +384,9 @@
         "cuisine": "American",
         "type": "Restaurant",
         "tags": "Sandwiches",
-        "review": "Lorem ipsum",
+        "review": "Hearty sandwiches made with gourmet ingredients & drink specials offered in a kitschy, casual space.",
         "rating": "8/10",
+        "address": "703 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/27JYwANGCE4yKAr59"
     },
     {
@@ -392,8 +397,9 @@
         "cuisine": "New American",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Sophisticated space offering international dishes, cocktails & a take-out option.",
         "rating": "9/10",
+        "address": "2350 E Union St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/oZf1HzUL1eCuEEPU7"
     },
     {
@@ -404,8 +410,9 @@
         "cuisine": "New American",
         "type": "Restaurant",
         "tags": "Vegetarian",
-        "review": "Lorem ipsum",
+        "review": "Vegetarian eats are served in this light-filled, bustling spot with a courtyard.",
         "rating": "9/10",
+        "address": "2901 E Madison St, Seattle, WA 98112",
         "url": "https://maps.app.goo.gl/zXSSULtcegh7Frr59"
     },
     {
@@ -416,8 +423,9 @@
         "cuisine": "American",
         "type": "Restaurant",
         "tags": "Bagels",
-        "review": "Lorem ipsum",
+        "review": "Cool sidewalk cafe stop dishing up hand-rolled, New York–style bagels, schmears & coffee.",
         "rating": "9/10",
+        "address": "1509 E Madison St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/6i9Kks3bi7Uz1bYJ7"
     },
     {
@@ -428,8 +436,9 @@
         "cuisine": "Italian",
         "type": "Restaurant",
         "tags": "Pasta",
-        "review": "Lorem ipsum",
+        "review": "Northern Italian fare including homemade pastas in an industrial-chic space with a large patio.",
         "rating": "8/10",
+        "address": "1429 12th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/YWCUG3e4hR7DpGLJ6"
     },
     {
@@ -440,8 +449,9 @@
         "cuisine": "Italian",
         "type": "Restaurant",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Italian restaurant with cabaret shows and trapeze entertainment, plus terrace with Elliott Bay views.",
         "rating": "8/10",
+        "address": "1919 Post Alley, Seattle, WA 98101",
         "url": "https://maps.app.goo.gl/FkBpNx3zgQ1QNu6L6"
     },
     {
@@ -452,8 +462,9 @@
         "cuisine": "",
         "type": "Cafe",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Stylish American eatery offers a variety of seasonal fare & craft drinks to a bustling crowd.",
         "rating": "8/10",
+        "address": "1525 10th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/C7391FVkFDNEQFPF6"
     },
     {
@@ -464,8 +475,9 @@
         "cuisine": "Scandinavian",
         "type": "Cafe",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Stylish, window-filled space serving specialty coffee drinks & Scandinavian brunch/lunch fare.",
         "rating": "9.5/10",
+        "address": "1252 Thomas St, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/ksCoZRJu2g5xBhKFA"
     },
     {
@@ -476,8 +488,9 @@
         "cuisine": "",
         "type": "Cafe",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Baristas prepare smooth espresso & lattes topped with foam art in an industrial-chic space.",
         "rating": "9/10",
+        "address": "227 Yale Ave N, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/wyK5rFYwFwaLwtjG7"
     },
     {
@@ -490,6 +503,7 @@
         "tags": "",
         "review": "Lorem ipsum",
         "rating": "9/10",
+        "address": "1111 E Pike St #111, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/1VGNRKgYeMpuPGci8"
     },
     {
@@ -500,8 +514,9 @@
         "cuisine": "",
         "type": "Cafe",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Relaxed, modern space where patrons can sip wine, sake, and coffee while playing with adoptable cats.",
         "rating": "9/10",
+        "address": "519 E Pine St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/dUsPysaZ9UVgaExa9"
     },
     {
@@ -514,6 +529,7 @@
         "tags": "",
         "review": "Lorem ipsum",
         "rating": "9/10",
+        "address": "101 Stewart St STE 102, Seattle, WA 98101",
         "url": "https://maps.app.goo.gl/b2HsDepkW6EdYiGC6"
     },
     {
@@ -524,8 +540,9 @@
         "cuisine": "",
         "type": "Cafe",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
         "rating": "9/10",
+        "address": "1124 Pike St, Seattle, WA 98101",
         "url": "https://maps.app.goo.gl/iUcGc9gBZyYoxTya6"
     },
     {
@@ -536,8 +553,9 @@
         "cuisine": "",
         "type": "Cafe",
         "tags": "",
-        "review": "Lorem ipsum",
+        "review": "Bustling coffee shop featuring house-roasted espresso blends & pastries in a modern interior.",
         "rating": "9/10",
+        "address": "310 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/rR5BrfZ7XLD8NG1fA"
     },
     {
@@ -550,6 +568,7 @@
         "tags": "Queer",
         "review": "Live entertainment at a hip gay venue offering a full bar & a menu of bar snacks.",
         "rating": "9/10",
+        "address": "1518 11th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/TWJwFUfe6jt5rmYA7"
     },
     {
@@ -562,6 +581,7 @@
         "tags": "Queer",
         "review": "Airy bar & eatery with a leafy patio serving cocktails alongside hearty comfort food & happy hours.",
         "rating": "8/10",
+        "address": "1009 E Union St Suite C, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/KFgppHL7oKVsFGo79"
     },
     {
@@ -574,6 +594,7 @@
         "tags": "Queer",
         "review": "Lorem ipsum",
         "rating": "8/10",
+        "address": "619 E Pine St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/vNkvHwt75vPBY4xp9"
     },
     {
@@ -586,6 +607,7 @@
         "tags": "Queer",
         "review": "A 1930s-era gas station now houses this gay bar with a tiny dance floor, outdoor patio & fire pit.",
         "rating": "8/10",
+        "address": "1221 E Madison St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/e45gzxULeKk2iz2F8"
     },
     {
@@ -598,6 +620,7 @@
         "tags": "Queer",
         "review": "Dance club with DJs, stand-up comedy & burlesque shows in an industrial, ultramodern space.",
         "rating": "8/10",
+        "address": "1809 Minor Ave #10, Seattle, WA 98101",
         "url": "https://maps.app.goo.gl/6uEwUmPvJG5T9L9W7"
     },
     {
@@ -610,6 +633,7 @@
         "tags": "Queer",
         "review": "Gay entertainment multiplex with 3 bars, dance club & patio often attracts a leather-clad crowd.",
         "rating": "8/10",
+        "address": "1533 13th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/QuwRrFw3Zdg1qtnK7"
     },
     {
@@ -622,6 +646,7 @@
         "tags": "Queer",
         "review": "Lorem ipsum",
         "rating": "7/10",
+        "address": "1413 14th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/CvSw6C9qYqdnZSAs7"
     },
     {
@@ -634,6 +659,7 @@
         "tags": "",
         "review": "Corn dogs meet cocktails at this carnival-themed bar with arcades & a stage downstairs.",
         "rating": "8/10",
+        "address": "1118 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/H65USSJuTg2JgEP9A"
     },
     {
@@ -646,6 +672,7 @@
         "tags": "",
         "review": "High-end vintage cocktails & American fare in a dark, sophisticated space with a speakeasy vibe.",
         "rating": "8.5/10",
+        "address": "1406 12th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/Np4T7fSoiwZZ5uov9"
     },
     {
@@ -658,6 +685,7 @@
         "tags": "",
         "review": "Lorem ipsum.",
         "rating": "7.5/10",
+        "address": "722 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/JA1MpJ393yeQATez6"
     },
     {
@@ -670,6 +698,7 @@
         "tags": "",
         "review": "Rum-based cocktails & light snacks in a unique venue with fanciful decor, including a giant octopus.",
         "rating": "8/10",
+        "address": "1108 Pike St, Seattle, WA 98101",
         "url": "https://maps.app.goo.gl/WKu6Ho2aX2mF47Y77"
     },
     {
@@ -682,6 +711,7 @@
         "tags": "",
         "review": "Festive, funky cantina featuring a Mexican small-plates menu, margaritas & beer, plus a photo booth.",
         "rating": "8/10",
+        "address": "1013 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/9mTLThgRTXhzDRtXA"
     },
     {
@@ -694,6 +724,7 @@
         "tags": "Rooftop",
         "review": "Artful rooftop space with a modern Middle Eastern–meets-Mediterranean menu, drinks & sweeping views.",
         "rating": "8/10",
+        "address": "400 Fairview Ave N 14th Floor, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/An2KUGHHhR8W5G7E7"
     },
     {
@@ -706,18 +737,20 @@
         "tags": "",
         "review": "Bank-affiliated coffeehouse chain offering hot drinks & free WiFi in a modern setting.",
         "rating": "10/10",
+        "address": "333 Westlake Ave N, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/LSqw4T9mYYjDwVUB9"
     },
     {
         "id": 58,
-        "name": "The Moo Bar",
-        "slug": "the-moo-bar",
+        "name": "Moo Bar",
+        "slug": "moo-bar",
         "meals": "",
         "cuisine": "",
         "type": "Dessert",
         "tags": "Boba",
         "review": "Modern Asian dessert shop crafting milk teas, ice cream & waffle concoctions, coffee & cakes.",
         "rating": "5/10",
+        "address": "2124 Westlake Ave, Seattle, WA 98121",
         "url": "https://maps.app.goo.gl/LSqw4T9mYYjDwVUB9"
     },
     {
@@ -730,6 +763,7 @@
         "tags": "",
         "review": "Ultramodern fixture serving espresso drinks, beer/wine & modern cafe eats in an open, airy interior.",
         "rating": "10/10",
+        "address": "720 Olive Wy, Seattle, WA 98101",
         "url": "https://maps.app.goo.gl/hEqHeFxBcJBKvKjR9"
     },
     {
@@ -742,6 +776,7 @@
         "tags": "Ice Cream",
         "review": "Creative flavors like salted caramel & honey lavender made of dairy from hormone-free cows.",
         "rating": "9/10",
+        "address": "917 E Pine St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/NQrZkpJio4ZAkXDM9"
     },
     {
@@ -754,6 +789,7 @@
         "tags": "Ice Cream",
         "review": "Lorem ipsum",
         "rating": "9/10",
+        "address": "714 E Pike St Suite A, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/5Ji5WnSYxWBSuaLJ7"
     },
     {
@@ -766,6 +802,7 @@
         "tags": "Ice Cream, Vegan",
         "review": "Stylish & airy shop scooping up unusual plant-based ice creams & vegan toppings.",
         "rating": "9/10",
+        "address": "1010 E Union St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/oykDMaxKjLTrJ7xb7"
     },
     {
@@ -778,6 +815,7 @@
         "tags": "",
         "review": "Unique, chef-driven dessert & wine takeaway boutique with a frequently changing menu.",
         "rating": "9/10",
+        "address": "601 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/fx7114gKnG9K7dNK9"
     },
     {
@@ -790,6 +828,7 @@
         "tags": "Boba",
         "review": "Lorem ipsum",
         "rating": "9/10",
+        "address": "1527 Harvard Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/KsNsy3vhNyDB5ZdHA"
     },
     {
@@ -802,6 +841,7 @@
         "tags": "Boba",
         "review": "Extensive menu of inventive bubble teas offered in a pared-back venue with an apparel shop.",
         "rating": "8.5/10",
+        "address": "1416 10th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/4mSThEt1pPzoufo27"
     },
     {
@@ -814,6 +854,7 @@
         "tags": "Donuts, Vegan",
         "review": "Lorem ipsum",
         "rating": "9/10",
+        "address": "1316 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/wMTBH1rPfnwbdYDAA"
     },
     {
@@ -826,6 +867,7 @@
         "tags": "Donuts",
         "review": "Lorem ipsum",
         "rating": "7.5/10",
+        "address": "1812 Boren Ave, Seattle, WA 98101",
         "url": "https://maps.app.goo.gl/6D5q3JVYZDC4gDCa9"
     },
     {
@@ -838,6 +880,7 @@
         "tags": "Donuts",
         "review": "Lorem ipsum",
         "rating": "8/10",
+        "address": "516 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/XBfjCnWfGXvkmftP9"
     },
     {
@@ -850,6 +893,7 @@
         "tags": "Matcha",
         "review": "Matcha-based lattes and parfaits, plus traditional Japanese sweets in a modern, minimalist space.",
         "rating": "10/10",
+        "address": "1007 Stewart St #103, Seattle, WA 98101",
         "url": "https://maps.app.goo.gl/XBfjCnWfGXvkmftP9"
     },
     {
@@ -994,5 +1038,135 @@
         "rating": "8/10",
         "address": "235 Summit Ave E, Seattle, WA 98102",
         "url": "https://maps.app.goo.gl/F9icrhW5KGCnu7K36"
+    },
+    {
+        "id": 81,
+        "name": "Dough Zone Dumpling House",
+        "slug": "dough-zone-dumpling-house",
+        "meals": "Brunch, Lunch, Dinner",
+        "cuisine": "Chinese",
+        "type": "Restaurant",
+        "tags": "",
+        "review": "Lorem ipsum",
+        "rating": "8/10",
+        "address": "815 Pine St, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/yQcE1AiJnbGC68vr9"
+    },
+    {
+        "id": 82,
+        "name": "Din Tai Fung",
+        "slug": "din-tai-fung",
+        "meals": "Brunch, Lunch, Dinner",
+        "cuisine": "Chinese",
+        "type": "Restaurant",
+        "tags": "",
+        "review": "Lorem ipsum",
+        "rating": "8/10",
+        "address": "600 Pine St #403, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/AGndwBkgtbWJqCe58"
+    },
+    {
+        "id": 83,
+        "name": "Piroshky Piroshky",
+        "slug": "piroshky-piroshky",
+        "meals": "",
+        "cuisine": "Russian",
+        "type": "Desserts, Pike Place",
+        "tags": "",
+        "review": "Compact Russian bakery located in Pike Place Market serving over 20 varieties of handmade piroshki.",
+        "rating": "8/10",
+        "address": "1908 Pike Pl, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/nU8YyHsj2cokPEKXA"
+    },
+    {
+        "id": 84,
+        "name": "Michou Deli",
+        "slug": "michou-deli",
+        "meals": "",
+        "cuisine": "",
+        "type": "Deli, Pike Place",
+        "tags": "",
+        "review": "Counter with a few seats serving locally sourced, elevated panini, soups & salads.",
+        "rating": "8/10",
+        "address": "1904 Pike Pl, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/6KsrCULugfCbyPSLA"
+    },
+    {
+        "id": 85,
+        "name": "Le Panier",
+        "slug": "le-panier",
+        "meals": "",
+        "cuisine": "",
+        "type": "Bakery, Pike Place",
+        "tags": "",
+        "review": "Handcrafted goodies run the gamut from fresh-baked bread to macarons, all made in a French style.",
+        "rating": "8/10",
+        "address": "1902 Pike Pl, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/BctmVx1HgdmWqUoC6"
+    },
+    {
+        "id": 86,
+        "name": "Beecher's Handmade Cheese",
+        "slug": "beechers-handmade-cheese",
+        "meals": "",
+        "cuisine": "",
+        "type": "",
+        "tags": "Pike Place",
+        "review": "Upscale shop featuring a variety of American cheeses, plus a sit-down cafe for sandwiches & soup.",
+        "rating": "8/10",
+        "address": "1600 Pike Pl, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/wAfniii7dnztwJ7AA"
+    },
+    {
+        "id": 87,
+        "name": "Rachel's Ginger Beer",
+        "slug": "rachels-ginger-beer",
+        "meals": "",
+        "cuisine": "",
+        "type": "",
+        "tags": "Pike Place",
+        "review": "Flagship shop located at Pike Place Market selling handcrafted ginger beer in a range of flavors.",
+        "rating": "8/10",
+        "address": "1530 Post Alley, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/roFpyUas18qaqims5"
+    },
+    {
+        "id": 88,
+        "name": "Pike Place Chowder",
+        "slug": "pike-place-chowder",
+        "meals": "Lunch, Dinner",
+        "cuisine": "American",
+        "type": "Restaurant",
+        "tags": "Pike Place",
+        "review": "Local seafood place serving traditional and specialty chowders in a counter-serve setting.",
+        "rating": "8/10",
+        "address": "1530 Post Alley, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/czYbYQxjGWiU8hidA"
+    },
+    {
+        "id": 89,
+        "name": "Mee Sum Pastry",
+        "slug": "mee-sum-pastry",
+        "meals": "",
+        "cuisine": "Chinese",
+        "type": "Bakery",
+        "tags": "Pike Place",
+        "review": "No-frills food stand offering buns, pastries & other Chinese grub in digs by the Pike Place Market.",
+        "rating": "8/10",
+        "address": "1526 Pike Pl, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/wZoFTa4zAbFfr536A"
+    },
+    {
+        "id": 90,
+        "name": "Ghost Alley Espresso",
+        "slug": "ghost-alley-espresso",
+        "meals": "",
+        "cuisine": "",
+        "type": "Cafe",
+        "tags": "Pike Place",
+        "review": "Hideaway, pint-sized coffee shop offering artisanal espresso drinks from small, Northwest roasters.",
+        "rating": "8/10",
+        "address": "1499 Post Alley, Seattle, WA 98101",
+        "url": "https://maps.app.goo.gl/CSjEifXJecASPqej7"
     }
 ]

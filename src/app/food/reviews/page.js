@@ -2,6 +2,7 @@ import React from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import ReviewsSection from '@/components/ReviewsSection';
+import ReviewsMap from '@/components/ReviewsMap';
 
 import reviewsData from './reviews-data.json';
 
@@ -24,8 +25,9 @@ const ReviewsPage = () => {
                     Restaurant Reviews & Reccomendations. In progress.
                 </p>
 
+                <ReviewsMap reviews={reviewsData} />
                 <ReviewsSection reviews={reviewsData} />
-                
+
             </div>
         </>
     );
