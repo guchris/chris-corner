@@ -3,6 +3,7 @@ import { useEffect, useRef } from "react"
 
 const ReviewsMap = ({ reviews }) => {
     const mapContainerRef = useRef(null);
+    const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
 
     useEffect(() => {
         const initializeMap = () => {
@@ -59,7 +60,7 @@ const ReviewsMap = ({ reviews }) => {
 
         // Load Google Maps API script
         const script = document.createElement('script');
-        script.src = `https://maps.googleapis.com/maps/api/js?key=&callback=initializeMap`;
+        script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&callback=initializeMap`;
         script.defer = true;
         script.async = true;
         window.initializeMap = initializeMap;
