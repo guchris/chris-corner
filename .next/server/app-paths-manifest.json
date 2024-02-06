@@ -1,3 +1,6 @@
 {
+  "/page": "app/page.js",
+  "/travel/checklist/page": "app/travel/checklist/page.js",
+  "/food/reviews/[slug]/page": "app/food/reviews/[slug]/page.js",
   "/food/reviews/page": "app/food/reviews/page.js"
 }

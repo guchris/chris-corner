@@ -1293,10 +1293,36 @@
         "meals": "",
         "cuisine": "",
         "type": "Dessert",
-        "tags": "BOba",
+        "tags": "Boba",
         "review": "Lorem ipsum",
         "rating": "8/10",
         "address": "308 105th Ave NE, Bellevue, WA 98004",
         "url": "https://maps.app.goo.gl/3ydeR8fxtJoX6gMc7"
+    },
+    {
+        "id": 101,
+        "name": "Fuji Bakery",
+        "slug": "fuji-bakery",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Bakery",
+        "review": "Branch of a bakery chain with Japanese & French treats made from carefully sourced ingredients.",
+        "rating": "8/10",
+        "address": "1030 Elliott Ave W, Seattle, WA 98119",
+        "url": "https://maps.app.goo.gl/tGkr3PJpq8vrCeAt6"
+    },
+    {
+        "id": 102,
+        "name": "Macrina Bakery & Cafe",
+        "slug": "macrina-bakery-and-cafe",
+        "meals": "",
+        "cuisine": "",
+        "type": "Dessert",
+        "tags": "Bakery, Cafe",
+        "review": "Artisan breads, gourmet baked sweets & savory sandwiches served in a warm space.",
+        "rating": "8/10",
+        "address": "2408 1st Ave, Seattle, WA 98121",
+        "url": "https://maps.app.goo.gl/EtYM1BRzmnVqSX63A"
     }
 ]
