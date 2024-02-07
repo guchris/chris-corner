@@ -272,6 +272,14 @@ header {
   max-width: 800px;
 }
 
+.section-small {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  margin-bottom: 10px;
+  max-width: 800px;
+}
+
 .section-skinny {
   display: flex;
   flex-direction: column;
@@ -284,6 +292,26 @@ header {
   gap: 10px;
   max-width: 800px;
   margin: 0;
+}
+
+.row-width-100 {
+  min-width: 100px;
+}
+
+.row-width-150 {
+  min-width: 150px;
+}
+
+.row-width-200 {
+  min-width: 200px;
+}
+
+.row-width-250 {
+  min-width: 250px;
+}
+
+.row-width-300 {
+  min-width: 300px;
 }
 
 .section-title {
@@ -447,32 +475,6 @@ header {
   margin-top: 0;
   margin-bottom: 40px;
 }
-
-
-
-
-
-/* REFACTOR */
-/* REFACTOR */
-/* REFACTOR */
-
-.ranking-category {
-  font-size: 12px;
-  text-transform: uppercase;
-  margin: 0;
-  min-width: 100px;
-}
-.guest-name {
-  font-size: 12px;
-  text-transform: uppercase;
-  font-weight: bold;
-  margin: 0;
-  min-width: 100px;
-}
-
-/* REFACTOR */
-/* REFACTOR */
-/* REFACTOR */
 
 
 

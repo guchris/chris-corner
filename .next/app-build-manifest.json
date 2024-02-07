@@ -105,6 +105,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/travel/guides/page.js"
+    ],
+    "/projects/brews-and-bites/[iteration]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/projects/brews-and-bites/[iteration]/page.js"
+    ],
+    "/food/sunday-suppers/[slug]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/food/sunday-suppers/[slug]/page.js"
     ]
   }
 }

@@ -36,27 +36,27 @@ const SupperPage = ({ params }) => {
                     <h4 className="section-title">The Scores</h4>
                     <div className="section-skinny">
                         <div className="row-skinny">
-                            <p className="ranking-category">Taste</p>
+                            <p className="body-upper row-width-100">Taste</p>
                             <p className="body-lower">{supper.catgory1score1}</p>
                             <p className="body-lower">{supper.catgory1score2}</p>
                         </div>
                         <div className="row-skinny">
-                            <p className="ranking-category">Appearance</p>
+                            <p className="body-upper row-width-100">Appearance</p>
                             <p className="body-lower">{supper.catgory2score1}</p>
                             <p className="body-lower">{supper.catgory2score2}</p>
                         </div>
                         <div className="row-skinny">
-                            <p className="ranking-category">Effort</p>
+                            <p className="body-upper row-width-100">Effort</p>
                             <p className="body-lower">{supper.catgory3score1}</p>
                             <p className="body-lower">{supper.catgory3score2}</p>
                         </div>
                         <div className="row-skinny">
-                            <p className="ranking-category">Misc</p>
+                            <p className="body-upper row-width-100">Misc</p>
                             <p className="body-lower">{supper.catgory4score1}</p>
                             <p className="body-lower">{supper.catgory4score2}</p>
                         </div>
                         <div className="row-skinny">
-                            <p className="ranking-category"><b>Total</b></p>
+                            <p className="body-upper row-width-100"><b>Total</b></p>
                             <p className="body-lower"><b>{supper.totalScore}</b></p>
                         </div>
                     </div>
