@@ -19,38 +19,40 @@ const ReviewPage = ({ params }) => {
                     <Link href="/food" className="link">Food</Link> | <Link href="/food/reviews" className="link">Reviews</Link> | {review.name}
                 </h2>
 
-                <div className="section">
+                <div className="section-medium">
                     <div className="row-skinny">
-                        <p className="ranking-category">Name</p>
+                        <p className="body-upper-bold row-width-100">Name</p>
                         <p className="body-lower">{review.name}</p>
                     </div>
                     <div className="row-skinny">
-                        <p className="ranking-category">Cuisine</p>
-                        <p className="body-lower">{review.cuisine}</p>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="ranking-category">Type</p>
+                        <p className="body-upper-bold row-width-100">Type</p>
                         <p className="body-lower">{review.type}</p>
                     </div>
                     <div className="row-skinny">
-                        <p className="ranking-category">Meals</p>
+                        <p className="body-upper-bold row-width-100">Cuisine</p>
+                        <p className="body-lower">{review.cuisine}</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper-bold row-width-100">Meals</p>
                         <p className="body-lower">{review.meals}</p>
                     </div>
                     <div className="row-skinny">
-                        <p className="ranking-category">Tags</p>
+                        <p className="body-upper-bold row-width-100">Tags</p>
                         <p className="body-lower">{review.tags}</p>
                     </div>
                     <div className="row-skinny">
-                        <p className="ranking-category">Review</p>
+                        <p className="body-upper-bold row-width-100">URL</p>
+                        <a className="body-lower" href={review.url} target="_blank">Google Maps</a>
+                    </div>
+                </div>
+                <div className="section-medium">
+                    <div className="row-skinny">
+                        <p className="body-upper-bold row-width-100">Rating</p>
+                        <p className="body-lower">{review.rating}</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper-bold row-width-100">Review</p>
                         <p className="body-lower">{review.review}</p>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="ranking-category">Rating</p>
-                        <p className="body-lower">{review.raiting}</p>
-                    </div>
-                    <div className="row-skinny">
-                        <p className="ranking-category">URL</p>
-                        <a className="body-lower" href={review.url}>Google Maps</a>
                     </div>
                 </div>
             </div>

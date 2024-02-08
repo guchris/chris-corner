@@ -115,6 +115,21 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/food/sunday-suppers/[slug]/page.js"
+    ],
+    "/about-me/career/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/about-me/career/page.js"
+    ],
+    "/about-me/education/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/about-me/education/page.js"
+    ],
+    "/about-me/goals/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/about-me/goals/page.js"
     ]
   }
 }

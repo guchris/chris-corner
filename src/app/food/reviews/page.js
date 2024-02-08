@@ -22,7 +22,7 @@ const ReviewsPage = () => {
                     <Link href="/food" className="link">Food</Link> | Reviews
                 </h2>
                 <p className="intro">
-                    Restaurant Reviews & Reccomendations. In progress.
+                    Restaurant Reviews & Reccomendations still in progress. Lots of placeholder ratings and reviews at the moment.
                 </p>
 
                 <ReviewsMap reviews={reviewsData} />
