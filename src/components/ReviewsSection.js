@@ -9,12 +9,20 @@ const ReviewsSection = ({ reviews }) => {
     const dessertReviews = reviews.filter(review => review.type.includes("Dessert"));
     const pikePlaceReviews = reviews.filter(review => review.type.includes("Pike Place"));
 
-    // Sort reviews alphabetically by name
-    const sortedRestaurantReviews = [...restaurantReviews].sort((a, b) => a.name.localeCompare(b.name));
-    const sortedCafeReviews = [...cafeReviews].sort((a, b) => a.name.localeCompare(b.name));
-    const sortedBarReviews = [...barReviews].sort((a, b) => a.name.localeCompare(b.name));
-    const sortedDessertReviews = [...dessertReviews].sort((a, b) => a.name.localeCompare(b.name));
-    const sortedPikePlaceReviews = [...pikePlaceReviews].sort((a, b) => a.name.localeCompare(b.name));
+    // Sort reviews by score, highest to lowest, then by name alphabetically
+    const sortByScoreAndName = (a, b) => {
+        if (a.rating === b.rating) {
+            return a.name.localeCompare(b.name);
+        }
+        return b.rating - a.rating;
+    };
+
+    // Sort reviews for each category
+    const sortedRestaurantReviews = [...restaurantReviews].sort(sortByScoreAndName);
+    const sortedCafeReviews = [...cafeReviews].sort(sortByScoreAndName);
+    const sortedBarReviews = [...barReviews].sort(sortByScoreAndName);
+    const sortedDessertReviews = [...dessertReviews].sort(sortByScoreAndName);
+    const sortedPikePlaceReviews = [...pikePlaceReviews].sort(sortByScoreAndName);
 
     return (
         <>
