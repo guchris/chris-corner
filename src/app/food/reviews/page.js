@@ -34,7 +34,7 @@ const ReviewsPage = () => {
 
                 <h4 className="section-title">Score Designations</h4>
                 <div className="section-gap">
-                    <p className="body-lower">This rating system provides a clear indication of the quality of the dining experience, helping others make informed choices about where to eat.</p>
+                    <p className="body-lower">This rating system is your go-to guide for all things food and drink, helping you navigate the vibrant world of eateries and hangouts.</p>
                     <div className="section-skinny">
                         <p className="body-upper-bold">10.0 - Must Try</p>
                         <p className="body-lower">An exceptional dining experience that you absolutely shouldn't miss. The food, service, ambiance, and overall experience are outstanding.</p>

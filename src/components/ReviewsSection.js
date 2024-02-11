@@ -63,7 +63,7 @@ const ReviewsSection = ({ reviews }) => {
                     />
 
                     {/* Clear Filters Button */}
-                    <button onClick={clearFilters}>Clear</button>
+                    <button onClick={clearFilters}>Clear Filters</button>
                 </div>
             </div>
 

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "location": "Tokyo",
+        "slug": "tokyo",
+        "section1": "Lorem ipsum 1",
+        "section2": "Lorem ipsum 2",
+        "section3": "Lorem ipsum 3"
+    },
+    {
+        "id": 2,
+        "location": "Los Angeles",
+        "slug": "los-angeles",
+        "section1": "Lorem ipsum 1",
+        "section2": "Lorem ipsum 2",
+        "section3": "Lorem ipsum 3"
+    },
+    {
+        "id": 3,
+        "location": "London",
+        "slug": "london",
+        "section1": "Lorem ipsum 1",
+        "section2": "Lorem ipsum 2",
+        "section3": "Lorem ipsum 3"
+    }
+]
