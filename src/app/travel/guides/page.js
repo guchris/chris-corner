@@ -1,6 +1,9 @@
 import React from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import GuidesSection from '@/components/GuidesSection';
+
+import guidesData from './guides-data.json';
 
 const GuidesPage = () => {
     
@@ -21,6 +24,9 @@ const GuidesPage = () => {
                     Learnings and itineraries from my travels.<br/>
                     Guides coming soon.
                 </p>
+
+                <h4 className="section-title">Recent Trip Guides</h4>
+                <GuidesSection guides={guidesData} />
             </div>
         </>
     );

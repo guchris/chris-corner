@@ -1,26 +1,120 @@
 [
     {
         "id": 1,
-        "location": "Tokyo",
-        "slug": "tokyo",
-        "section1": "Lorem ipsum 1",
-        "section2": "Lorem ipsum 2",
-        "section3": "Lorem ipsum 3"
-    },
-    {
-        "id": 2,
-        "location": "Los Angeles",
+        "destination": "Los Angeles",
         "slug": "los-angeles",
-        "section1": "Lorem ipsum 1",
-        "section2": "Lorem ipsum 2",
-        "section3": "Lorem ipsum 3"
-    },
-    {
-        "id": 3,
-        "location": "London",
-        "slug": "london",
-        "section1": "Lorem ipsum 1",
-        "section2": "Lorem ipsum 2",
-        "section3": "Lorem ipsum 3"
-    }
+        "dates_visited" : {
+            "start_date": "01-31-2024",
+            "end_date": "02-07-2024"
+        },
+        "summary": "Experience the trendiest neighborhoods and cultural hotspots of Los Angeles...except, we got tarnatial downpour - the most ever in 2 days in over 2 decades!",
+        "itinerary": [
+            {
+                "day": "Day 1",
+                "activities": [
+                    "Explore Venice Beach and Boardwalk",
+                    "Visit the Venice Canals",
+                    "Dine at Gjelina"
+                ]
+            },
+            {
+                "day": "Day 2",
+                "activities": [
+                    "Hike to the Hollywood Sign",
+                    "Hike to the Griffith Observatory"
+                ]
+            },
+            {
+                "day": "Day 3",
+                "activities": [
+                    "Stroll along Melrose Avenue for shopping and street art",
+                    "Visit LACMA (Los Angeles County Museum of Art)",
+                    "Visit Peterson Automobile Museum"
+                ]
+            },
+            {
+                "day": "Day 4",
+                "activities": [
+                    "Explore the Arts District",
+                    "Visit The Broad Museum",
+                    "Lunch at Grand Central Market"
+                ]
+            },
+            {
+                "day": "Day 5",
+                "activities": [
+                    "Tour the Getty Center",
+                    "Relax at Santa Monica Pier",
+                    "Dinner at Nobu Malibu"
+                ]
+            },
+            {
+                "day": "Day 6",
+                "activities": [
+                    "Shop and dine on Abbot Kinney Boulevard",
+                    "Visit the Hammer Museum",
+                    "Enjoy sunset at Manhattan Beach"
+                ]
+            },
+            {
+                "day": "Day 7",
+                "activities": [
+                    "Hike in Runyon Canyon Park",
+                    "Explore the Sunset Strip",
+                    "Farewell dinner at Perch"
+                ]
+            }
+        ],
+        "recommendations": {
+            "places": [
+                {
+                  "name": "The Last Bookstore",
+                  "description": "A must-visit indie bookstore with a unique atmosphere.",
+                  "category": "Bookstore",
+                  "location": "453 S Spring St, Los Angeles, CA 90013"
+                },
+                {
+                  "name": "Griffith Park",
+                  "description": "One of the largest urban parks in North America, offering hiking trails and scenic views of LA.",
+                  "category": "Park",
+                  "location": "Griffith Park, Los Angeles, CA 90027"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Street Art Tour in the Arts District",
+                    "description": "Explore the vibrant street art scene in the hip Arts District with a guided tour."
+                },
+                {
+                    "name": "Venice Beach Bike Rental",
+                    "description": "Rent a bike and cruise along the iconic Venice Beach Boardwalk, soaking in the sights and sounds."
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Sqirl",
+                    "description": "Famous for their inventive breakfast and brunch dishes featuring local ingredients.",
+                    "cuisine": "American, Californian",
+                    "location": "720 N Virgil Ave #4, Los Angeles, CA 90029"
+                },
+                {
+                    "name": "Bestia",
+                    "description": "A trendy Italian restaurant known for its house-made charcuterie and pasta dishes.",
+                    "cuisine": "Italian",
+                    "location": "2121 E 7th Pl, Los Angeles, CA 90021"
+                }
+            ]
+        },
+        "transportation": "Uber/Lyft or rental car are convenient options for getting around LA. Public transportation is also available via Metro buses and trains.",
+        "accommodation": "Stay in a trendy boutique hotel or Airbnb rental in neighborhoods like Venice Beach, Silver Lake, or Downtown LA.",
+        "tips": "Pack comfortable walking shoes and layers, as LA weather can vary throughout the day. Make restaurant reservations in advance, especially for popular spots.",
+        "cost_estimate": "Estimated cost for a week in LA can range from $1500 to $3000, depending on accommodation, dining choices, and activities.",
+        "language_spoken": "English is the primary language spoken in Los Angeles.",
+        "currency_used": "United States Dollar (USD)",
+        "emergency_contact": "Emergency contact information, including local emergency services, embassy or consulate contact details",
+        "weather_information": "February in Los Angeles typically has mild and pleasant weather, with average temperatures ranging from 50°F (10°C) to 70°F (21°C).",
+        "best_time_to_visit": "Spring (March to May) and Fall (September to November) are ideal times to visit Los Angeles, with mild temperatures and fewer crowds.",
+        "recommended_duration": "A week is a good amount of time to explore Los Angeles and its diverse neighborhoods and attractions.",
+        "local_customs": "Tipping is customary in Los Angeles, typically 15-20% in restaurants and for services like taxis and hairdressers."
+      }
 ]
