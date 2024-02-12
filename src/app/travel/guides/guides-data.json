@@ -116,5 +116,126 @@
         "best_time_to_visit": "Spring (March to May) and Fall (September to November) are ideal times to visit Los Angeles, with mild temperatures and fewer crowds.",
         "recommended_duration": "A week is a good amount of time to explore Los Angeles and its diverse neighborhoods and attractions.",
         "local_customs": "Tipping is customary in Los Angeles, typically 15-20% in restaurants and for services like taxis and hairdressers."
-      }
+    },
+    {
+        "id": 2,
+        "destination": "New York City",
+        "slug": "new-york-city",
+        "dates_visited": {
+            "start_date": "01-01-2024",
+            "end_date": "01-07-2024"
+        },
+        "summary": "Experience the hustle and bustle of the Big Apple, from iconic landmarks like Times Square and the Statue of Liberty to trendy neighborhoods like Brooklyn and Greenwich Village.",
+        "itinerary": [
+            {
+                "day": "Day 1",
+                "activities": [
+                    "Explore Times Square and visit the TKTS booth for discounted Broadway tickets",
+                    "Take a stroll through Central Park and visit the Central Park Zoo",
+                    "Dine at a classic New York deli for lunch"
+                ]
+            },
+            {
+                "day": "Day 2",
+                "activities": [
+                    "Visit the Statue of Liberty and Ellis Island",
+                    "Take a ferry ride to Staten Island for panoramic views of the city skyline",
+                    "Explore the High Line park"
+                ]
+            },
+            {
+                "day": "Day 3",
+                "activities": [
+                    "Discover the museums of Museum Mile, including the Metropolitan Museum of Art and the Guggenheim Museum",
+                    "Take a walking tour of historic neighborhoods like the Upper East Side and Harlem",
+                    "Catch a Broadway show in the evening"
+                ]
+            },
+            {
+                "day": "Day 4",
+                "activities": [
+                    "Shop along Fifth Avenue, including iconic stores like Tiffany & Co. and Saks Fifth Avenue",
+                    "Visit the Empire State Building for panoramic views of the city",
+                    "Enjoy dinner in Little Italy"
+                ]
+            },
+            {
+                "day": "Day 5",
+                "activities": [
+                    "Explore the trendy neighborhoods of Brooklyn, including Williamsburg and DUMBO",
+                    "Walk across the Brooklyn Bridge for stunning views of the Manhattan skyline",
+                    "Sample artisanal food at Smorgasburg food market"
+                ]
+            },
+            {
+                "day": "Day 6",
+                "activities": [
+                    "Take a ferry to Governors Island for outdoor activities and historic sites",
+                    "Visit the 9/11 Memorial & Museum",
+                    "Explore the vibrant nightlife of Greenwich Village"
+                ]
+            },
+            {
+                "day": "Day 7",
+                "activities": [
+                    "Visit the Museum of Modern Art (MoMA)",
+                    "Explore the diverse neighborhoods of Queens, including Astoria and Long Island City",
+                    "Farewell dinner in a trendy restaurant in the Meatpacking District"
+                ]
+            }
+        ],
+        "recommendations": {
+            "places": [
+                {
+                    "name": "Top of the Rock Observation Deck",
+                    "description": "Enjoy stunning views of Manhattan from the top of the Rockefeller Center.",
+                    "category": "Landmark",
+                    "location": "30 Rockefeller Plaza, New York, NY 10112"
+                },
+                {
+                    "name": "Brooklyn Botanic Garden",
+                    "description": "Escape the city hustle and explore beautiful gardens and greenhouses in Brooklyn.",
+                    "category": "Garden",
+                    "location": "990 Washington Ave, Brooklyn, NY 11225"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Broadway Walking Tour",
+                    "description": "Learn about the history of Broadway and its iconic theaters on a guided walking tour.",
+                    "category": "Tour"
+                },
+                {
+                    "name": "Central Park Bike Rental",
+                    "description": "Rent a bike and explore Central Park at your own pace, visiting landmarks like Bethesda Terrace and Bow Bridge.",
+                    "category": "Recreation"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Katz's Delicatessen",
+                    "description": "Experience the classic New York deli atmosphere and enjoy pastrami sandwiches and matzo ball soup.",
+                    "cuisine": "Jewish, Deli",
+                    "location": "205 E Houston St, New York, NY 10002"
+                },
+                {
+                    "name": "Le Bernardin",
+                    "description": "Indulge in exquisite seafood dishes prepared by renowned chef Eric Ripert.",
+                    "cuisine": "French, Seafood",
+                    "location": "155 W 51st St, New York, NY 10019"
+                }
+            ]
+        },
+        "transportation": "Subway and bus are convenient options for getting around New York City. Taxis and rideshare services like Uber and Lyft are also widely available.",
+        "accommodation": "Stay in a hotel in Manhattan for easy access to major attractions. Alternatively, explore trendy neighborhoods like Brooklyn and Queens for unique accommodation options.",
+        "tips": "Plan your itinerary in advance and book tickets for popular attractions to avoid long lines. Be prepared for walking and wear comfortable shoes. Explore the city's diverse neighborhoods to experience its cultural richness.",
+        "cost_estimate": "Estimated cost for a week in New York City can range from $2000 to $4000, depending on accommodation, dining choices, and activities.",
+        "language_spoken": "English is the primary language spoken in New York City, but you'll also hear a variety of languages due to its diverse population.",
+        "currency_used": "United States Dollar (USD)",
+        "emergency_contact": "Emergency contact information, including local emergency services, embassy or consulate contact details",
+        "weather_information": "January in New York City is typically cold, with average temperatures ranging from 25°F (-4°C) to 40°F (4°C). Be prepared for winter weather, including snow and freezing temperatures.",
+        "best_time_to_visit": "Spring (April to June) and Fall (September to November) are ideal times to visit New York City, with mild weather and fewer tourists.",
+        "recommended_duration": "A week is a good amount of time to explore New York City and its iconic attractions, but you could easily spend more time to delve deeper into its neighborhoods and cultural offerings.",
+        "local_customs": "Tipping is customary in New York City, typically 15-20% in restaurants and for services like taxis and hairdressers. Respect personal space and be aware of your surroundings in crowded areas."
+    }
 ]
