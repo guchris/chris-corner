@@ -1,9 +1,8 @@
 {
   "/food/reviews/page": "app/food/reviews/page.js",
-  "/food/reviews/[slug]/page": "app/food/reviews/[slug]/page.js",
-  "/travel/guides/page": "app/travel/guides/page.js",
+  "/page": "app/page.js",
+  "/icon.png/route": "app/icon.png/route.js",
   "/travel/guides/[slug]/page": "app/travel/guides/[slug]/page.js",
   "/about-me/career/page": "app/about-me/career/page.js",
-  "/page": "app/page.js",
-  "/travel/page": "app/travel/page.js"
+  "/travel/guides/page": "app/travel/guides/page.js"
 }

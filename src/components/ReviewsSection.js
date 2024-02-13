@@ -1,5 +1,5 @@
 "use client"
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Link from 'next/link'
 
 const ReviewsSection = ({ reviews }) => {
@@ -10,6 +10,31 @@ const ReviewsSection = ({ reviews }) => {
     const [selectedPrice, setSelectedPrice] = useState("");
     const [selectedRating, setSelectedRating] = useState("");
     const [searchTerm, setSearchTerm] = useState("");
+
+    const [typeOptions, setTypeOptions] = useState([]);
+    const [cuisineOptions, setCuisineOptions] = useState([]);
+    const [mealOptions, setMealOptions] = useState([]);
+    const [tagOptions, setTagOptions] = useState([]);
+    const [priceOptions, setPriceOptions] = useState([]);
+    const [ratingOptions, setRatingOptions] = useState([]);
+
+    useEffect(() => {
+        // Extract unique options for each filter category
+        const getTypeOptions = [...new Set(reviews.flatMap(review => review.type.split(", ").map(option => option.trim())))];
+        const getCuisineOptions = [...new Set(reviews.flatMap(review => review.cuisine.split(", ").map(option => option.trim())))];
+        const getMealOptions = [...new Set(reviews.flatMap(review => review.meals.split(", ").map(option => option.trim())))];
+        const getTagOptions = [...new Set(reviews.flatMap(review => review.tags.split(", ").filter(tag => tag !== "").map(option => option.trim())))];
+        const getPriceOptions = [...new Set(reviews.map(review => review.price))];
+        const getRatingOptions = [...new Set(reviews.map(review => parseFloat(review.rating)))];
+
+        // Sort options alphabetically
+        setTypeOptions(getTypeOptions.sort());
+        setCuisineOptions(getCuisineOptions.sort());
+        setMealOptions(getMealOptions.sort());
+        setTagOptions(getTagOptions.sort());
+        setPriceOptions(getPriceOptions.sort());
+        setRatingOptions(getRatingOptions.sort());
+    }, [reviews]);
 
     // Function to filter reviews based on selected filters
     const filteredReviews = reviews.filter(review => {
@@ -74,88 +99,49 @@ const ReviewsSection = ({ reviews }) => {
                     {/* Type Filter */}
                     <select className="body-upper-bold row-width-200" value={selectedType} onChange={(e) => setSelectedType(e.target.value)}>
                         <option value="">Type</option>
-                        <option value="Bakery">Bakery</option>
-                        <option value="Bar">Bar</option>
-                        <option value="Cafe">Cafe</option>
-                        <option value="Deli">Deli</option>
-                        <option value="Shop">Shop</option>
-                        <option value="Restaurant">Restaurant</option>
+                        {typeOptions.map(option => (
+                            <option key={option} value={option}>{option}</option>
+                        ))}
                     </select>
 
                     {/* Cuisine Filter */}
                     <select className="body-upper-bold row-width-150" value={selectedCuisine} onChange={(e) => setSelectedCuisine(e.target.value)}>
                         <option value="">Cuisine</option>
-                        <option value="American">American</option>
-                        <option value="Argentinian">Argentinian</option>
-                        <option value="Chinese">Chinese</option>
-                        <option value="Georgian">Georgian</option>
-                        <option value="German">German</option>
-                        <option value="Israeli">Israeli</option>
-                        <option value="Italian">Italian</option>
-                        <option value="Japanese">Japanese</option>
-                        <option value="Korean">Korean</option>
-                        <option value="Mexican">Mexican</option>
-                        <option value="Middle Eastern">Middle Eastern</option>
-                        <option value="Russian">Russian</option>
-                        <option value="Thai">Thai</option>
-                        <option value="Vietnamese">Vietnamese</option>
+                        {cuisineOptions.map(option => (
+                            <option key={option} value={option}>{option}</option>
+                        ))}
                     </select>
 
                     {/* Meals Filter */}
                     <select className="body-upper-bold row-width-100" value={selectedMeal} onChange={(e) => setSelectedMeal(e.target.value)}>
                         <option value="">Meal</option>
-                        <option value="BR">BR (Breakfast)</option>
-                        <option value="BU">BU (Brunch)</option>
-                        <option value="L">L (Lunch)</option>
-                        <option value="D">D (Dinner)</option>
+                        {mealOptions.map(option => (
+                            <option key={option} value={option}>{option}</option>
+                        ))}
                     </select>
 
                     {/* Tag Filter */}
                     <select className="body-upper-bold row-width-150" value={selectedTag} onChange={(e) => setSelectedTag(e.target.value)}>
                         <option value="">Tag</option>
-                        <option value="Bagels">Bagels</option>
-                        <option value="Bakery">Bakery</option>
-                        <option value="Bibimbap">Bibimbap</option>
-                        <option value="Boba">Boba</option>
-                        <option value="Burgers">Burgers</option>
-                        <option value="Dim Sum">Dim Sum</option>
-                        <option value="Donuts">Donuts</option>
-                        <option value="Fried Chicken">Fried Chicken</option>
-                        <option value="Fries">Fries</option>
-                        <option value="Ice Cream">Ice Cream</option>
-                        <option value="KBBQ">Katsu</option>
-                        <option value="KBBQ">KBBQ</option>
-                        <option value="Kimbap">Kimbap</option>
-                        <option value="LGBTQ+">LGBTQ+</option>
-                        <option value="Noodles">Noodles</option>
-                        <option value="Pasta">Pasta</option>
-                        <option value="Pho">Pho</option>
-                        <option value="Pike Place">Pike Place</option>
-                        <option value="Pizza">Pizza</option>
-                        <option value="Ramen">Ramen</option>
-                        <option value="Salads">Salads</option>
-                        <option value="Sandwiches">Sandwiches</option>
-                        <option value="Vegan">Vegan</option>
-                        <option value="Vegetarian">Vegetarian</option>
+                        {tagOptions.map(option => (
+                            <option key={option} value={option}>{option}</option>
+                        ))}
                     </select>
 
                     {/* Price Filter */}
                     <select className="body-upper-bold row-width-100" value={selectedPrice} onChange={(e) => setSelectedPrice(e.target.value)}>
                         <option value="">Price</option>
-                        <option value="$">Low ($)</option>
-                        <option value="$$">Medium ($$)</option>
-                        <option value="$$$">High ($$$)</option>
-                        <option value="$$$$">Very High ($$$$)</option>
-                        {/* Add more price options here */}
+                        {priceOptions.map(option => (
+                            <option key={option} value={option}>{option}</option>
+                        ))}
                     </select>
 
                     {/* Rating Filter */}
                     <select className="body-upper-bold row-width-100" value={selectedRating} onChange={(e) => setSelectedRating(e.target.value)}>
                         <option value="">Rating</option>
-                        <option value="7">7.0+</option>
-                        <option value="8">8.0+</option>
-                        <option value="9">9.0+</option>
-                        <option value="10">10.0</option>
+                        {ratingOptions.map(option => (
+                            <option key={option} value={option}>{option}</option>
+                        ))}
                     </select>
                 </div>
             </div>
