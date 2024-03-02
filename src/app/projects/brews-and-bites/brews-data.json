@@ -212,18 +212,46 @@
         "menuBack": "v3-back.png",
         "date": "March 9, 2024",
         "title": "After a month long hiatus, brews & bites is back with a central american flair and a a mouthwatering chocolate tasting extravaganza!",
-        "story": "TBD",
+        "story": "<b>Chocolate Tasting Options</b><br/><br/>[Costa Rica] North Fields 60% Cacao (Farm to Bar)<br/>[Costa Rica] North Fields 70A% Cacao (Farm to Bar)<br/>[Costa Rica] North Fields 85% Cacao (Farm to Bar)<br/>[Costa Rica] Balfour 72% Chocolate Oscufro Frutas Tropicales (Cacao Organico)<br/>[Costa Rica] Grand Cru Chocolate Negro 70% (Tree to Bar, Single Estate)<br/>[Costa Rica] Britt Tableta de Chocolate Oscuro con Trozos de Jalea de Maracuya 70% Cacao<br/>[Costa Rica] Britt Tableta de Chocolate Oscuro con Trozos de Jalea de Guayaba 70% Cacao<br/>[Guatemala] Lacasa Chocolate Negro Menta 70% Cacao<br/>[Guatemala] Tutto Chocolate Semi Amargo con Mani, Pistacho, y Arros Tostado",
         "guests": [
             {
-                "name": "Friendo 1",
+                "name": "Anjuli",
                 "order": "TBD"
             },
             {
-                "name": "Friendo 2",
+                "name": "Asher",
                 "order": "TBD"
             },
             {
-                "name": "Friendo 3",
+                "name": "Christine",
+                "order": "TBD"
+            },
+            {
+                "name": "Clay",
+                "order": "TBD"
+            },
+            {
+                "name": "Jack",
+                "order": "TBD"
+            },
+            {
+                "name": "Joce",
+                "order": "TBD"
+            },
+            {
+                "name": "Mags",
+                "order": "TBD"
+            },
+            {
+                "name": "Raine",
+                "order": "TBD"
+            },
+            {
+                "name": "Ralph",
+                "order": "TBD"
+            },
+            {
+                "name": "Theo",
                 "order": "TBD"
             }
         ],

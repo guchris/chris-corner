@@ -1,7 +1,7 @@
 {
-  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
   "/food/reviews/page": "app/food/reviews/page.js",
+  "/page": "app/page.js",
+  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
   "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
-  "/projects/page": "app/projects/page.js",
-  "/page": "app/page.js"
+  "/projects/page": "app/projects/page.js"
 }
