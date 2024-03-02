@@ -204,5 +204,30 @@
             "v2-13.png",
             "v2-14.png"
         ]
+    },
+    {
+        "id": 3,
+        "iteration": "v3",
+        "menuFront": "v3-front.png",
+        "menuBack": "v3-back.png",
+        "date": "March 9, 2024",
+        "title": "After a month long hiatus, brews & bites is back with a central american flair and a a mouthwatering chocolate tasting extravaganza!",
+        "story": "TBD",
+        "guests": [
+            {
+                "name": "Friendo 1",
+                "order": "TBD"
+            },
+            {
+                "name": "Friendo 2",
+                "order": "TBD"
+            },
+            {
+                "name": "Friendo 3",
+                "order": "TBD"
+            }
+        ],
+        "photos": [
+        ]
     }
 ]
