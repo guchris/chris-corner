@@ -1,7 +1,7 @@
 {
-  "/travel/checklist/page": "app/travel/checklist/page.js",
   "/travel/guides/page": "app/travel/guides/page.js",
   "/travel/guides/[slug]/page": "app/travel/guides/[slug]/page.js",
   "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
+  "/page": "app/page.js",
   "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js"
 }
