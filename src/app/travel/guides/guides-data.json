@@ -244,7 +244,7 @@
         "slug": "Guatemala",
         "dates_visited": {
             "start_date": "02-11-2024",
-            "end_date": "02-15-2024"
+            "end_date": "02-18-2024"
         },
         "summary": "My Guatemala journey was a spontaneous whirlwind of fun! It all started with a random decision spurred by a super cheap flight. Traversing through Antigua was like strolling through a living history book, with every corner revealing vibrant markets and stunning colonial charm. Not to mention being a stone throw's away from multiple majestic volcanos. From there, I shuttled over to Lake Atitlán, crashing in quirky hostels and exploring the laid-back vibes of San Pedro and San Marcos. Kayaking and hiking in and around this lake was serene and magical. And amidst all the adventure, I found myself immersed in the local culture, making new amigos, and brushing up on my Spanish. Who knew a spur-of-the-moment trip could turn into such an unforgettable escapade? Guatemala, you've stolen a piece of my heart!",
         "itinerary": [
@@ -403,65 +403,118 @@
         "destination": "Costa Rica",
         "slug": "costa-rica",
         "dates_visited": {
-            "start_date": "05-01-2024",
-            "end_date": "05-07-2024"
+            "start_date": "02-19-2024",
+            "end_date": "03-01-2024"
         },
         "summary": "Immerse yourself in the natural beauty and biodiversity of Costa Rica, known for its lush rainforests, pristine beaches, and abundant wildlife.",
         "itinerary": [
             {
-                "day": "Day 1",
+                "day": "Day 1 (Feb 19)",
                 "activities": [
-                    "Item 1",
-                    "Item 2",
-                    "Item 3"
+                    "Arrive at SJO",
+                    "Shuttled to La Fortuna",
+                    "Checked-in to Arenal Backpackers Resort",
+                    "Did laundry at Lavanderia El Almendro",
+                    "Worked out at Arenal Fitness Center",
+                    "Ate dinner at Mexikah Taqueria w/ hostel friends"
                 ]
             },
             {
-                "day": "Day 2",
+                "day": "Day 2 (Feb 20)",
                 "activities": [
-                    "Item 1",
-                    "Item 2",
-                    "Item 3"
+                    "Worked out at Arenal Fitness Center",
+                    "Explored downtown La Fortuna",
+                    "Joined the North Fields Coffee & Chocolate Tour",
+                    "Ate dinner at Pollo Fortuneno"
                 ]
             },
             {
-                "day": "Day 3",
+                "day": "Day 3 (Feb 21)",
                 "activities": [
-                    "Item 1",
-                    "Item 2",
-                    "Item 3"
+                    "Worked out at Arenal Fitness Center",
+                    "Joined Sloth Watching Tour",
+                    "Ate dinner at Mexikah Taqueria w/ with tour friends"
                 ]
             },
             {
-                "day": "Day 4",
+                "day": "Day 4 (Feb 22)",
                 "activities": [
-                    "Item 1",
-                    "Item 2",
-                    "Item 3"
+                    "Worked out at Arenal Fitness Center",
+                    "Explored Mistico Arenal Hanging Bridges",
+                    "Ate dinner at Soda Víquez",
+                    "Ate ice cream at Chocolate Fusión",
+                    "Explored downtown La Fortuna"
                 ]
             },
             {
-                "day": "Day 5",
+                "day": "Day 5 (Feb 23)",
                 "activities": [
-                    "Item 1",
-                    "Item 2",
-                    "Item 3"
+                    "Ate breakfast at Panadería La Principal",
+                    "(Viator Tour) Hiked Arenal Volcano",
+                    "(Viator Tour) Swam at the La Fortuna waterfall",
+                    "(Viator Tour) Visited Maleku Indian village",
+                    "(Viator Tour) Soaked in a Hot Spring",
+                    "Ate dinner at Pollo Fortuneno"
                 ]
             },
             {
-                "day": "Day 6",
+                "day": "Day 6 (Feb 24)",
                 "activities": [
-                    "Item 1",
-                    "Item 2",
-                    "Item 3"
+                    "Checked-out of Arenal Backpackers Resort",
+                    "Shuttled to Manuel Antonio",
+                    "Checked-in to Selina Hostel",
+                    "Went on a short run",
+                    "Did a free Selina Vinyasa Flow Yoga class",
+                    "Beached at Espadilla Beach",
+                    "Got a free Selina welcome drink",
+                    "Partied at the Wild Jungle event w/ hostel friends"
                 ]
             },
             {
-                "day": "Day 7",
+                "day": "Day 7 (Feb 25)",
                 "activities": [
-                    "Item 1",
-                    "Item 2",
-                    "Item 3"
+                    "Worked out at MA Fitness",
+                    "Went on the Catamaran Tour",
+                    "Ate dinner at El Avión"
+                ]
+            },
+            {
+                "day": "Day 8 (Feb 26)",
+                "activities": [
+                    "Worked out at MA Fitness",
+                    "Joined a surfing class",
+                    "Did a free Selina HITT class",
+                    "Ate dinner at El Avión",
+                    "Chatted w/ hostel friends at the pool"
+                ]
+            },
+            {
+                "day": "Day 9 (Feb 27)",
+                "activities": [
+                    "Did a 1-1 Tarzan Tour",
+                    "Joined a Night Tour",
+                    "Ate at Claro Que Si w/ hostel friends"
+                ]
+            },
+            {
+                "day": "Day 10 (Feb 28)",
+                "activities": [
+                    "Went to Manuel Antonio National Park Tour",
+                    "Did a free Selina pole dancing class",
+                    "Ate dinner at Falafel Bar w/ hostel friends",
+                    "Watched Salsa dancing"
+                ]
+            },
+            {
+                "day": "Day 11 (Feb 29)",
+                "activities": [
+                    "Shuttled to San Jose",
+                    "Departed from SJO",
+                    "Arrived in GUA",
+                    "Departed from GUA",
+                    "Arrived in LA",
+                    "Departed from LA",
+                    "Arrived in SEA"
                 ]
             }
         ],

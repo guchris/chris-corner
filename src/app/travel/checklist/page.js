@@ -25,18 +25,6 @@ const ChecklistPage = () => {
                 <div className="section">
                     <h4 className="section-title">Upcoming</h4>
                         <div className="row-skinny">
-                            <p className="body-upper">[02/2024]</p>
-                            <p className="body-upper">Los Angeles, CA, USA</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[02/2024]</p>
-                            <p className="body-upper">Antigua, Guatemala</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[02/2024]</p>
-                            <p className="body-upper">San José, Costa Rica</p>
-                        </div>
-                        <div className="row-skinny">
                             <p className="body-upper">[05/2024]</p>
                             <p className="body-upper">Taipei, Taiwan</p>
                         </div>
@@ -93,6 +81,26 @@ const ChecklistPage = () => {
 
                 <div className="section">
                     <h4 className="section-title">Traveled</h4>
+                    <div className="row-skinny">
+                        <p className="body-upper">[02/2024]</p>
+                        <p className="body-upper">Manuel Antonio, Costa Rica</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[02/2024]</p>
+                        <p className="body-upper">La Fortuna, Costa Rica</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[02/2024]</p>
+                        <p className="body-upper">Lake Atitlán, Guatemala</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[02/2024]</p>
+                        <p className="body-upper">Antigua, Guatemala</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[02/2024]</p>
+                        <p className="body-upper">Los Angeles, CA, USA</p>
+                    </div>
                     <div className="row-skinny">
                         <p className="body-upper">[11/2023]</p>
                         <p className="body-upper">St. Louis, MO, WA</p>

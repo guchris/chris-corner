@@ -638,14 +638,13 @@ header {
   justify-content: flex-start;
 }
 
-.menu-grid img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
 .menu-wrapper {
   position: relative;
+}
+
+.menu-wrapper img {
+  width: 100%;
+  height: auto;
 }
 
 .menu-wrapper:hover .hover-image {
@@ -656,8 +655,6 @@ header {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
 }
