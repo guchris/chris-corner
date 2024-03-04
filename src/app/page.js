@@ -7,7 +7,7 @@ export default function Home() {
 
   // Function to generate a random image number
   const generateRandomImageNumber = () => {
-    return Math.floor(Math.random() * 25) + 1;
+    return Math.floor(Math.random() * 30) + 1;
   }
 
   useEffect(() => {
