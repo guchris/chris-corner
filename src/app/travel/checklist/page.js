@@ -36,11 +36,24 @@ const ChecklistPage = () => {
                             <p className="body-upper">[05/2024]</p>
                             <p className="body-upper">Tokyo, Japan</p>
                         </div>
+                        <div className="row-skinny">
+                            <p className="body-upper">[08/2024]</p>
+                            <p className="body-upper">Puerto Vallarta, Mexico</p>
+                        </div>
+                        <div className="row-skinny">
+                            <p className="body-upper">[08/2024]</p>
+                            <p className="body-upper">Guadalajara, Mexico</p>
+                        </div>
+                        <div className="row-skinny">
+                            <p className="body-upper">[08/2024]</p>
+                            <p className="body-upper">Mexico City, Mexico</p>
+                        </div>
                 </div>
 
                 <div className="section">
                     <h4 className="section-title">Wishlist</h4>
                     <div className="section-skinny">
+                        <p className="body-upper">Fairbanks, Alaska</p>
                         <p className="body-upper">Sydney, Australia</p>
                         <p className="body-upper">Christchurch, New Zealand</p>
                         <p className="body-upper">Auckland, New Zealand</p>
@@ -49,9 +62,6 @@ const ChecklistPage = () => {
                         <p className="body-upper">Rome, Italy</p>
                         <p className="body-upper">Florence, Italy</p>
                         <p className="body-upper">Sicily, Italy</p>
-                        <p className="body-upper">Mexico City, Mexico</p>
-                        <p className="body-upper">Cabo, Mexico</p>
-                        <p className="body-upper">Puerto Vallarta, Mexico</p>
                         <p className="body-upper">Berlin, Germany</p>
                         <p className="body-upper">Vienna, Austria</p>
                         <p className="body-upper">Budapest, Hungary</p>
@@ -98,7 +108,7 @@ const ChecklistPage = () => {
                         <p className="body-upper">Antigua, Guatemala</p>
                     </div>
                     <div className="row-skinny">
-                        <p className="body-upper">[02/2024]</p>
+                        <p className="body-upper">[01/2024]</p>
                         <p className="body-upper">Los Angeles, CA, USA</p>
                     </div>
                     <div className="row-skinny">
