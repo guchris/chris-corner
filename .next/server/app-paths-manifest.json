@@ -2,7 +2,7 @@
   "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
   "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
   "/page": "app/page.js",
-  "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js",
   "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
-  "/icon.png/route": "app/icon.png/route.js"
+  "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js",
+  "/food/page": "app/food/page.js"
 }
