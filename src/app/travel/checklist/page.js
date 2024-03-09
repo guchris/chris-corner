@@ -25,6 +25,14 @@ const ChecklistPage = () => {
                 <div className="section">
                     <h4 className="section-title">Upcoming</h4>
                         <div className="row-skinny">
+                            <p className="body-upper">[04/2024]</p>
+                            <p className="body-upper">New York City, New York</p>
+                        </div>
+                        <div className="row-skinny">
+                            <p className="body-upper">[04/2024]</p>
+                            <p className="body-upper">Reykjavik, Iceland</p>
+                        </div>
+                        <div className="row-skinny">
                             <p className="body-upper">[05/2024]</p>
                             <p className="body-upper">Taipei, Taiwan</p>
                         </div>

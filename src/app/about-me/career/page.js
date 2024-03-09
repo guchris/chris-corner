@@ -21,7 +21,6 @@ const CareerPage = () => {
                     Product manager by day, entrepreneur by night, and a connoisseur of good memes always.
                     In my free time, you can catch me creating augmented reality experiences that have been viewed and captured by billions of people and building out ambitious projects and ventures.
                     I'm passionate about using technology to improve people's lives and have a knack for making even the most mundane things just a bit more fun (and viral).<br/><br/>
-                    Below are my corporate, career experiences.
                 </p>
                 
                 <section className="section-gap">
@@ -74,6 +73,33 @@ const CareerPage = () => {
                         <i>"Christopher came into my team and instantly started having a positive impact on the day to day, but also on our long-term goals. Christopher took it upon himself to completely design the UX of a brand-new service platform for our organization that completely revolutionized the way our engineers interacted with all of our internal tools & services.<br/><br/>
                         Christopher was an amazing partner to our teams, and fully engaged in all engineering system designs, architecture discussions, planning, agile development and deployment. I was extremely proud of his growth as a product manager, and his business maturity when it came to presenting ideas, the progress of the team & communicating successes & failures.<br/><br/>
                         There is no doubt in my mind that Christopher is one of the most prepared & best university hires I have ever had the pleasure to work with, and there is no doubt in my mind that given the opportunity I would hire him, or work with him in any capacity. He truly is one of the best professionals in the industry, and everything he does he pours his all."</i>
+                    </p>
+                </section>
+
+                <section className="section-gap">
+                    <div className="section-skinny">
+                        <h3 className="body-upper-bold">Founder, AR Creator</h3>
+                        <p className="body-upper">Stellar Effects</p>
+                        <p className="body-upper">Jan 2021 - Dec 2023</p>
+                        <p className="body-upper">Seattle, WA, USA</p>
+                        <p className="body-upper">Part-time</p>
+                    </div>
+                    <p className="body-lower">Stellar Effects is a solo-run agency that builds tailored and memorable social media AR effects for brands, musicians, and everyone in-between</p>
+                    <ul className="bullets">
+                        <li>Founded a popular augmented reality (AR) agency that creates custom Social AR effects for brands, artists, and everyone in-between, resulting in over 6 figures in revenue each year</li>
+                        <li>Designed and developed over 100 Social AR effects that have been viewed over 20 billion times and captured over 1 billion times</li>
+                    </ul>
+                    <nav className="section-skinny">
+                        <a href="https://chris-corner.com/founder/stellar-effects" className="body-lower" target="_blank">chris-corner.com/founder/stellar-effects</a>
+                        <a href="https://stell-ar.com" className="body-lower" target="_blank">stell-ar.com</a>
+                    </nav>
+                    <p className="reccomendation">
+                        BMG (International Music Label)<br/><br/>
+                        <i>"Christopher is an incredible filter / lens creator. His work is visually stunning and he also ensures a genuinely enjoyable user experience. In addition, he’s great to work with – communicative and always on time!"</i>
+                    </p>
+                    <p className="reccomendation">
+                        Crowdsurf (Digital Marketing Agency)<br/><br/>
+                        <i>"Chris is my absolute go-to when it comes to filters/lenses. He has worked on projects for both my developing and A-level artists and each one has turned out incredible. Not to mention that he's super quick and extremely easy to work with. He's the BEST!"</i>
                     </p>
                 </section>
                 

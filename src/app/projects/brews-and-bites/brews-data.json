@@ -227,10 +227,6 @@
                 "order": "TBD"
             },
             {
-                "name": "Clay",
-                "order": "TBD"
-            },
-            {
                 "name": "Jack",
                 "order": "TBD"
             },
@@ -239,7 +235,19 @@
                 "order": "TBD"
             },
             {
+                "name": "Lesley",
+                "order": "TBD"
+            },
+            {
                 "name": "Mags",
+                "order": "TBD"
+            },
+            {
+                "name": "Michael",
+                "order": "TBD"
+            },
+            {
+                "name": "Quincy",
                 "order": "TBD"
             },
             {
@@ -252,6 +260,10 @@
             },
             {
                 "name": "Theo",
+                "order": "TBD"
+            },
+            {
+                "name": "Tommy",
                 "order": "TBD"
             }
         ],
