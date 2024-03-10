@@ -173,7 +173,7 @@
             },
             {
                 "name": "Sam",
-                "order": "(Iced) Matcha Latte w/ Oat Milk, Vanilla Syrup)"
+                "order": "(Iced) Matcha Latte w/ Oat Milk, Vanilla Syrup"
             },
             {
                 "name": "Steven",
@@ -212,62 +212,68 @@
         "menuBack": "v3-back.png",
         "date": "March 9, 2024",
         "title": "After a month long hiatus, brews & bites is back with a central american flair and a a mouthwatering chocolate tasting extravaganza!",
-        "story": "<b>Chocolate Tasting Options</b><br/><br/>[Costa Rica] North Fields 60% Cacao (Farm to Bar)<br/>[Costa Rica] North Fields 70A% Cacao (Farm to Bar)<br/>[Costa Rica] North Fields 85% Cacao (Farm to Bar)<br/>[Costa Rica] Balfour 72% Chocolate Oscufro Frutas Tropicales (Cacao Organico)<br/>[Costa Rica] Grand Cru Chocolate Negro 70% (Tree to Bar, Single Estate)<br/>[Costa Rica] Britt Tableta de Chocolate Oscuro con Trozos de Jalea de Maracuya 70% Cacao<br/>[Costa Rica] Britt Tableta de Chocolate Oscuro con Trozos de Jalea de Guayaba 70% Cacao<br/>[Guatemala] Lacasa Chocolate Negro Menta 70% Cacao<br/>[Guatemala] Tutto Chocolate Semi Amargo con Mani, Pistacho, y Arros Tostado",
+        "story": "It's been a hot minute since the last Brews & Bites, and boy did I miss it! resh off my adventures in Guatemala and Costa Rica, I decided to spice things up with a Central American theme this time around.<br/><br/>For the food, I curated a unique experience - a chocolate tasting session. It's a neat way to share travel vibes without the waste. Over the past month, I collected chocolate from 4 spots—2 in Guatemala, 2 in Costa Rica—making it a solid 10 collected chocolates in total. Besides the cocoa treats, I whipped up my signature banana bread, but jazzed it up with some semi-sweet dark chocolate chips. On the side, I laid out a spread of plantain chips, fancy-cut pineapple (a hit in Central America), and a batch of matcha cookies leftover from a recent green-themed potluck. And let's not forget the madelines, because why not?<br/><br/>Preparation morning was a flurry of activity, from battling my dog's shedding season to setting up the space, printing menus, and donning my trusty apron. Thankfully, guests arrived in waves, sparing me the elevator runs—though that's a building flaw I'll have to contend with eventually.<br/><br/>With orders flowing in smoothly, I found myself in a rhythm, whipping up drinks and joining conversations earlier than usual. Cleaning up could wait until later—I wanted to savor every moment with my friends.<br/><br/>We had some new faces this time: Raine's boyfriend, Michael, and their partner. It's always a blast bringing fresh blood into the mix and watching new friendships bloom. If this trend keeps up, I might need a bigger spot. Twelve's my max capacity right now, but any more, and I'll be eyeing that first-floor common area.<br/><br/>As chatter filled the air and snacks disappeared, it was time for the main event: the chocolate tasting. I divvied up the bars, numbered the bowls, and let the tasting frenzy begin. Each person passed the bowls around, jotting down their top picks. It was awesome to see everyone dive into the flavors, compare notes, and dish out live reactions. As for which chocolate reigned supreme? Well, you had to be there to find out.<br/><br/>After some more banter and laughs, the clock struck three, and it was time to close up shop. Feeling all warm and fuzzy seeing my pals have a blast. See everyone in 2 weeks!<br/><br/><b>Chocolate Tasting Options</b><br/>[Costa Rica] North Fields 60% Cacao (Farm to Bar)<br/>[Costa Rica] North Fields 70A% Cacao (Farm to Bar)<br/>[Costa Rica] North Fields 85% Cacao (Farm to Bar)<br/>[Costa Rica] Balfour 72% Chocolate Oscufro Frutas Tropicales (Cacao Organico)<br/>[Costa Rica] Grand Cru Chocolate Negro 70% (Tree to Bar, Single Estate)<br/>[Costa Rica] Britt Tableta de Chocolate Oscuro con Trozos de Jalea de Maracuya 70% Cacao<br/>[Costa Rica] Britt Tableta de Chocolate Oscuro con Trozos de Jalea de Guayaba 70% Cacao<br/>[Guatemala] Lacasa Chocolate Negro Menta 70% Cacao<br/>[Guatemala] Tutto Chocolate Semi Amargo con Mani, Pistacho, y Arros Tostado<br/>[Guatemala] jcoco Crisp Quinoa Sesame (Puffed quinoa + toasted sesame in milk chocolate)",
         "guests": [
             {
                 "name": "Anjuli",
-                "order": "TBD"
+                "order": "(Hot) Cappuccino w/ Melon Milk"
             },
             {
                 "name": "Asher",
-                "order": "TBD"
-            },
-            {
-                "name": "Christine",
-                "order": "TBD"
+                "order": "(Iced) Latte w/ Oat Milk"
             },
             {
                 "name": "Jack",
-                "order": "TBD"
+                "order": "(Iced) Latte w/ Melon Milk"
+            },
+            {
+                "name": "Jared",
+                "order": "(Iced) Matcha Latte w/ Oat Milk"
             },
             {
                 "name": "Joce",
-                "order": "TBD"
-            },
-            {
-                "name": "Lesley",
-                "order": "TBD"
+                "order": "(Hot) Latte w/ Banana Milk, Hazlenut Syrup"
             },
             {
                 "name": "Mags",
-                "order": "TBD"
+                "order": "(Iced) Matcha Latte w/ Banana Milk"
             },
             {
                 "name": "Michael",
-                "order": "TBD"
-            },
-            {
-                "name": "Quincy",
-                "order": "TBD"
+                "order": "(Hot) Latte w/ Oat Milk"
             },
             {
                 "name": "Raine",
-                "order": "TBD"
+                "order": "(Hot) Latte w/ Soy Milk, Vanilla Syrup"
             },
             {
                 "name": "Ralph",
-                "order": "TBD"
+                "order": "(Iced) Latte w/ Whole Milk, Vanilla Syrup, Caramel Drizzle"
             },
             {
                 "name": "Theo",
-                "order": "TBD"
+                "order": "(Iced) Matcha Latte w/ Oat Milk"
             },
             {
                 "name": "Tommy",
-                "order": "TBD"
+                "order": "(Iced) Latte w/ Melon Milk"
             }
         ],
         "photos": [
+            "v3-1.png",
+            "v3-2.png",
+            "v3-3.png",
+            "v0-3.png",
+            "v3-5.png",
+            "v3-6.png",
+            "v3-7.png",
+            "v3-8.png",
+            "v3-9.png",
+            "v3-10.png",
+            "v3-11.png",
+            "v3-12.png",
+            "v3-13.png",
+            "v3-14.png"
         ]
     }
 ]
