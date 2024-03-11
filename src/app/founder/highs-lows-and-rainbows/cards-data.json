@@ -1,114 +1,184 @@
 [
     {
         "id": 1,
-        "name": "Word Search",
-        "collection": "Word Game",
-        "type": "Birthday",
-        "image": "word-search.png",
-        "url": "https://www.etsy.com/listing/1448196273/word-search-birthday-card-word-game-word"
+        "name": "you are udderly fabulous!",
+        "collection": "drop 1 - illustrations",
+        "image": "001.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/957369584/you-are-udderly-fabulous-friendship-love"
     },
     {
         "id": 2,
-        "name": "Wordle",
-        "collection": "Word Game",
-        "type": "Birthday",
-        "image": "wordle.png",
-        "url": "https://www.etsy.com/listing/1433988880/wordle-birthday-card-word-game-wordle"
+        "name": "aloe you very much!",
+        "collection": "drop 1 - illustrations",
+        "image": "002.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1676089847/aloe-you-very-much-friendship-love-pun"
     },
     {
         "id": 3,
-        "name": "Crossword",
-        "collection": "Word Game",
-        "type": "Birthday",
-        "image": "crossword.png",
-        "url": "https://www.etsy.com/listing/1433991114/crossword-birthday-card-word-game"
+        "name": "sending you hedge hugs",
+        "collection": "drop 1 - illustrations",
+        "image": "003.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/971344797/sending-you-hedge-hugs-well-wishes"
     },
     {
         "id": 4,
-        "name": "Scrabble",
-        "collection": "Word Game",
-        "type": "Birthday",
-        "image": "scrabble.png",
-        "url": "https://www.etsy.com/listing/1448194229/scrabble-birthday-card-word-game"
+        "name": "have a whaley great day!",
+        "collection": "drop 1 - illustrations",
+        "image": "004.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/957372662/have-a-whaley-great-day-well-wishes-pun"
     },
     {
         "id": 5,
-        "name": "i love you a little smore every day",
-        "collection": "Pun",
-        "type": "Friendship, Love",
-        "image": "i-love-you-a-little-smore-every-day.png",
-        "url": "https://www.etsy.com/listing/957376466/i-love-you-a-little-smore-every-day"
+        "name": "feel better beary soon",
+        "collection": "drop 1 - illustrations",
+        "image": "005.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1676210205/feel-better-beary-soon-well-wishes-pun"
     },
     {
         "id": 6,
-        "name": "you are udderly fabulous",
-        "collection": "Pun",
-        "type": "Friendship, Love",
-        "image": "you-are-udderly-fabulous.png",
-        "url": "https://www.etsy.com/listing/957369584/you-are-udderly-fabulous-friendship-love"
-    },
-    {
-        "id": 7,
-        "name": "herd it's your birthday",
-        "collection": "Pun",
-        "type": "Birthday",
-        "image": "herd-its-your-birthday.png",
-        "url": "https://www.etsy.com/listing/957380600/herd-its-your-birthday-birthday-llama"
+        "name": "herd its your birthday",
+        "collection": "drop 1 - illustrations",
+        "image": "006.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/957380600/herd-its-your-birthday-birthday-llama"
     },
     {
         "id": 8,
-        "name": "happy birthday to my best-tea",
-        "collection": "Pun",
-        "type": "Birthday",
-        "image": "happy-birthday-to-my-best-tea.png",
-        "url": "https://www.etsy.com/listing/971361227/happy-birthday-to-my-best-tea-birthday"
+        "name": "you’re one in a melon",
+        "collection": "drop 1 - illustrations",
+        "image": "008.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/971357297/youre-one-in-a-melon-love-friendship-pun"
     },
     {
         "id": 9,
-        "name": "orange you glad it's your birthday",
-        "collection": "Pun",
-        "type": "Birthday",
-        "image": "orange-you-glad-its-your-birthday.png",
-        "url": "https://www.etsy.com/listing/957386234/orange-you-glad-its-your-birthday"
+        "name": "orange you glad it’s your birthday?",
+        "collection": "drop 1 - illustrations",
+        "image": "009.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/957386234/orange-you-glad-its-your-birthday"
     },
     {
         "id": 10,
-        "name": "you're one in a melon",
-        "collection": "Pun",
-        "type": "Friendship, Love",
-        "image": "youre-one-in-a-melon.png",
-        "url": "https://www.etsy.com/listing/971357297/youre-one-in-a-melon-friendship-love-pun"
+        "name": "i love you smore every day",
+        "collection": "drop 1 - illustrations",
+        "image": "010.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/957376466/i-love-you-a-little-smore-every-day-love"
     },
     {
         "id": 11,
-        "name": "there's no otter like you",
-        "collection": "Pun",
-        "type": "Friendship, Love",
-        "image": "theres-no-otter-like-you.png",
-        "url": "https://www.etsy.com/listing/971354671/theres-no-otter-like-you-friendship-love"
+        "name": "hope you’re feline better soon!",
+        "collection": "drop 1 - illustrations",
+        "image": "011.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/957376360/hope-youre-feline-better-soon-well"
     },
     {
         "id": 12,
-        "name": "sending you hedge hugs",
-        "collection": "Pun",
-        "type": "Well Wishes",
-        "image": "sending-you-hedge-hugs.png",
-        "url": "https://www.etsy.com/listing/971344797/sending-you-hedge-hugs-well-wishes"
-    },
-    {
-        "id": 13,
-        "name": "hope you're feline better soon",
-        "collection": "Pun",
-        "type": "Get Well",
-        "image": "hope-youre-feline-better-soon.png",
-        "url": "https://www.etsy.com/listing/957376360/hope-youre-feline-better-soon-get-well"
+        "name": "there’s no otter like you",
+        "collection": "drop 1 - illustrations",
+        "image": "012.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/971354671/theres-no-otter-like-you-love-friendship"
     },
     {
         "id": 14,
-        "name": "have a whaley great day",
-        "collection": "Pun",
-        "type": "Well Wishes",
-        "image": "have-a-whaley-great-day.png",
-        "url": "https://www.etsy.com/listing/957372662/have-a-whaley-great-day-well-wishes-pun"
+        "name": "happy birthday to my best-tea!",
+        "collection": "drop 1 - illustrations",
+        "image": "014.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/971361227/happy-birthday-to-my-best-tea-birthday"
+    },
+    {
+        "id": 15,
+        "name": "you grow girl!",
+        "collection": "drop 1 - illustrations",
+        "image": "015.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1677291092/you-grow-girl-encouragement-friendship"
+    },
+    {
+        "id": 16,
+        "name": "you’re unbeleafable",
+        "collection": "drop 1 - illustrations",
+        "image": "016.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1677310256/youre-unbeleafable-o-encouragement"
+    },
+    {
+        "id": 17,
+        "name": "have a wonderful birth-daisy!",
+        "collection": "drop 1 - illustrations",
+        "image": "017.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1677313848/have-a-wonderful-birth-daisy-birthday"
+    },
+    {
+        "id": 18,
+        "name": "have a tree-mendous birthday!",
+        "collection": "drop 1 - illustrations",
+        "image": "018.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1691492355/have-a-tree-mendous-birthday-birthday"
+    },
+    {
+        "id": 19,
+        "name": "crossword",
+        "collection": "drop 2 - word games",
+        "image": "019.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1433991114/crossword-birthday-card-word-game"
+    },
+    {
+        "id": 20,
+        "name": "wordle",
+        "collection": "drop 2 - word games",
+        "image": "020.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1433988880/wordle-birthday-card-word-game-wordle"
+    },
+    {
+        "id": 21,
+        "name": "word search",
+        "collection": "drop 2 - word games",
+        "image": "021.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1448196273/word-search-birthday-card-word-game-word"
+    },
+    {
+        "id": 22,
+        "name": "scrabble",
+        "collection": "drop 2 - word games",
+        "image": "022.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1448194229/scrabble-birthday-card-word-game"
+    },
+    {
+        "id": 23,
+        "name": "love you love you love you - have a happy birthday",
+        "collection": "drop 3 - digital designs",
+        "image": "023.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1661607506/love-you-love-you-love-you-have-a-happy"
+    },
+    {
+        "id": 24,
+        "name": "love you everything everywhere all at once",
+        "collection": "drop 3 - digital designs",
+        "image": "024.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1661611702/you-are-my-everything-everywhere-all-at"
+    },
+    {
+        "id": 25,
+        "name": "give the gift of forever friendship",
+        "collection": "drop 3 - digital designs",
+        "image": "025.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1661613854/give-the-gift-of-forever-friendship"
+    },
+    {
+        "id": 26,
+        "name": "the birthday crossword puzzle",
+        "collection": "drop 3 - digital designs",
+        "image": "026.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1675785783/the-birthday-crossword-puzzle-birthday"
+    },
+    {
+        "id": 27,
+        "name": "happy birthday mouse cursors",
+        "collection": "drop 3 - digital designs",
+        "image": "027.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1675787367/happy-birthday-mouse-cursors-birthday"
+    },
+    {
+        "id": 28,
+        "name": "you are getting bloody old eye exam",
+        "collection": "drop 3 - digital designs",
+        "image": "028.png",
+        "url": "https://highslowsandrainbows.etsy.com/listing/1675788573/you-are-getting-bloody-old-eye-exam"
     }
 ]

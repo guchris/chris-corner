@@ -294,6 +294,10 @@ header {
   margin: 0;
 }
 
+.row-width-75 {
+  min-width: 75px;
+}
+
 .row-width-100 {
   min-width: 100px;
 }

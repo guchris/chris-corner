@@ -52,7 +52,7 @@ const BrewPage = ({ params }) => {
                     <div className="section-skinny">
                         {brew.guests.map((guest, i) => (
                             <div key={i} className="row-skinny">
-                                <p className="body-upper-bold row-width-100">{guest.name}</p>
+                                <p className="body-upper-bold row-width-75">{guest.name}</p>
                                 <p className="body-upper">{guest.order}</p>
                             </div>
                         ))}

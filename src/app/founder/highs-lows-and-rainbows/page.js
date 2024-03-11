@@ -29,8 +29,8 @@ const HighsLowsAndRainbowsPage = () => {
                             <div className="card-item">
                                 <img src={"/founder/highs-lows-rainbows/" + card.image} alt={card.name} />
                                 <div className="section-skinny">
-                                    <p className="caption-upper-bold">{card.collection + " - " + card.type}</p>
-                                    <p className="caption-upper">{card.name}</p>
+                                    <p className="caption-upper-bold">{card.name}</p>
+                                    <p className="caption-upper">{card.collection}</p>
                                 </div>
                             </div>
                         </Link>
