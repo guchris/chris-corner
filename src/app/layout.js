@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
 
 						{/* <!-- Banner --> */}
 						<header>
-							<p>SITE UNDER CONSTRUCTION.</p>
+							<p>SITE STILL UNDER CONSTRUCTION.</p>
 							<div className="menu-icon" id="menu-icon">&#9776;</div>
 						</header>
 

@@ -97,6 +97,10 @@ const navigationTabs = [
             {
                 name: "Guides",
                 href: "/travel/guides"
+            },
+            {
+                name: "Packing",
+                href: "/travel/packing"
             }
         ]
     }

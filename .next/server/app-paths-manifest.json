@@ -1,7 +1,6 @@
 {
-  "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js",
-  "/about-me/career/page": "app/about-me/career/page.js",
-  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js",
   "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
-  "/founder/highs-lows-and-rainbows/page": "app/founder/highs-lows-and-rainbows/page.js"
+  "/founder/highs-lows-and-rainbows/page": "app/founder/highs-lows-and-rainbows/page.js",
+  "/about-me/goals/page": "app/about-me/goals/page.js",
+  "/travel/packing/page": "app/travel/packing/page.js"
 }

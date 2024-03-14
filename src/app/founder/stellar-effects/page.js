@@ -88,6 +88,7 @@ const StellarEffectsPage = () => {
                             <p className="body-upper">Hailey Whitters</p>
                             <p className="body-upper">Hardy</p>
                             <p className="body-upper">Havanna Winter</p>
+                            <p className="body-upper">Hulu</p>
                             <p className="body-upper">Incohearent</p>
                             <p className="body-upper">Iron Maiden</p>
                             <p className="body-upper">Jelly Roll</p>
