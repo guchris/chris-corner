@@ -275,5 +275,58 @@
             "v3-13.png",
             "v3-14.png"
         ]
+    },
+    {
+        "id": 4,
+        "iteration": "v4",
+        "menuFront": "v4-front.png",
+        "menuBack": "v4-back.png",
+        "date": "March 30, 2024",
+        "title": "Brews, Bites, and Bon Voyage: A get-together before I jet off to NYC and Iceland! Sip on some cool new drinks and savor some new tasty treats!",
+        "story": "Summary Coming Soon",
+        "guests": [
+            {
+                "name": "Guest 1",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 2",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 3",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 4",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 5",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 6",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 7",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 8",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 9",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 10",
+                "order": "TBD"
+            }
+        ],
+        "photos": [
+        ]
     }
 ]

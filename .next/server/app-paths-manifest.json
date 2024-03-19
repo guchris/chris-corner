@@ -1,6 +1,8 @@
 {
   "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
-  "/founder/highs-lows-and-rainbows/page": "app/founder/highs-lows-and-rainbows/page.js",
+  "/travel/packing/page": "app/travel/packing/page.js",
   "/about-me/goals/page": "app/about-me/goals/page.js",
-  "/travel/packing/page": "app/travel/packing/page.js"
+  "/page": "app/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js"
 }
