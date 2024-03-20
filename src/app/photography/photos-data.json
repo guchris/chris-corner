@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "url": "photo1.png",
+        "camera": "Fujifilm X100V",
+        "metadata": "ƒ/8 1/400 23mm ISO640",
+        "location": "Los Angeles, CA",
+        "date": "Feb 1, 2024"
+    },
+    {
+        "id": 2,
+        "url": "photo2.png",
+        "camera": "Fujifilm X100V",
+        "metadata": "ƒ/8 1/280 23mm ISO640",
+        "location": "Los Angeles, CA",
+        "date": "Feb 1, 2024"
+    },
+    {
+        "id": 3,
+        "url": "photo3.png",
+        "camera": "Fujifilm X100V",
+        "metadata": "ƒ/2 1/8500 23mm ISO640",
+        "location": "Los Angeles, CA",
+        "date": "Feb 2, 2024"
+    },
+    {
+        "id": 4,
+        "url": "photo4.png",
+        "camera": "Fujifilm X100V",
+        "metadata": "ƒ/13 1/950 23mm ISO640",
+        "location": "Los Angeles, CA",
+        "date": "Feb 2, 2024"
+    },
+    {
+        "id": 5,
+        "url": "photo5.png",
+        "camera": "Fujifilm X100V",
+        "metadata": "ƒ/5.6 1/1100 23mm ISO640",
+        "location": "Los Angeles, CA",
+        "date": "Feb 2, 2024"
+    }
+]

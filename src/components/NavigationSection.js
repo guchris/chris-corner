@@ -23,10 +23,6 @@ const navigationTabs = [
         ]
     },
     {
-        name: "Blog",
-        href: "/blog"
-    },
-    {
         name: "Fashion",
         href: "/fashion",
         subTabs: [
@@ -75,6 +71,10 @@ const navigationTabs = [
                 href: "/founder/worn"
             }
         ]
+    },
+    {
+        name: "Photography",
+        href: "/photography"
     },
     {
         name: "Projects",

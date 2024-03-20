@@ -1,8 +1,7 @@
 {
   "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
-  "/travel/packing/page": "app/travel/packing/page.js",
-  "/about-me/goals/page": "app/about-me/goals/page.js",
   "/page": "app/page.js",
+  "/photography/page": "app/photography/page.js",
   "/projects/page": "app/projects/page.js",
-  "/projects/brews-and-bites/page": "app/projects/brews-and-bites/page.js"
+  "/travel/packing/page": "app/travel/packing/page.js"
 }

@@ -51,11 +51,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/about-me/page.js"
     ],
-    "/blog/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog/page.js"
-    ],
     "/fashion/outfits/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -140,6 +135,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/travel/packing/page.js"
+    ],
+    "/photography/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/photography/page.js"
     ]
   }
 }

@@ -638,6 +638,26 @@ header {
 
 
 
+/* PHOTOGRAPHY */
+
+.photo-grid {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 40px 10px;
+  justify-content: flex-start;
+}
+
+.photo-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  cursor: pointer;
+}
+
+
+
+
 /* PROJECTS / BREWS & BITES */
 
 .menu-grid {
