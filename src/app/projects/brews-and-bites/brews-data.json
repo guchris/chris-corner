@@ -263,7 +263,7 @@
             "v3-1.png",
             "v3-2.png",
             "v3-3.png",
-            "v0-3.png",
+            "v3-4.png",
             "v3-5.png",
             "v3-6.png",
             "v3-7.png",
@@ -283,58 +283,66 @@
         "menuBack": "v4-back.png",
         "date": "March 30, 2024",
         "title": "Brews, Bites, and Bon Voyage: A get-together before I jet off to NYC and Iceland! Sip on some cool new drinks and savor some new tasty treats!",
-        "story": "Summary Coming Soon",
+        "story": "This time around, I decided to up the ante and give myself a delicious challenge: baking not one, not two, but three brand-spanking-new desserts! And why stop there? I concocted a custom drink option for the menu too - because, let's face it, when it comes to culinary adventures, I'm all in! Plus, with double the usual crowd expected, I knew it was time to shine!<br/><br/>With Easter on the horizon, I decided to tackle a double-layered carrot cake. Believe it or not, it was my first time tackling any kind of cake from scratch (let's not count those boxed mixes, shall we?). Surprisingly, the recipe called for a mountain of carrots—seriously, who knew they were the secret ingredient to cake perfection? But after a few hours of baking magic, the result was nothing short of spectacular! To give the cake a little extra flair, I meticulously adorned the frosting with green and orange sprinkles, crafting one giant looking carrot. Talk about a cake that's as fun to look at as it is to eat!<br/><br/>Next up was the focaccia. Unable to decide between savory or sweet, I opted to make both! The night before the event, I prepared two batches of dough, allowing them to rise overnight for maximum flavor and growth explosion. Come morning, it was topping time! One with juicy tomatoes and fragrant thyme for a savory twist, and the other with a sprinkle of cinnamon and brown sugar for a sweet surprise. As they baked to golden perfection, the aroma wafting through my kitchen was nothing short of heavenly! An instant hit among the crowd!<br/><br/>Last but certainly not least, I whipped up two types of cookies. One was matcha, a crowd-favorite from our last gathering. The other was gochujang caramel cookies, inspired by a recipe from New York Times cooking, which had just the right balance of spicy and sweet! With the dough prepared the night before and baked fresh in the morning, everything was timed perfectly to ensure that each treat was served hot and fresh as soon as the guests arrived.<br/><br/>Speaking of guests, although we were expecting double the usual number, circumstances led to half of them having to cancel - but that only meant more food to go around for those who did make it! We welcomed some new faces, including Matt, Michael, and Maya, friends I've met through Anjuli, as well as Kevin and Quincy, college buddies from Bellevue who rarely venture over to Seattle. Conversations flowed, entries were penned into my pondering book, and candid polaroids were snapped.<br/><br/>After a few hours of laughter and connection, it was time to tidy up and head to a potluck. Though this marked the last Brews & Bites for a while due to my upcoming travels, rest assured - the next one will be one for the books!",
         "guests": [
             {
-                "name": "Anjuli",
-                "order": "TBD"
-            },
-            {
                 "name": "Christine",
-                "order": "TBD"
+                "order": "(Iced) Strawberry Matcha Latte w/ Oat Milk"
             },
             {
-                "name": "Jared",
-                "order": "TBD"
+                "name": "Jack",
+                "order": "(Iced) Latte w/ Melon Milk"
             },
             {
                 "name": "Joce",
-                "order": "TBD"
+                "order": "(Iced) Strawberry Matcha Latte w/ Almond Milk"
             },
             {
                 "name": "Kevin",
-                "order": "TBD"
+                "order": "N/A"
             },
             {
                 "name": "Mags",
-                "order": "TBD"
+                "order": "(Iced) Matcha Latte w/ Oat Milk, Vanilla Syrup"
             },
             {
-                "name": "Michael W",
-                "order": "TBD"
+                "name": "Matt",
+                "order": "(Iced) Strawberry Matcha Latte w/ Oat Milk, Chocolate Drizzle"
+            },
+            {
+                "name": "Maya",
+                "order": "(Hot) Latte w/ Oat Milk, Hazelnut Syrup"
             },
             {
                 "name": "Michael Y",
-                "order": "TBD"
+                "order": "(Iced) Latte w/ Oat Milk, Hazelnut Syrup"
+            },
+            {
+                "name": "Quincy",
+                "order": "Coke Zero"
             },
             {
                 "name": "Raine",
-                "order": "TBD"
-            },
-            {
-                "name": "Sam",
-                "order": "TBD"
-            },
-            {
-                "name": "Sameer",
-                "order": "TBD"
+                "order": "(Iced) Latte w/ Oat Milk, Vanilla Syrup"
             },
             {
                 "name": "Tommy",
-                "order": "TBD"
+                "order": "(Iced) Strawberry Matcha Latte w/ Oat Milk, Vanilla Syrup"
             }
         ],
         "photos": [
+            "v4-1.png",
+            "v4-2.png",
+            "v4-3.png",
+            "v4-3.png",
+            "v4-5.png",
+            "v4-6.png",
+            "v4-7.png",
+            "v4-8.png",
+            "v4-9.png",
+            "v4-10.png",
+            "v4-11.png",
+            "v4-12.png"
         ]
     }
 ]
