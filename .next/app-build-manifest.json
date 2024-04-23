@@ -140,6 +140,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/photography/page.js"
+    ],
+    "/fashion/closet/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/fashion/closet/[id]/page.js"
     ]
   }
 }

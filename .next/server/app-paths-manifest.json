@@ -1,14 +1,7 @@
 {
-  "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
+  "/fashion/closet/page": "app/fashion/closet/page.js",
+  "/page": "app/page.js",
+  "/travel/guides/[slug]/page": "app/travel/guides/[slug]/page.js",
   "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
-  "/travel/checklist/page": "app/travel/checklist/page.js",
-  "/about-me/page": "app/about-me/page.js",
-  "/about-me/goals/page": "app/about-me/goals/page.js",
-  "/photography/page": "app/photography/page.js",
-  "/projects/page": "app/projects/page.js",
-  "/founder/page": "app/founder/page.js",
-  "/founder/highs-lows-and-rainbows/page": "app/founder/highs-lows-and-rainbows/page.js",
-  "/founder/stellar-effects/page": "app/founder/stellar-effects/page.js",
-  "/founder/worn/page": "app/founder/worn/page.js",
-  "/page": "app/page.js"
+  "/fashion/closet/[id]/page": "app/fashion/closet/[id]/page.js"
 }

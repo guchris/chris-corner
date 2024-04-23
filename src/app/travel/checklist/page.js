@@ -23,47 +23,39 @@ const ChecklistPage = () => {
                 </p>
 
                 <div className="section">
-                    <h4 className="section-title">Upcoming</h4>
-                        <div className="row-skinny">
-                            <p className="body-upper">[04/2024]</p>
-                            <p className="body-upper">New York City, New York</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[04/2024]</p>
-                            <p className="body-upper">Reykjavik, Iceland</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[05/2024]</p>
-                            <p className="body-upper">Taipei, Taiwan</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[05/2024]</p>
-                            <p className="body-upper">Seoul, South Korea</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[05/2024]</p>
-                            <p className="body-upper">Tokyo, Japan</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[07/2024]</p>
-                            <p className="body-upper">Morocco, Africa</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[08/2024]</p>
-                            <p className="body-upper">Puerto Vallarta, Mexico</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[08/2024]</p>
-                            <p className="body-upper">Guadalajara, Mexico</p>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="body-upper">[08/2024]</p>
-                            <p className="body-upper">Mexico City, Mexico</p>
-                        </div>
+                    <h3 className="section-title">Upcoming</h3>
+                    <div className="row-skinny">
+                        <p className="body-upper">[05/2024]</p>
+                        <p className="body-upper">Taipei, Taiwan</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[05/2024]</p>
+                        <p className="body-upper">Seoul, South Korea</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[05/2024]</p>
+                        <p className="body-upper">Tokyo, Japan</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[07/2024]</p>
+                        <p className="body-upper">Morocco, Africa</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[08/2024]</p>
+                        <p className="body-upper">Puerto Vallarta, Mexico</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[08/2024]</p>
+                        <p className="body-upper">Guadalajara, Mexico</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[08/2024]</p>
+                        <p className="body-upper">Mexico City, Mexico</p>
+                    </div>
                 </div>
 
                 <div className="section">
-                    <h4 className="section-title">Wishlist</h4>
+                    <h3 className="section-title">Wishlist</h3>
                     <div className="section-skinny">
                         <p className="body-upper">Fairbanks, Alaska</p>
                         <p className="body-upper">Sydney, Australia</p>
@@ -87,7 +79,7 @@ const ChecklistPage = () => {
                 </div>
 
                 <div className="section">
-                    <h4 className="section-title">Trek TODOs</h4>
+                    <h3 className="section-title">Trek TODOs</h3>
                     <div className="section-skinny">
                         <p className="body-upper">Torres Del Paine, Chile (80 miles)</p>
                         <p className="body-upper">Manaslu Circuit, Nepal (100 miles)</p>
@@ -102,7 +94,15 @@ const ChecklistPage = () => {
 
 
                 <div className="section">
-                    <h4 className="section-title">Traveled</h4>
+                    <h3 className="section-title">Traveled</h3>
+                    <div className="row-skinny">
+                        <p className="body-upper">[04/2024]</p>
+                        <p className="body-upper">Iceland</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[04/2024]</p>
+                        <p className="body-upper">New York City, New York</p>
+                    </div>
                     <div className="row-skinny">
                         <p className="body-upper">[02/2024]</p>
                         <p className="body-upper">Manuel Antonio, Costa Rica</p>
