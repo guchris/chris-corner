@@ -1,6 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import KanbanItinerary from '@/components/KanbanItinerary';
 
 import guidesData from '../guides-data.json';
 
@@ -25,7 +26,9 @@ const GuidePage = ({ params }) => {
                 </div>
 
                 <h4 className="section-title">Itinerary</h4>
-                <div className="section-gap">
+                <KanbanItinerary itinerary={guide.itinerary} />
+
+                {/* <div className="section-gap">
                     <ul className="bullets">
                         {guide.itinerary.map((day, index) => (
                             <li key={index}>
@@ -38,9 +41,9 @@ const GuidePage = ({ params }) => {
                             </li>
                         ))}
                     </ul>
-                </div>
+                </div> */}
 
-                <h4 className="section-title">Recommendations</h4>
+                {/* <h4 className="section-title">Recommendations</h4>
                 <div className="section-gap">
                     <h3 className="section-subtitle">Places</h3>
                     <ul className="bullets">
@@ -66,9 +69,9 @@ const GuidePage = ({ params }) => {
                             </li>
                         ))}
                     </ul>
-                </div>
+                </div> */}
                 
-                <div className="section-gap">
+                {/* <div className="section-gap">
                     <div className="section-skinny">
                         <h3 className="section-subtitle">Transportation</h3>
                         <p className="body-lower">{guide.transportation}</p>
@@ -105,7 +108,7 @@ const GuidePage = ({ params }) => {
                         <h3 className="section-subtitle">Local Customs</h3>
                         <p className="body-lower">{guide.local_customs}</p>
                     </div>
-                </div>
+                </div> */}
             </div>
         </>
     );

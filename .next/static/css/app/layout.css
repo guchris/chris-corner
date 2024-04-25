@@ -695,3 +695,63 @@ header {
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
 }
+
+
+/* TRAVEL / GUIDES */
+.kanban-board {
+  display: flex;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  /* justify-content: space-around; */
+}
+
+.kanban-column {
+  flex-shrink: 0; /* Prevent columns from shrinking */
+  flex-grow: 0; /* Prevent columns from growing */
+  margin-right: 20px; /* Add right margin for spacing */
+  overflow-x: auto; /* Enable horizontal scrolling for columns */
+}
+
+.kanban-column-header {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.kanban-item {
+  background-color: #FCFCFC;
+  max-width: 250px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.kanban-tag {
+  font-weight: bold;
+  font-size: 10px;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.kanban-title,
+.kanban-route {
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.kanban-description,
+.kanban-notes,
+.kanban-cost,
+.kanban-flight,
+.kanban-duration {
+  font-size: 12px;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.kanban-address {
+  font-size: 12px;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0;
+}

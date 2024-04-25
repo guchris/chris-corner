@@ -11,25 +11,20 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/food/page": [
+    "/travel/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/food/page.js"
+      "static/chunks/app/travel/page.js"
     ],
-    "/food/reviews/page": [
+    "/travel/guides/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/food/reviews/page.js"
+      "static/chunks/app/travel/guides/page.js"
     ],
-    "/founder/page": [
+    "/travel/guides/[slug]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/founder/page.js"
-    ],
-    "/founder/highs-lows-and-rainbows/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/founder/highs-lows-and-rainbows/page.js"
+      "static/chunks/app/travel/guides/[slug]/page.js"
     ],
     "/fashion/page": [
       "static/chunks/webpack.js",
@@ -41,110 +36,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/fashion/closet/page.js"
     ],
-    "/food/reviews/[slug]/page": [
+    "/fashion/closet/[id]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/food/reviews/[slug]/page.js"
+      "static/chunks/app/fashion/closet/[id]/page.js"
     ],
     "/about-me/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/about-me/page.js"
-    ],
-    "/fashion/outfits/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/fashion/outfits/page.js"
-    ],
-    "/food/recipies/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/food/recipies/page.js"
-    ],
-    "/food/sunday-suppers/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/food/sunday-suppers/page.js"
-    ],
-    "/founder/stellar-effects/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/founder/stellar-effects/page.js"
-    ],
-    "/founder/worn/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/founder/worn/page.js"
-    ],
-    "/projects/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/projects/page.js"
-    ],
-    "/projects/brews-and-bites/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/projects/brews-and-bites/page.js"
-    ],
-    "/travel/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/travel/page.js"
-    ],
-    "/travel/checklist/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/travel/checklist/page.js"
-    ],
-    "/travel/guides/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/travel/guides/page.js"
-    ],
-    "/projects/brews-and-bites/[iteration]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/projects/brews-and-bites/[iteration]/page.js"
-    ],
-    "/food/sunday-suppers/[slug]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/food/sunday-suppers/[slug]/page.js"
-    ],
-    "/about-me/career/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about-me/career/page.js"
-    ],
-    "/about-me/education/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about-me/education/page.js"
-    ],
-    "/about-me/goals/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about-me/goals/page.js"
-    ],
-    "/travel/guides/[slug]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/travel/guides/[slug]/page.js"
-    ],
-    "/travel/packing/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/travel/packing/page.js"
-    ],
-    "/photography/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/photography/page.js"
-    ],
-    "/fashion/closet/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/fashion/closet/[id]/page.js"
     ]
   }
 }

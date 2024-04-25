@@ -571,5 +571,155 @@
         "best_time_to_visit": "The best time to visit Costa Rica is during the dry season from December to April, when the weather is sunny and dry.",
         "recommended_duration": "A week is a good amount of time to explore Costa Rica's main attractions, but consider extending your stay to fully experience the country's natural beauty and outdoor activities.",
         "local_customs": "Respect the local culture and customs, including conserving water and electricity, and supporting sustainable tourism practices. It's customary to greet people with a handshake and a friendly 'buenos días' (good morning) or 'pura vida' (pure life)."
+    },
+    {
+        "id": 5,
+        "destination": "Iceland",
+        "slug": "iceland",
+        "dates_visited": {
+            "start_date": "04-05-2024",
+            "end_date": "04-12-2024"
+        },
+        "summary": "TBD",
+        "itinerary": [
+            {
+                "day": "Day 1 (Apr 5)",
+                "activities": [
+                    {
+                        "tag": "Flight",
+                        "route": "JFK to KEF",
+                        "flight": "Icelandair FL612",
+                        "duration": "1:00 PM (ET) → 10:35 PM (GMT)"
+                    },
+                    {
+                        "tag": "Lodging",
+                        "title": "Konvin Hotel",
+                        "address": "762, Keilisbraut, 235 Keflavík, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/bTexqsN38krSWNdF6",
+                        "notes": "Super close to Keflavik airport. Nice and convenient. Also super close to a local gym."
+                    }
+                ]
+            },
+            {
+                "day": "Day 2 (Apr 6)",
+                "activities": [
+                    {
+                        "tag": "Lodging",
+                        "title": "Greenhouse Hotel",
+                        "address": "Austurmörk 6, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/PP98TzzhcuSiCxyR8",
+                        "notes": "Houses a food hall, gift shops, and a bakery."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Fagradalsfjall Volcano",
+                        "address": "VP5F+MR7, 241 Grindavik, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/vvWSwi8wVYUgfR6NA",
+                        "cost": "FREE",
+                        "description": "The craters of Litli-Hrútur are the newest landscape of Iceland. The area, known broadly as Fagradalsfjall volcano, has erupted three times since 2021 and remains a top-attraction in Iceland's southwest corner.",
+                        "notes": "Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Gígvatnsvatn",
+                        "address": "241, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/6SKNipbzhHVZAzRk8",
+                        "cost": "FREE",
+                        "description": "Very beautiful lake. The road along the lake shore was also scenic.",
+                        "notes": "No official parking lot."
+                    }
+                ]
+            },
+            {
+                "day": "Day 3 (Apr 7)",
+                "activities": [
+                    {
+                        "tag": "Lodging",
+                        "title": "Greenhouse Hotel",
+                        "address": "Austurmörk 6, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/PP98TzzhcuSiCxyR8",
+                        "notes": "Houses a food hall, gift shops, and a bakery."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Fagradalsfjall Volcano",
+                        "address": "VP5F+MR7, 241 Grindavik, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/vvWSwi8wVYUgfR6NA",
+                        "cost": "FREE",
+                        "description": "The craters of Litli-Hrútur are the newest landscape of Iceland. The area, known broadly as Fagradalsfjall volcano, has erupted three times since 2021 and remains a top-attraction in Iceland's southwest corner.",
+                        "notes": "Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Gígvatnsvatn",
+                        "address": "241, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/6SKNipbzhHVZAzRk8",
+                        "cost": "FREE",
+                        "description": "Very beautiful lake. The road along the lake shore was also scenic.",
+                        "notes": "No official parking lot."
+                    }
+                ]
+            },
+            {
+                "day": "Day 4 (Apr 8)",
+                "activities": [
+                    {
+                        "tag": "Lodging",
+                        "title": "Greenhouse Hotel",
+                        "address": "Austurmörk 6, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/PP98TzzhcuSiCxyR8",
+                        "notes": "Houses a food hall, gift shops, and a bakery."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Fagradalsfjall Volcano",
+                        "address": "VP5F+MR7, 241 Grindavik, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/vvWSwi8wVYUgfR6NA",
+                        "cost": "FREE",
+                        "description": "The craters of Litli-Hrútur are the newest landscape of Iceland. The area, known broadly as Fagradalsfjall volcano, has erupted three times since 2021 and remains a top-attraction in Iceland's southwest corner.",
+                        "notes": "Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Gígvatnsvatn",
+                        "address": "241, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/6SKNipbzhHVZAzRk8",
+                        "cost": "FREE",
+                        "description": "Very beautiful lake. The road along the lake shore was also scenic.",
+                        "notes": "No official parking lot."
+                    }
+                ]
+            },
+            {
+                "day": "Day 5 (Apr 9)",
+                "activities": [
+                    {
+                        "tag": "Lodging",
+                        "title": "Greenhouse Hotel",
+                        "address": "Austurmörk 6, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/PP98TzzhcuSiCxyR8",
+                        "notes": "Houses a food hall, gift shops, and a bakery."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Fagradalsfjall Volcano",
+                        "address": "VP5F+MR7, 241 Grindavik, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/vvWSwi8wVYUgfR6NA",
+                        "cost": "FREE",
+                        "description": "The craters of Litli-Hrútur are the newest landscape of Iceland. The area, known broadly as Fagradalsfjall volcano, has erupted three times since 2021 and remains a top-attraction in Iceland's southwest corner.",
+                        "notes": "Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Gígvatnsvatn",
+                        "address": "241, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/6SKNipbzhHVZAzRk8",
+                        "cost": "FREE",
+                        "description": "Very beautiful lake. The road along the lake shore was also scenic.",
+                        "notes": "No official parking lot."
+                    }
+                ]
+            }
+        ]
     }
 ]
