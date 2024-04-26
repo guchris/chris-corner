@@ -583,7 +583,8 @@
         "summary": "TBD",
         "itinerary": [
             {
-                "day": "Day 1 (Apr 5)",
+                "day": "Day 1",
+                "date": "Apr 5",
                 "activities": [
                     {
                         "tag": "Flight",
@@ -601,7 +602,8 @@
                 ]
             },
             {
-                "day": "Day 2 (Apr 6)",
+                "day": "Day 2",
+                "date": "Apr 6",
                 "activities": [
                     {
                         "tag": "Lodging",
@@ -631,7 +633,8 @@
                 ]
             },
             {
-                "day": "Day 3 (Apr 7)",
+                "day": "Day 3",
+                "date": "Apr 7",
                 "activities": [
                     {
                         "tag": "Lodging",
@@ -661,7 +664,8 @@
                 ]
             },
             {
-                "day": "Day 4 (Apr 8)",
+                "day": "Day 4",
+                "date": "Apr 8",
                 "activities": [
                     {
                         "tag": "Lodging",
@@ -691,7 +695,8 @@
                 ]
             },
             {
-                "day": "Day 5 (Apr 9)",
+                "day": "Day 5",
+                "date": "Apr 9",
                 "activities": [
                     {
                         "tag": "Lodging",

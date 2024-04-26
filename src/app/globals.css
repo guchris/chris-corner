@@ -708,6 +708,13 @@ header {
 .kanban-column-header {
   font-weight: bold;
   font-size: 14px;
+  margin-bottom: 0;
+}
+
+.kanban-column-caption {
+  font-weight: bold;
+  font-size: 12px;
+  margin-top: 0;
 }
 
 .kanban-item {

@@ -35,6 +35,7 @@ const KanbanItinerary = ({ itinerary }) => {
             {itinerary.map((day, index) => (
                 <div className="kanban-column" key={index}>
                     <h3 className="kanban-column-header">{day.day}</h3>
+                    <h4 className="kanban-column-caption">{day.date}</h4>
                     {day.activities.map((activity, idx) => {
                         switch (activity.tag) {
                             case 'Flight':
