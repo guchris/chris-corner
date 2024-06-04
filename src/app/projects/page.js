@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const ProjectsPage = () => {
     
@@ -17,7 +18,7 @@ const ProjectsPage = () => {
                 <p className="intro">
                     Live. Laugh. Love. Projects.<br/>
                     Page content coming soon.<br/>
-                    Check out Brews & Bites in the meantime.
+                    Check out <Link href="/projects/brews-and-bites" className="link"><b>BREWS & BITES</b></Link> in the meantime.
                 </p>
             </div>
         </>

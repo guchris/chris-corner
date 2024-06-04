@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const FashionPage = () => {
     
@@ -17,7 +18,7 @@ const FashionPage = () => {
                 <p className="intro">
                     Fashion and sustainability.<br/>
                     Additional content in this page coming soon.<br/>
-                    Check out Closet for the moment.<br/>
+                    Check out <Link href="/fashion/closet" className="link"><b>CLOSET</b></Link> for the moment.<br/>
                 </p>
             </div>
         </>

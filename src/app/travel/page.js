@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const TravelPage = () => {
     
@@ -16,7 +17,8 @@ const TravelPage = () => {
 
                 <p className="intro">
                     I love travel, I mean - who doesn't?<br/>
-                    Page content coming soon. View my Checklist in the meantime.
+                    Page content coming soon.<br/>
+                    Check out <Link href="/travel/checklist" className="link"><b>CHECKLIST</b></Link> in the meantime.
                 </p>
             </div>
         </>

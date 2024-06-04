@@ -619,7 +619,7 @@
                         "gmaps": "https://maps.app.goo.gl/vvWSwi8wVYUgfR6NA",
                         "cost": "FREE",
                         "description": "The craters of Litli-Hrútur are the newest landscape of Iceland. The area, known broadly as Fagradalsfjall volcano, has erupted three times since 2021 and remains a top-attraction in Iceland's southwest corner.",
-                        "notes": "Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
+                        "notes": "This entire area of Iceland was closed during my trip. Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
                     },
                     {
                         "tag": "Place",
@@ -627,8 +627,62 @@
                         "address": "241, Iceland",
                         "gmaps": "https://maps.app.goo.gl/6SKNipbzhHVZAzRk8",
                         "cost": "FREE",
-                        "description": "Very beautiful lake. The road along the lake shore was also scenic.",
+                        "description": "Small, but beautiful lake. Water gives off a green color, distinct from the other lakes in the area.",
                         "notes": "No official parking lot."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Kleifarvatn",
+                        "address": "241, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/rE3oPJB3afKt7zHy9",
+                        "cost": "FREE",
+                        "description": "The largest lake on the Reykjanes Peninsula features hiking trails & a small fishing lodge.",
+                        "notes": "No official parking lot."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Seltún Geothermal Area",
+                        "address": "241, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/3frdwt9n1erFptnE9",
+                        "cost": "FREE",
+                        "description": "A natural geothermal area full of fumeroles and mud pots. There are wooden boardwalks all around the various pools, mud pots, etc. Clouds of sulfur as you walk around. Small hike towards the back that will take you up onto the nearby hill, giving you a fabulous view of the whole area.",
+                        "notes": "Small, free-of-charge parking lot. Toilets were closed."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Reykjadalur Hot Spring Thermal River",
+                        "address": "Reykjadalur 816, 816, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/D8xDZy1yQfpTzsoK9",
+                        "cost": "FREE",
+                        "description": "4-5 mile roundtrip, medium hike leading up the Reykjadalur Valley to a natural hot spring surrounded by majestic views.",
+                        "notes": "Make sure to bring a swimsuit and towel. Drive up to the carpark (which auto scans your license plate) and type your plate into the machine at the lodge. When you leave, pay at the machine. I paid 1000 ISK. Carpark location: https://maps.app.goo.gl/rKan951ULNgJFhbt7"
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "The Geothermal Park Hveragerði / Hveragarðurinn",
+                        "address": "Hveramörk 13, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/B4LuLxjyxWLhiAxq8",
+                        "cost": "500 ISK / person",
+                        "description": "A small park that houses some geothermal activites. The entrance is a small greenhouse split in two parts, a tea-room and small garden. You can cook an egg using the boiling geothermal water and eat home-made bread baked in the geothermic oven.",
+                        "notes": "Located in the middle of Hveragerði"
+                    },
+                    {
+                        "tag": "Food",
+                        "title": "Matkráin",
+                        "address": "XRX6+GXG, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/BDCL8o1V3T4LT46a6",
+                        "cost": "4000 - 5000 ISK / person",
+                        "description": "A small, local restaurant serving various types of Icelandic smørrebrød.",
+                        "notes": "The smørrebrød meat options were delicious, but quite small."
+                    },
+                    {
+                        "tag": "Food",
+                        "title": "Ölverk Pizza & Brewery",
+                        "address": "Breiðamörk 2, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/ShB4XZiq1cTgGokY7",
+                        "cost": "2000 - 4000 ISK / person",
+                        "description": "A modern pizzeria combined with a brewery with a few local beers on tap.",
+                        "notes": "The pizzas are thin and personal size."
                     }
                 ]
             },

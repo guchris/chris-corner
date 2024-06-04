@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const FoodPage = () => {
     
@@ -17,7 +18,7 @@ const FoodPage = () => {
                 <p className="intro">
                     Food is one of the joys in life. Here is a collection of culinary experiences.<br/>
                     Page content coming soon.<br/>
-                    Check out Sunday Suppers in the meantime.
+                    Check out <Link href="/food/sunday-suppers" className="link"><b>SUNDAY SUPPERS</b></Link> in the meantime.
                 </p>
             </div>
         </>

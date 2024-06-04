@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const FounderPage = () => {
     
@@ -17,7 +18,7 @@ const FounderPage = () => {
                 <p className="intro">
                     Fulfilling my curiosity and being ambitious.<br/>
                     Page content coming soon.<br/>
-                    Check out sub-tabs in the meantime.
+                    Check out <Link href="/founder/stellar-effects" className="link"><b>STELLAR EFFECTS</b></Link> in the meantime.
                 </p>
             </div>
         </>

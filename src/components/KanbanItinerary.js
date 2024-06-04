@@ -29,6 +29,17 @@ const PlaceActivity = ({ title, address, gmaps, cost, description, notes }) => (
     </div>
 );
 
+const FoodActivity = ({ title, address, gmaps, cost, description, notes }) => (
+    <div className="kanban-item">
+        <p className="kanban-tag">Food</p>
+        <p className="kanban-title">{title}</p>
+        <a className="kanban-address" href={gmaps} target="_blank">{address}</a>
+        <p className="kanban-cost">{cost}</p>
+        <p className="kanban-description">{description}</p>
+        <p className="kanban-notes">{notes}</p>
+    </div>
+);
+
 const KanbanItinerary = ({ itinerary }) => {
     return (
         <div className="kanban-board">
@@ -44,6 +55,8 @@ const KanbanItinerary = ({ itinerary }) => {
                                 return <LodgingActivity key={idx} {...activity} />;
                             case 'Place':
                                 return <PlaceActivity key={idx} {...activity} />;
+                            case 'Food':
+                                return <FoodActivity key={idx} {...activity} />;
                             default:
                                 return null; // Or render a default component for unknown types
                         }
