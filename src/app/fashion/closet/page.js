@@ -1,11 +1,26 @@
-import React from 'react';
+"use client"
+import React, { useState, useEffect } from "react";
+
 import Head from 'next/head';
 import Link from 'next/link';
 import ClosetGrid from '@/components/ClosetGrid';
+import ClosetFilter from '@/components/ClosetFilter';
+
 
 import closetData from './closet-data.json';
 
 const ClosetPage = () => {
+
+    const [sortOption, setSortOption] = useState('Newest');
+    const [categoryOption, setCategoryOption] = useState('All');
+
+    const handleSortChange = (option) => {
+        setSortOption(option);
+    };
+
+    const handleCategoryChange = (option) => {
+        setCategoryOption(option);
+    };
     
     return (
         <>
@@ -19,7 +34,15 @@ const ClosetPage = () => {
                 <h2 className="directory">
                     <Link href="/fashion" className="link">Fashion</Link> | Closet
                 </h2>
-                <ClosetGrid items={closetData} />
+                <div className="closet-page">
+                    <ClosetGrid items={closetData} sortOption={sortOption} categoryOption={categoryOption} />
+                    <ClosetFilter
+                        sortOption={sortOption}
+                        categoryOption={categoryOption}
+                        onSortChange={handleSortChange}
+                        onCategoryChange={handleCategoryChange}
+                    />
+                </div>
             </div>
         </>
     );

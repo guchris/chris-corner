@@ -1,8 +1,8 @@
 {
-  "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
-  "/travel/page": "app/travel/page.js",
-  "/travel/checklist/page": "app/travel/checklist/page.js",
-  "/travel/guides/page": "app/travel/guides/page.js",
+  "/travel/guides/[slug]/page": "app/travel/guides/[slug]/page.js",
   "/travel/packing/page": "app/travel/packing/page.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/fashion/outfits/page": "app/fashion/outfits/page.js",
+  "/fashion/closet/[id]/page": "app/fashion/closet/[id]/page.js",
+  "/fashion/closet/page": "app/fashion/closet/page.js"
 }
