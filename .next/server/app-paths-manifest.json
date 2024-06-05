@@ -1,8 +1,9 @@
 {
-  "/travel/guides/[slug]/page": "app/travel/guides/[slug]/page.js",
   "/travel/packing/page": "app/travel/packing/page.js",
   "/page": "app/page.js",
+  "/fashion/closet/page": "app/fashion/closet/page.js",
   "/fashion/outfits/page": "app/fashion/outfits/page.js",
+  "/fashion/page": "app/fashion/page.js",
   "/fashion/closet/[id]/page": "app/fashion/closet/[id]/page.js",
-  "/fashion/closet/page": "app/fashion/closet/page.js"
+  "/icon.png/route": "app/icon.png/route.js"
 }
