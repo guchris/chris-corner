@@ -699,83 +699,57 @@
                     },
                     {
                         "tag": "Place",
-                        "title": "Fagradalsfjall Volcano",
+                        "title": "Urriðafossvegur, 803, Iceland",
                         "address": "VP5F+MR7, 241 Grindavik, Iceland",
-                        "gmaps": "https://maps.app.goo.gl/vvWSwi8wVYUgfR6NA",
+                        "gmaps": "https://maps.app.goo.gl/cYZegVE3q8cVGxYM8",
                         "cost": "FREE",
-                        "description": "The craters of Litli-Hrútur are the newest landscape of Iceland. The area, known broadly as Fagradalsfjall volcano, has erupted three times since 2021 and remains a top-attraction in Iceland's southwest corner.",
-                        "notes": "Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
+                        "description": "Broad, powerful cascade & summer fishing spot in a serene locale.",
+                        "notes": "Lorem ipsum"
                     },
                     {
                         "tag": "Place",
-                        "title": "Gígvatnsvatn",
-                        "address": "241, Iceland",
-                        "gmaps": "https://maps.app.goo.gl/6SKNipbzhHVZAzRk8",
+                        "title": "Seljalandsfoss",
+                        "address": "Þórsmerkurvegur, 861, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/mgLXbnPFKYFRMSJc8",
                         "cost": "FREE",
-                        "description": "Very beautiful lake. The road along the lake shore was also scenic.",
-                        "notes": "No official parking lot."
-                    }
-                ]
-            },
-            {
-                "day": "Day 4",
-                "date": "Apr 8",
-                "activities": [
-                    {
-                        "tag": "Lodging",
-                        "title": "Greenhouse Hotel",
-                        "address": "Austurmörk 6, 810 Hveragerði, Iceland",
-                        "gmaps": "https://maps.app.goo.gl/PP98TzzhcuSiCxyR8",
-                        "notes": "Houses a food hall, gift shops, and a bakery."
+                        "description": "Cool waterfall",
+                        "notes": "Lorem ipsum"
                     },
                     {
                         "tag": "Place",
-                        "title": "Fagradalsfjall Volcano",
-                        "address": "VP5F+MR7, 241 Grindavik, Iceland",
-                        "gmaps": "https://maps.app.goo.gl/vvWSwi8wVYUgfR6NA",
+                        "title": "Gljufrabui",
+                        "address": "Þórsmerkurvegur, 861, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/rK5KndnmZpUP9qFJ6",
                         "cost": "FREE",
-                        "description": "The craters of Litli-Hrútur are the newest landscape of Iceland. The area, known broadly as Fagradalsfjall volcano, has erupted three times since 2021 and remains a top-attraction in Iceland's southwest corner.",
-                        "notes": "Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
+                        "description": "Cool waterfall",
+                        "notes": "Lorem ipsum"
                     },
                     {
                         "tag": "Place",
-                        "title": "Gígvatnsvatn",
-                        "address": "241, Iceland",
-                        "gmaps": "https://maps.app.goo.gl/6SKNipbzhHVZAzRk8",
+                        "title": "Skógafoss",
+                        "address": "861, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/atrbWW9ufrT8XQjs6",
                         "cost": "FREE",
-                        "description": "Very beautiful lake. The road along the lake shore was also scenic.",
-                        "notes": "No official parking lot."
-                    }
-                ]
-            },
-            {
-                "day": "Day 5",
-                "date": "Apr 9",
-                "activities": [
-                    {
-                        "tag": "Lodging",
-                        "title": "Greenhouse Hotel",
-                        "address": "Austurmörk 6, 810 Hveragerði, Iceland",
-                        "gmaps": "https://maps.app.goo.gl/PP98TzzhcuSiCxyR8",
-                        "notes": "Houses a food hall, gift shops, and a bakery."
+                        "description": "Striking 60m falls over a sheer, rocky cliff along the former coastline, with a viewing platform.",
+                        "notes": "Lorem ipsum"
                     },
                     {
                         "tag": "Place",
-                        "title": "Fagradalsfjall Volcano",
-                        "address": "VP5F+MR7, 241 Grindavik, Iceland",
-                        "gmaps": "https://maps.app.goo.gl/vvWSwi8wVYUgfR6NA",
+                        "title": "Fimmvorduhals",
+                        "address": "Gönguleið um Fimmvörðuháls, 861, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/PC6LU3GxKM1AT7Kq8",
                         "cost": "FREE",
-                        "description": "The craters of Litli-Hrútur are the newest landscape of Iceland. The area, known broadly as Fagradalsfjall volcano, has erupted three times since 2021 and remains a top-attraction in Iceland's southwest corner.",
-                        "notes": "Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
+                        "description": "Trail up to the top of Skogafoss and beyond to Steinbogafoss",
+                        "notes": "Lorem ipsum"
                     },
                     {
                         "tag": "Place",
-                        "title": "Gígvatnsvatn",
-                        "address": "241, Iceland",
-                        "gmaps": "https://maps.app.goo.gl/6SKNipbzhHVZAzRk8",
+                        "title": "Kvernufoss",
+                        "address": "GGH9+HWC, 861 Evindarhólar, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/YMNXtJExsFe4y8Rq6",
                         "cost": "FREE",
-                        "description": "Very beautiful lake. The road along the lake shore was also scenic.",
-                        "notes": "No official parking lot."
+                        "description": "Thundering falls rushing over sheer, moss-covered cliffs & accessible via a rugged hiking trail.",
+                        "notes": "Lorem ipsum"
                     }
                 ]
             }

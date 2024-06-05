@@ -10,19 +10,15 @@ import closetData from './closet-data.json';
 
 const ClosetPage = () => {
 
-    // Load saved filter options from localStorage or use default values
-    const [sortOption, setSortOption] = useState(localStorage.getItem('sortOption') || 'Newest');
-    const [categoryOption, setCategoryOption] = useState(localStorage.getItem('categoryOption') || 'All');
+    const [sortOption, setSortOption] = useState('Newest');
+    const [categoryOption, setCategoryOption] = useState('All');
 
-    // Update localStorage when filter options change
     const handleSortChange = (option) => {
         setSortOption(option);
-        localStorage.setItem('sortOption', option);
     };
 
     const handleCategoryChange = (option) => {
         setCategoryOption(option);
-        localStorage.setItem('categoryOption', option);
     };
     
     return (

@@ -214,5 +214,23 @@
         "catgory4score1": "2/5",
         "catgory4score2": "2/5",
         "totalScore": "34.0"
+    },
+    {
+        "id": 14,
+        "name": "Aloo Pie",
+        "slug": "aloo-pie",
+        "image1": "aloo-pie-1.png",
+        "image2": "aloo-pie-2.png",
+        "date": "June 5, 2024",
+        "story": "It feels like ages since our last Sunday Supper! Between our separate vacations and conflicting schedules, it's been a good two months since we've had a chance to gather around the kitchen. But finally, the stars aligned, and we were back in action, ready to whip up something delicious.<br/><br/>We scoured social media in anticipation of this long-awaited cooking session, stumbling upon an Instagram reel by @eatsbywill showcasing Aloo Pie - a fried dumpling hailing from the culinary landscape of Trinidad and Tobago. Intriguingly, it's a soft, fried pastry stuffed with boiled, spiced, and mashed potatoes, often dubbed the cousin of samosas. As a cool vegan dish to try out, it was an instant hit on our menu!<br/><br/>This time around, we had a special guest joining us—Haram! Anjuli's longtime friend was in town for work, and he graciously carved out time to hang with us. Thank goodness for his presence, especially when we found ourselves stumped by the proportions for the dough. While we tackled the spiced potato filling, Haram swiftly found a recipe online to guide us through the dough dilemma. <br/><br/>Of course, no cooking adventure would be complete without a bit of chaos. Case in point: the fire alarm debacle during our potato stuffing escapades. After a comical bout of fanning the wrong alarm and frantically airing out the kitchen, we finally managed to silence the shrieking alarm and get back on track.<br/><br/>Once all the components were prepped, we seamlessly transformed into an assembly line. Haram took charge of flattening the dough balls, I handled rolling and folding the potato mixture, and Anjuli manned the frying pan. Surprisingly, we breezed through the process with remarkable speed, churning out eight hefty Aloo Pies in no time.<br/><br/>Less than 15 minutes later, we were digging into our piping hot creations, emitting simultaneous 'YUMMM' sounds with every bite. I may or may not have devoured four of them—they were just that irresistible! With satisfied appetites, we delved into updates on our lives, particularly our dating escapades. And to cap off the evening, we dove into a game of 'We're Not Really Strangers', tackling hardcore questions and deepening our bonds well into the night.",
+        "catgory1score1": "9/10",
+        "catgory1score2": "7/10",
+        "catgory2score1": "3.5/5",
+        "catgory2score2": "3/5",
+        "catgory3score1": "3/5",
+        "catgory3score2": "4/5",
+        "catgory4score1": "2/5",
+        "catgory4score2": "4/5",
+        "totalScore": "35.5"
     }
 ]
