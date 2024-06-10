@@ -22,7 +22,7 @@ const BrewsAndBitesPage = () => {
 
                 <p className="intro">
                     Building community is important to me. Maintaining and deepning friendships is too.
-                    And with my appreciate and love for coffee, I knew that hosting my own pop-up coffee shop in my apartment would be the most perfect blend. Hence, Brews & Bites.<br/><br/>
+                    And with my appreciation and love for coffee, I knew that hosting my own pop-up coffee shop in my apartment would be the most perfect blend. Hence, Brews & Bites.<br/><br/>
                     
                     Not only is this a space for me to form more meaningful connections, it's also an opportunity for me to improve my barista skills, pursue my passion for baking, flex my design skills with each menu, and even get more use out of my space!
                     Would 100% reccomend.
