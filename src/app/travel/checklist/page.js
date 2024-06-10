@@ -87,12 +87,16 @@ const ChecklistPage = () => {
                 <div className="section">
                     <h3 className="section-title">Traveled</h3>
                     <div className="row-skinny">
-                    <div className="row-skinny">
                         <p className="body-upper">[05/2024]</p>
                         <p className="body-upper">Tokyo, Japan</p>
                     </div>
+                    <div className="row-skinny">
                         <p className="body-upper">[05/2024]</p>
                         <p className="body-upper">Seoul, South Korea</p>
+                    </div>
+                    <div className="row-skinny">
+                        <p className="body-upper">[05/2024]</p>
+                        <p className="body-upper">Taiwan, Taipei</p>
                     </div>
                     <div className="row-skinny">
                         <p className="body-upper">[04/2024]</p>
