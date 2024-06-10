@@ -344,5 +344,66 @@
             "v4-11.png",
             "v4-12.png"
         ]
+    },
+    {
+        "id": 5,
+        "iteration": "v5",
+        "menuFront": "v5-front.png",
+        "menuBack": "v5-back.png",
+        "date": "June 15, 2024",
+        "title": "Let's make some Matcha Memories at this installment of Brews & Bites! Swing by my apartment cafe for a zen-filled time with many matcha delights. Let's whisk away your worries, one sip at a time.",
+        "story": "Coming soon",
+        "guests": [
+            {
+                "name": "Guest 1",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 2",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 3",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 4",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 5",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 6",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 7",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 8",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 9",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 10",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 11",
+                "order": "TBD"
+            },
+            {
+                "name": "Guest 12",
+                "order": "TBD"
+            }
+        ],
+        "photos": [
+        ]
     }
 ]
