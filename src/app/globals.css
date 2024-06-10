@@ -506,6 +506,16 @@ header {
   flex-direction: row;
 }
 
+.checkbox {
+  width: 11px;
+  height: 11px;
+  border: 1px solid #000;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: 0;
+  margin-right: 5px;
+}
+
 .checkboxes input[type="checkbox"] {
   /* Remove default checkbox appearance */
   -webkit-appearance: none;

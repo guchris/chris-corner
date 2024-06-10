@@ -48,7 +48,7 @@ const SundaySuppersPage = () => {
                     </div>
                 </div>
 
-                <h4 className="section-title">Current Rankings</h4>
+                <h4 className="section-title">Suppers History</h4>
                 <RankingSection suppers={suppersData} />
             </div>
         </>

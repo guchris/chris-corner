@@ -1,6 +1,6 @@
 import React from 'react';
 
-const FilterComponent = ({ sortOption, categoryOption, onSortChange, onCategoryChange }) => {
+const ClosetFilter = ({ sortOption, categoryOption, onSortChange, onCategoryChange }) => {
     return (
         <div className="closet-filters">
             <div className="closet-filter-section">
@@ -21,4 +21,4 @@ const FilterComponent = ({ sortOption, categoryOption, onSortChange, onCategoryC
     );
 };
 
-export default FilterComponent;
+export default ClosetFilter;
