@@ -1,7 +1,7 @@
 "use client"
 import React, { useState, useEffect } from 'react';
 
-const ClosetFilter = ({ sortOption, categoryOption, onSortChange, onCategoryChange }) => {
+const ClosetFilter = ({ sortOption, categoryOption, brandOption, uniqueBrands, onSortChange, onCategoryChange, onBrandChange }) => {
 
     const [isMobile, setIsMobile] = useState(false);
 
@@ -39,6 +39,15 @@ const ClosetFilter = ({ sortOption, categoryOption, onSortChange, onCategoryChan
                             <option value="Accessories">Accessories</option>
                         </select>
                     </div>
+                    <div className="closet-filter-section">
+                        <h3>Brand</h3>
+                        <select value={brandOption} onChange={(e) => onBrandChange(e.target.value)}>
+                            <option value="All">All</option>
+                            {uniqueBrands.sort().map((brand, index) => (
+                                <option key={index} value={brand}>{brand}</option>
+                            ))}
+                        </select>
+                    </div>
                 </>
             ) : (
                 <>
@@ -55,6 +64,12 @@ const ClosetFilter = ({ sortOption, categoryOption, onSortChange, onCategoryChan
                         <span className={categoryOption === 'Tops' ? 'selected' : ''} onClick={() => onCategoryChange('Tops')}>Tops</span>
                         <span className={categoryOption === 'Bottoms' ? 'selected' : ''} onClick={() => onCategoryChange('Bottoms')}>Bottoms</span>
                         <span className={categoryOption === 'Accessories' ? 'selected' : ''} onClick={() => onCategoryChange('Accessories')}>Accessories</span>
+                    </div>
+                    <div className="closet-filter-section">
+                        <h3>Brand</h3>
+                            {uniqueBrands.sort().map((brand, index) => (
+                                <span key={index} className={brandOption === brand ? 'selected' : ''} onClick={() => onBrandChange(brand)}>{brand}</span>
+                            ))}
                     </div>
                 </>
             )}

@@ -12,6 +12,7 @@ const ClosetPage = () => {
 
     const [sortOption, setSortOption] = useState('Newest');
     const [categoryOption, setCategoryOption] = useState('All');
+    const [brandOption, setBrandOption] = useState('All');
     const [isMobile, setIsMobile] = useState(false);
 
     useEffect(() => {
@@ -31,6 +32,12 @@ const ClosetPage = () => {
     const handleCategoryChange = (option) => {
         setCategoryOption(option);
     };
+
+    const handleBrandChange = (option) => {
+        setBrandOption(option);
+    };
+
+    const uniqueBrands = [...new Set(closetData.map(item => item.brand))];
     
     return (
         <>
@@ -50,19 +57,35 @@ const ClosetPage = () => {
                             <ClosetFilter
                                 sortOption={sortOption}
                                 categoryOption={categoryOption}
+                                brandOption={brandOption}
+                                uniqueBrands={uniqueBrands}
                                 onSortChange={handleSortChange}
                                 onCategoryChange={handleCategoryChange}
+                                onBrandChange={handleBrandChange}
                             />
-                            <ClosetGrid items={closetData} sortOption={sortOption} categoryOption={categoryOption} />
+                            <ClosetGrid
+                                items={closetData}
+                                sortOption={sortOption}
+                                categoryOption={categoryOption}
+                                brandOption={brandOption}
+                            />
                         </>
                     ) : (
-                        <>
-                            <ClosetGrid items={closetData} sortOption={sortOption} categoryOption={categoryOption} />
+                        <>  
+                            <ClosetGrid
+                                items={closetData}
+                                sortOption={sortOption}
+                                categoryOption={categoryOption}
+                                brandOption={brandOption}
+                            />
                             <ClosetFilter
                                 sortOption={sortOption}
                                 categoryOption={categoryOption}
+                                brandOption={brandOption}
+                                uniqueBrands={uniqueBrands}
                                 onSortChange={handleSortChange}
                                 onCategoryChange={handleCategoryChange}
+                                onBrandChange={handleBrandChange}
                             />
                         </>
                     )}

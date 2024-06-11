@@ -1,7 +1,7 @@
 import React from "react"
 import Link from 'next/link'
 
-const ClosetGrid = ({ items, sortOption, categoryOption }) => {
+const ClosetGrid = ({ items, sortOption, categoryOption, brandOption }) => {
 
     const sortItems = (items, sortOption) => {
         switch (sortOption) {
@@ -18,12 +18,18 @@ const ClosetGrid = ({ items, sortOption, categoryOption }) => {
         }
     };
 
-    const filterItems = (items, categoryOption) => {
-        if (categoryOption === 'All') return items;
-        return items.filter(item => item.category.includes(categoryOption));
+    const filterItems = (items, categoryOption, brandOption) => {
+        let filteredItems = items;
+        if (categoryOption !== 'All') {
+            filteredItems = filteredItems.filter(item => item.category.includes(categoryOption));
+        }
+        if (brandOption !== 'All') {
+            filteredItems = filteredItems.filter(item => item.brand === brandOption);
+        }
+        return filteredItems;
     };
 
-    const sortedAndFilteredItems = sortItems(filterItems(items, categoryOption), sortOption);
+    const sortedAndFilteredItems = sortItems(filterItems(items, categoryOption, brandOption), sortOption);
 
     return (
         <div className="closet-grid">
