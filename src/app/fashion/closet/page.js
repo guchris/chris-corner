@@ -12,6 +12,17 @@ const ClosetPage = () => {
 
     const [sortOption, setSortOption] = useState('Newest');
     const [categoryOption, setCategoryOption] = useState('All');
+    const [isMobile, setIsMobile] = useState(false);
+
+    useEffect(() => {
+        const handleResize = () => {
+            setIsMobile(window.innerWidth <= 800);
+        };
+        handleResize(); // Set initial state
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
+
 
     const handleSortChange = (option) => {
         setSortOption(option);
@@ -33,14 +44,28 @@ const ClosetPage = () => {
                 <h2 className="directory">
                     <Link href="/fashion" className="link">Fashion</Link> | Closet
                 </h2>
-                <div className="closet-page">
-                    <ClosetGrid items={closetData} sortOption={sortOption} categoryOption={categoryOption} />
-                    <ClosetFilter
-                        sortOption={sortOption}
-                        categoryOption={categoryOption}
-                        onSortChange={handleSortChange}
-                        onCategoryChange={handleCategoryChange}
-                    />
+                <div className={`closet-page ${isMobile ? 'mobile' : ''}`}>
+                    {isMobile ? (
+                        <>
+                            <ClosetFilter
+                                sortOption={sortOption}
+                                categoryOption={categoryOption}
+                                onSortChange={handleSortChange}
+                                onCategoryChange={handleCategoryChange}
+                            />
+                            <ClosetGrid items={closetData} sortOption={sortOption} categoryOption={categoryOption} />
+                        </>
+                    ) : (
+                        <>
+                            <ClosetGrid items={closetData} sortOption={sortOption} categoryOption={categoryOption} />
+                            <ClosetFilter
+                                sortOption={sortOption}
+                                categoryOption={categoryOption}
+                                onSortChange={handleSortChange}
+                                onCategoryChange={handleCategoryChange}
+                            />
+                        </>
+                    )}
                 </div>
             </div>
         </>
