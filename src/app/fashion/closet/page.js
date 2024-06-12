@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 
 import Head from 'next/head';
 import Link from 'next/link';
+
 import ClosetGrid from '@/components/ClosetGrid';
 import ClosetFilter from '@/components/ClosetFilter';
 
@@ -19,7 +20,7 @@ const ClosetPage = () => {
         const handleResize = () => {
             setIsMobile(window.innerWidth <= 800);
         };
-        handleResize(); // Set initial state
+        handleResize();
         window.addEventListener('resize', handleResize);
         return () => window.removeEventListener('resize', handleResize);
     }, []);
@@ -51,7 +52,7 @@ const ClosetPage = () => {
                 <h2 className="directory">
                     <Link href="/fashion" className="link">Fashion</Link> | Closet
                 </h2>
-                <div className={`closet-page ${isMobile ? 'mobile' : ''}`}>
+                <div className={`grid-page ${isMobile ? 'mobile' : ''}`}>
                     {isMobile ? (
                         <>
                             <ClosetFilter

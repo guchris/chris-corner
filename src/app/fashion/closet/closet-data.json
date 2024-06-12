@@ -1546,5 +1546,41 @@
       "water": "",
       "cost": "$45.00",
       "date": "Nov 6, 2023"
+    },
+    {
+      "id": 87,
+      "image1": "item87-1.png",
+      "image2": "item87-2.png",
+      "brand": "Kith",
+      "name": "V-Neck Hoodie",
+      "description": "",
+      "size": "Small",
+      "material": "100% Cotton",
+      "color": "Brown",
+      "made": "Unknown",
+      "category": "Tops, Hoodies",
+      "condition": "Used",
+      "carbon": "- 5.08 kg",
+      "water": "- 1090 l",
+      "cost": "$40.50",
+      "date": "Jun 12, 2024"
+    },
+    {
+      "id": 88,
+      "image1": "item88-1.png",
+      "image2": "item88-2.png",
+      "brand": "Vince",
+      "name": "Distressed Crew Neck Hoodie",
+      "description": "",
+      "size": "Medium",
+      "material": "Unknown",
+      "color": "Gray",
+      "made": "Unknown",
+      "category": "Tops, Hoodies",
+      "condition": "Used",
+      "carbon": "- 5.33 kg",
+      "water": "- 814 l",
+      "cost": "$48.00",
+      "date": "Jun 12, 2024"
     }
 ]

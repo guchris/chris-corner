@@ -18,10 +18,10 @@ const ClosetFilter = ({ sortOption, categoryOption, brandOption, uniqueBrands, o
 
 
     return (
-        <div className="closet-filters">
+        <div className="filters">
             {isMobile ? (
                 <>
-                    <div className="closet-filter-section">
+                    <div className="filter-section">
                         <h3>SORT</h3>
                         <select value={sortOption} onChange={(e) => onSortChange(e.target.value)}>
                             <option value="Newest">Newest</option>
@@ -30,7 +30,7 @@ const ClosetFilter = ({ sortOption, categoryOption, brandOption, uniqueBrands, o
                             <option value="$ - $$$">$ - $$$</option>
                         </select>
                     </div>
-                    <div className="closet-filter-section">
+                    <div className="filter-section">
                         <h3>Category</h3>
                         <select value={categoryOption} onChange={(e) => onCategoryChange(e.target.value)}>
                             <option value="All">All</option>
@@ -39,7 +39,7 @@ const ClosetFilter = ({ sortOption, categoryOption, brandOption, uniqueBrands, o
                             <option value="Accessories">Accessories</option>
                         </select>
                     </div>
-                    <div className="closet-filter-section">
+                    <div className="filter-section">
                         <h3>Brand</h3>
                         <select value={brandOption} onChange={(e) => onBrandChange(e.target.value)}>
                             <option value="All">All</option>
@@ -51,21 +51,21 @@ const ClosetFilter = ({ sortOption, categoryOption, brandOption, uniqueBrands, o
                 </>
             ) : (
                 <>
-                    <div className="closet-filter-section">
+                    <div className="filter-section">
                         <h3>SORT</h3>
                         <span className={sortOption === 'Newest' ? 'selected' : ''} onClick={() => onSortChange('Newest')}>Newest</span>
                         <span className={sortOption === 'Oldest' ? 'selected' : ''} onClick={() => onSortChange('Oldest')}>Oldest</span>
                         <span className={sortOption === '$$$ - $' ? 'selected' : ''} onClick={() => onSortChange('$$$ - $')}>$$$ - $</span>
                         <span className={sortOption === '$ - $$$' ? 'selected' : ''} onClick={() => onSortChange('$ - $$$')}>$ - $$$</span>
                     </div>
-                    <div className="closet-filter-section">
+                    <div className="filter-section">
                         <h3>Category</h3>
                         <span className={categoryOption === 'All' ? 'selected' : ''} onClick={() => onCategoryChange('All')}>All</span>
                         <span className={categoryOption === 'Tops' ? 'selected' : ''} onClick={() => onCategoryChange('Tops')}>Tops</span>
                         <span className={categoryOption === 'Bottoms' ? 'selected' : ''} onClick={() => onCategoryChange('Bottoms')}>Bottoms</span>
                         <span className={categoryOption === 'Accessories' ? 'selected' : ''} onClick={() => onCategoryChange('Accessories')}>Accessories</span>
                     </div>
-                    <div className="closet-filter-section">
+                    <div className="filter-section">
                         <h3>Brand</h3>
                             {uniqueBrands.sort().map((brand, index) => (
                                 <span key={index} className={brandOption === brand ? 'selected' : ''} onClick={() => onBrandChange(brand)}>{brand}</span>

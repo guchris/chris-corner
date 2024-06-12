@@ -32,10 +32,10 @@ const ClosetGrid = ({ items, sortOption, categoryOption, brandOption }) => {
     const sortedAndFilteredItems = sortItems(filterItems(items, categoryOption, brandOption), sortOption);
 
     return (
-        <div className="closet-grid">
+        <div className="general-grid">
             {sortedAndFilteredItems.map((item, index) => (
                 <Link key={item.id} href={`/fashion/closet/${item.id}`} className="link">
-                    <div key={index} className="closet-item">
+                    <div key={index} className="grid-item">
                         <img src={"/fashion/closet/" + item.image1} alt={item.name}/>
                         <div className="section-skinny">
                             <p className="caption-upper-bold">{item.brand}</p>

@@ -17,8 +17,8 @@ const AboutMePage = () => {
                 <img className="image-main" src="/about-me/headshot.jpg"/>
 
                 <p className="intro">
-                    Hi there - my name is Chris (he/him)! I'm all about staying active, embracing spontaneity, and finding joy in the little things.<br/>
-                    Living my best pedestrian life and fully immersed in my self-love era. Below are a few mottos I'm living by.<br/>
+                    Hi there - my name is Chris (he/him)! I'm all about staying active, embracing spontaneity, and finding joy in the little things in life.<br/>
+                    Below are a few mottos I'm living by.<br/>
                 </p>
                 <ul className="bullets">
                     <li>Happiness lives in the present</li>

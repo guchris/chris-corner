@@ -1,8 +1,7 @@
 {
-  "/fashion/closet/page": "app/fashion/closet/page.js",
-  "/fashion/closet/[id]/page": "app/fashion/closet/[id]/page.js",
-  "/travel/checklist/page": "app/travel/checklist/page.js",
+  "/about-me/page": "app/about-me/page.js",
+  "/food/reviews/page": "app/food/reviews/page.js",
+  "/food/reviews/[slug]/page": "app/food/reviews/[slug]/page.js",
   "/page": "app/page.js",
-  "/fashion/page": "app/fashion/page.js",
-  "/icon.png/route": "app/icon.png/route.js"
+  "/fashion/closet/page": "app/fashion/closet/page.js"
 }
