@@ -64,7 +64,7 @@ const ReviewsPage = () => {
                     <Link href="/food" className="link">Food</Link> | Reviews
                 </h2>
                 <p className="intro">
-                    Restaurant Reviews & Reccomendations are still in progress.<br/>
+                    Restaurant Reviews are still in progress.<br/>
 
                     Hey there, welcome to my Seattle foodie guide! Think of this as my personal rundown of the best spots in town.
                     Whether you're craving a hearty meal, a perfect cup of coffee, or some refreshing boba, this list has got you covered.

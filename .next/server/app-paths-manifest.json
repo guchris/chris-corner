@@ -1,7 +1,8 @@
 {
-  "/about-me/page": "app/about-me/page.js",
   "/food/reviews/page": "app/food/reviews/page.js",
+  "/fashion/closet/page": "app/fashion/closet/page.js",
   "/food/reviews/[slug]/page": "app/food/reviews/[slug]/page.js",
   "/page": "app/page.js",
-  "/fashion/closet/page": "app/fashion/closet/page.js"
+  "/food/page": "app/food/page.js",
+  "/icon.png/route": "app/icon.png/route.js"
 }

@@ -45,8 +45,13 @@ const ReviewsGrid = ({ reviews, typeOption, cuisineOption, mealOption, priceOpti
                             <div className="section-skinny">
                                 <p className="caption-upper-bold">{review.name}</p>
                                 <p className="caption-upper">{review.cuisine}</p>
-                                <p className="caption-upper">{review.price}</p>
-                                <p className="caption-upper">{review.rating}</p>
+                            </div>
+                            <div className="row-skinny">
+                                <p className="caption-upper-bold">{review.rating}</p>
+                                <p className="caption-upper-bold">{review.price}</p>
+                            </div>
+                            <div className="section-skinny">
+                                <p className="caption-lower">{review.notes}</p>
                             </div>
                         </div>
                     </Link>
