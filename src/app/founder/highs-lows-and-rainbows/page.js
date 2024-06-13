@@ -1,6 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import Image from 'next/image';
 
 import cardsData from './cards-data.json';
 
@@ -27,7 +28,14 @@ const HighsLowsAndRainbowsPage = () => {
                     {cardsData.map((card, i) => (
                         <Link key={i} href={card.url} className="link" target="_blank">
                             <div className="card-item">
-                                <img src={"/founder/highs-lows-rainbows/" + card.image} alt={card.name} />
+                                <Image
+                                    src={"/founder/highs-lows-rainbows/" + card.image}
+                                    alt={card.name}
+                                    width={200}
+                                    height={150}
+                                    layout="responsive"
+                                    objectFit="cover"
+                                />
                                 <div className="section-skinny">
                                     <p className="caption-upper-bold">{card.name}</p>
                                     <p className="caption-upper">{card.collection}</p>

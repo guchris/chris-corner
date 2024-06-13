@@ -1,5 +1,6 @@
 import React from "react"
 import Link from 'next/link'
+import Image from 'next/image';
 
 const ReviewsGrid = ({ reviews, typeOption, cuisineOption, mealOption, priceOption, ratingOption, tagOption }) => {
 
@@ -41,7 +42,14 @@ const ReviewsGrid = ({ reviews, typeOption, cuisineOption, mealOption, priceOpti
                 {filteredReviews.map((review, index) => (
                     <Link key={review.id} href={`${review.url}`} className="link">
                         <div key={index} className="grid-item">
-                            <img src={`/food/reviews/${review.cover}`} alt={review.name}/>
+                            <Image
+                                src={`/food/reviews/${review.cover}`}
+                                alt={review.name}
+                                width={200}
+                                height={200}
+                                layout="responsive"
+                                objectFit="cover"
+                            />
                             <div className="section-skinny">
                                 <p className="caption-upper-bold">{review.name}</p>
                                 <p className="caption-upper">{review.cuisine}</p>

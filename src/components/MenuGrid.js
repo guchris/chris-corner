@@ -1,5 +1,6 @@
 import React from "react"
 import Link from 'next/link'
+import Image from 'next/image';
 
 const MenuGrid = ({ brews }) => {
 
@@ -11,7 +12,14 @@ const MenuGrid = ({ brews }) => {
             {sortedBrews.map((brew, index) => (
                 <Link key={brew.id} href={`/projects/brews-and-bites/${brew.iteration}`} className="link">
                     <div key={index} className="menu-wrapper">
-                        <img src={"/projects/brews-and-bites/" + brew.menuFront} alt="Brews & Bites Menu - Front"/>
+                        <Image
+                            src={"/projects/brews-and-bites/" + brew.menuFront}
+                            alt="Brews & Bites Menu - Front"
+                            width={200}
+                            height={150}
+                            layout="responsive"
+                            objectFit="cover"
+                        />
                         <img className="hover-image" src={"/projects/brews-and-bites/" + brew.menuBack} alt="Brews & Bites Menu - Back"/>
                     </div>
                 </Link>

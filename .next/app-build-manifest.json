@@ -135,6 +135,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/food/reviews/[slug]/page.js"
+    ],
+    "/founder/highs-lows-and-rainbows/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/founder/highs-lows-and-rainbows/page.js"
+    ],
+    "/founder/worn/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/founder/worn/page.js"
     ]
   }
 }

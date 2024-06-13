@@ -1,5 +1,6 @@
 import React from "react"
 import Link from 'next/link'
+import Image from 'next/image';
 
 const ClosetGrid = ({ items, sortOption, categoryOption, brandOption }) => {
 
@@ -36,7 +37,14 @@ const ClosetGrid = ({ items, sortOption, categoryOption, brandOption }) => {
             {sortedAndFilteredItems.map((item, index) => (
                 <Link key={item.id} href={`/fashion/closet/${item.id}`} className="link">
                     <div key={index} className="grid-item">
-                        <img src={"/fashion/closet/" + item.image1} alt={item.name}/>
+                        <Image
+                            src={"/fashion/closet/" + item.image1}
+                            alt={item.name}
+                            width={200}
+                            height={150}
+                            layout="responsive"
+                            objectFit="cover"
+                        />
                         <div className="section-skinny">
                             <p className="caption-upper-bold">{item.brand}</p>
                             <p className="caption-upper">{item.name}</p>

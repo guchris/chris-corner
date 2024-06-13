@@ -67,9 +67,10 @@ const ClosetFilter = ({ sortOption, categoryOption, brandOption, uniqueBrands, o
                     </div>
                     <div className="filter-section">
                         <h3>Brand</h3>
-                            {uniqueBrands.sort().map((brand, index) => (
-                                <span key={index} className={brandOption === brand ? 'selected' : ''} onClick={() => onBrandChange(brand)}>{brand}</span>
-                            ))}
+                        <span className={brandOption === 'All' ? 'selected' : ''} onClick={() => onBrandChange('All')}>All</span>
+                        {uniqueBrands.sort().map((brand, index) => (
+                            <span key={index} className={brandOption === brand ? 'selected' : ''} onClick={() => onBrandChange(brand)}>{brand}</span>
+                        ))}
                     </div>
                 </>
             )}

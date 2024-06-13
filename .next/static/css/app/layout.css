@@ -418,6 +418,12 @@ header {
   cursor: pointer;
 }
 
+.grid-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
 .filters {
   width: 120px;
   margin-left: 20px;
