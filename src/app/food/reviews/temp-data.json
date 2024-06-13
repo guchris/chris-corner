@@ -14,34 +14,6 @@
         "url": "https://maps.app.goo.gl/vbQNQjnBLKh8U5ag6"
     },
     {
-        "id": 16,
-        "name": "Mamnoon",
-        "slug": "mamnoon",
-        "meals": "L, D",
-        "cuisine": "Middle Eastern",
-        "type": "Restaurant",
-        "tags": "",
-        "price": "$$$",
-        "notes": "Traditional Middle Eastern cooking gets modern tweaks at a popular eatery in a former warehouse.",
-        "rating": "5.0",
-        "address": "500 E Pine St, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/rVtZ664qH89t2mt87"
-    },
-    {
-        "id": 17,
-        "name": "Bangrak Market",
-        "slug": "bangrak-market",
-        "meals": "L, D",
-        "cuisine": "Thai",
-        "type": "Restaurant",
-        "tags": "",
-        "price": "$",
-        "notes": "Classic Thai street food noodles, salads, skewered meats & drinks in a bright, chill setting.",
-        "rating": "8.5",
-        "address": "2319 2nd Ave, Seattle, WA 98121",
-        "url": "https://maps.app.goo.gl/UNFCUF4PqWXE2tWr6"
-    },
-    {
         "id": 18,
         "name": "Momiji",
         "slug": "momiji",

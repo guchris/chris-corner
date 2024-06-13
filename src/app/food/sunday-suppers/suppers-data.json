@@ -232,5 +232,23 @@
         "catgory4score1": "2/5",
         "catgory4score2": "4/5",
         "totalScore": "35.5"
+    },
+    {
+        "id": 15,
+        "name": "Tofu Pancakes",
+        "slug": "tofu-pancakes",
+        "image1": "tofu-pancakes-1.png",
+        "image2": "tofu-pancakes-2.png",
+        "date": "June 11, 2024",
+        "story": "Maybe we should call this Tuesday Suppers, because once again, our Sunday plans got bumped to Tuesday night. But hey, as long as we keep this tradition going, I'm all in! This week, Anjuli stumbled upon an intriguing recipe for \"Tofu Mochi\" from @fuji.cooking. These little creations promised a crispy exterior and a chewy interior, resembling pancakes in shape.<br/><br/>The recipe was delightfully simple: just silken tofu, sesame oil, cornstarch, Aomori (green seaweed powder), and chicken bouillon powder. Despite knowing the ingredients, we were still amazed by how easy it was to put together! Mixing everything took just a couple of minutes. The batter looked a bit like cottage cheese but smelled quite promising. Next up was frying them on my pancake pan. We scooped the mixture onto the pan just like pancakes, and soon enough, we had eight sizeable pieces ready to go.<br/><br/>Right off the pan, they were just as described: crispy outside and chewy inside. However, the taste was a bit underwhelming. They needed a little something extra, like a topping or drizzle, to really shine. They also didn't look very appetizing once plated, and even ended up a bit soggy instead of staying crispy. Since this wasn't enough for a full meal, we supplemented with a monkey bread sandwich thing I grabbed from Tour le Jour. Naturally, I paired it with a Coke Zero—my latest obsession.<br/><br/>With our bellies somewhat satisfied, we settled in for some much-needed catch-up time, diving into our dating lives and marveling at the similarities and differences. We also reflected on how lucky we are to enjoy life in Seattle. Until next time!",
+        "catgory1score1": "6/10",
+        "catgory1score2": "7/10",
+        "catgory2score1": "2/5",
+        "catgory2score2": "3/5",
+        "catgory3score1": "5/5",
+        "catgory3score2": "5/5",
+        "catgory4score1": "3/5",
+        "catgory4score2": "2/5",
+        "totalScore": "32.0"
     }
 ]
