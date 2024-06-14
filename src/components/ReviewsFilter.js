@@ -21,7 +21,7 @@ const ReviewsFilter = ({ typeOption, cuisineOption, mealOption, priceOption, rat
         <div className="filters">
             {isMobile ? (
                 <>
-                    <div className="filter-section">
+                    {/* <div className="filter-section">
                         <h3>Type</h3>
                         <select value={typeOption} onChange={(e) => onTypeChange(e.target.value)}>
                             <option value="All">All</option>
@@ -29,7 +29,7 @@ const ReviewsFilter = ({ typeOption, cuisineOption, mealOption, priceOption, rat
                                 <option key={index} value={type}>{type}</option>
                             ))}
                         </select>
-                    </div>
+                    </div> */}
                     <div className="filter-section">
                         <h3>Cuisine</h3>
                         <select value={cuisineOption} onChange={(e) => onCuisineChange(e.target.value)}>
@@ -39,7 +39,7 @@ const ReviewsFilter = ({ typeOption, cuisineOption, mealOption, priceOption, rat
                             ))}
                         </select>
                     </div>
-                    <div className="filter-section">
+                    {/* <div className="filter-section">
                         <h3>Meal</h3>
                         <select value={mealOption} onChange={(e) => onMealChange(e.target.value)}>
                             <option value="All">All</option>
@@ -48,7 +48,7 @@ const ReviewsFilter = ({ typeOption, cuisineOption, mealOption, priceOption, rat
                             <option value="Lunch">Lunch</option>
                             <option value="Dinner">Dinner</option>
                         </select>
-                    </div>
+                    </div> */}
                     <div className="filter-section">
                         <h3>Price</h3>
                         <select value={priceOption} onChange={(e) => onPriceChange(e.target.value)}>
@@ -70,7 +70,7 @@ const ReviewsFilter = ({ typeOption, cuisineOption, mealOption, priceOption, rat
                             <option value="F">F</option>
                         </select>
                     </div>
-                    <div className="filter-section">
+                    {/* <div className="filter-section">
                         <h3>Tag</h3>
                         <select value={tagOption} onChange={(e) => onTagChange(e.target.value)}>
                             <option value="All">All</option>
@@ -78,17 +78,17 @@ const ReviewsFilter = ({ typeOption, cuisineOption, mealOption, priceOption, rat
                                 <option key={index} value={tag}>{tag}</option>
                             ))}
                         </select>
-                    </div>
+                    </div> */}
                 </>
             ) : (
                 <>
-                    <div className="filter-section">
+                    {/* <div className="filter-section">
                         <h3>Type</h3>
                         <span className={typeOption === 'All' ? 'selected' : ''} onClick={() => onTypeChange('All')}>All</span>
                         {uniqueTypes.map((type, index) => (
                             <span key={index} className={typeOption === type ? 'selected' : ''} onClick={() => onTypeChange(type)}>{type}</span>
                         ))}
-                    </div>
+                    </div> */}
                     <div className="filter-section">
                         <h3>Cuisine</h3>
                         <span className={cuisineOption === 'All' ? 'selected' : ''} onClick={() => onCuisineChange('All')}>All</span>
@@ -96,14 +96,14 @@ const ReviewsFilter = ({ typeOption, cuisineOption, mealOption, priceOption, rat
                             <span key={index} className={cuisineOption === cuisine ? 'selected' : ''} onClick={() => onCuisineChange(cuisine)}>{cuisine}</span>
                         ))}
                     </div>
-                    <div className="filter-section">
+                    {/* <div className="filter-section">
                         <h3>Meal</h3>
                         <span className={mealOption === 'All' ? 'selected' : ''} onClick={() => onMealChange('All')}>All</span>
                         <span className={mealOption === 'Breakfast' ? 'selected' : ''} onClick={() => onMealChange('Breakfast')}>Breakfast</span>
                         <span className={mealOption === 'Brunch' ? 'selected' : ''} onClick={() => onMealChange('Brunch')}>Brunch</span>
                         <span className={mealOption === 'Lunch' ? 'selected' : ''} onClick={() => onMealChange('Lunch')}>Lunch</span>
                         <span className={mealOption === 'Dinner' ? 'selected' : ''} onClick={() => onMealChange('Dinner')}>Dinner</span>
-                    </div>
+                    </div> */}
                     <div className="filter-section">
                         <h3>Price</h3>
                         <span className={priceOption === 'All' ? 'selected' : ''} onClick={() => onPriceChange('All')}>All</span>
@@ -121,13 +121,13 @@ const ReviewsFilter = ({ typeOption, cuisineOption, mealOption, priceOption, rat
                         <span className={ratingOption === 'D' ? 'selected' : ''} onClick={() => onRatingChange('D')}>D</span>
                         <span className={ratingOption === 'F' ? 'selected' : ''} onClick={() => onRatingChange('F')}>F</span>
                     </div>
-                    <div className="filter-section">
+                    {/* <div className="filter-section">
                         <h3>Tag</h3>
                         <span className={tagOption === 'All' ? 'selected' : ''} onClick={() => onTagChange('All')}>All</span>
                         {uniqueTags.sort().map((tag, index) => (
                             <span key={index} className={tagOption === tag ? 'selected' : ''} onClick={() => onTagChange(tag)}>{tag}</span>
                         ))}
-                    </div>
+                    </div> */}
                 </>
             )}
         </div>

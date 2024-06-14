@@ -253,5 +253,50 @@
         "rating": "S",
         "address": "2319 2nd Ave, Seattle, WA 98121",
         "url": "https://maps.app.goo.gl/UNFCUF4PqWXE2tWr6"
+    },
+    {
+        "id": 18,
+        "name": "Momiji",
+        "slug": "momiji",
+        "cover": "momiji-1.png",
+        "meals": "Lunch, Dinner",
+        "cuisine": "Japanese",
+        "type": "Restaurant",
+        "tags": "Soups, Salads, Noodles, Sushi, Sashimi, Omakase, Rolls, Sake",
+        "price": "$$$",
+        "notes": "Contemporary Japanese apps and mains. Has a robust sushi menu, plus sake. Expensive, but somewhat worth it. Sleek setting.",
+        "rating": "B",
+        "address": "731 Bell St, Seattle, WA 98121",
+        "url": "https://maps.app.goo.gl/MTmYD1xffNKZXhhg8"
+    },
+    {
+        "id": 19,
+        "name": "Lucky's Pho",
+        "slug": "luckys-pho",
+        "cover": "luckys-pho-1.png",
+        "meals": "Lunch, Dinner",
+        "cuisine": "Thai",
+        "type": "Restaurant",
+        "tags": "Pho, Banh Mi",
+        "price": "$",
+        "notes": "My top pho place in Seattle. Self serve toppings bar. Very clean setup and service is quick.",
+        "rating": "S",
+        "address": "3414 Fremont Ave N, Seattle, WA 98103",
+        "url": "https://maps.app.goo.gl/nLovr3Kuf3TgD8Cp7"
+    },
+    {
+        "id": 20,
+        "name": "Portage Bay Cafe",
+        "slug": "portage-bay-cafe",
+        "cover": "portage-bay-cafe-1.png",
+        "meals": "Breakfast, Brunch, Lunch",
+        "cuisine": "American",
+        "type": "Restaurant",
+        "tags": "Benedicts, Sandwhiches, Bowls, Pancakes, French Toast, Omelettes, Oats",
+        "price": "$$",
+        "notes": "A well-known local brunch chain. Has a fruit bar. Can get very busy during brunch hours on weekends. Has blankets and outdoor heating for colder months.",
+        "rating": "A",
+        "address": "391 Terry Ave N, Seattle, WA 98109",
+        "url": "https://maps.app.goo.gl/ugD4yeFZFDYd4uGz8"
     }
 ]

@@ -33,7 +33,6 @@ const HighsLowsAndRainbowsPage = () => {
                                     alt={card.name}
                                     width={200}
                                     height={150}
-                                    layout="responsive"
                                     objectFit="cover"
                                 />
                                 <div className="section-skinny">

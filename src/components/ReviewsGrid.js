@@ -47,7 +47,6 @@ const ReviewsGrid = ({ reviews, typeOption, cuisineOption, mealOption, priceOpti
                                 alt={review.name}
                                 width={200}
                                 height={200}
-                                layout="responsive"
                                 objectFit="cover"
                             />
                             <div className="section-skinny">

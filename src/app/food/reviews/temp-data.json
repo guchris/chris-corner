@@ -14,48 +14,6 @@
         "url": "https://maps.app.goo.gl/vbQNQjnBLKh8U5ag6"
     },
     {
-        "id": 18,
-        "name": "Momiji",
-        "slug": "momiji",
-        "meals": "L, D",
-        "cuisine": "Japanese",
-        "type": "Restaurant",
-        "tags": "",
-        "price": "$$$",
-        "notes": "Contemporary Japanese small plates, mains & a robust sushi menu, plus sake, in a sleek setting.",
-        "rating": "7.5",
-        "address": "731 Bell St, Seattle, WA 98121",
-        "url": "https://maps.app.goo.gl/MTmYD1xffNKZXhhg8"
-    },
-    {
-        "id": 19,
-        "name": "Lucky's Pho",
-        "slug": "luckys-pho",
-        "meals": "L, D",
-        "cuisine": "Thai",
-        "type": "Restaurant",
-        "tags": "Pho",
-        "price": "$",
-        "notes": "Neighborhood Vietnamese eatery in a corner storefront known for noodle soups & banh mi sandwiches.",
-        "rating": "9.0",
-        "address": "3414 Fremont Ave N, Seattle, WA 98103",
-        "url": "https://maps.app.goo.gl/nLovr3Kuf3TgD8Cp7"
-    },
-    {
-        "id": 20,
-        "name": "Portage Bay Cafe",
-        "slug": "portage-bay-cafe",
-        "meals": "BU, L",
-        "cuisine": "American",
-        "type": "Restaurant",
-        "tags": "",
-        "price": "$$",
-        "notes": "Bustling, bright cafe serving local, organic & seasonal BR, BU & L dishes.",
-        "rating": "8.5",
-        "address": "391 Terry Ave N, Seattle, WA 98109",
-        "url": "https://maps.app.goo.gl/ugD4yeFZFDYd4uGz8"
-    },
-    {
         "id": 21,
         "name": "Tilikum Place Cafe",
         "slug": "tilikum-place-cafe",
