@@ -42,7 +42,6 @@ const ClosetGrid = ({ items, sortOption, categoryOption, brandOption }) => {
                             alt={item.name}
                             width={200}
                             height={150}
-                            objectFit="cover"
                         />
                         <div className="section-skinny">
                             <p className="caption-upper-bold">{item.brand}</p>

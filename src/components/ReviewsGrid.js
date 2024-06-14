@@ -47,7 +47,6 @@ const ReviewsGrid = ({ reviews, typeOption, cuisineOption, mealOption, priceOpti
                                 alt={review.name}
                                 width={200}
                                 height={200}
-                                objectFit="cover"
                             />
                             <div className="section-skinny">
                                 <p className="caption-upper-bold">{review.name}</p>
@@ -65,7 +64,7 @@ const ReviewsGrid = ({ reviews, typeOption, cuisineOption, mealOption, priceOpti
                 ))}
             </div>
         </>
-    );
+    )
 };
 
 export default ReviewsGrid;

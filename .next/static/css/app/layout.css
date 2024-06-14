@@ -699,6 +699,49 @@ header {
 
 
 
+/* FOOD / RECIPES */
+
+.recipe-page-content {
+  flex-direction: column;
+  padding: 40px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.recipe-container {
+  display: flex;
+  width: 100%;
+  max-width: 1200px;
+  height: 100vh;
+  overflow: hidden; /* Ensure child elements respect container height */
+}
+
+.recipe-content {
+  flex: 0 0 50%;
+  overflow-y: auto;
+  padding-right: 20px;
+}
+
+.recipe-image {
+  flex: 0 0 50%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  align-items: flex-start; /* Align image to the top */
+  justify-content: center;
+  overflow: hidden; /* Ensure image does not overflow */
+}
+
+.recipe-image img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain; /* Maintain aspect ratio and fit image within container */
+}
+
+
+
 /* FOUNDER / HIGHS LOWS RAINBOWS */
 
 .card-grid {

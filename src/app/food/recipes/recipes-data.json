@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "name": "Best Banana Bread",
+        "slug": "best-banana-bread",
+        "image1": "best-banana-bread-1.png",
+        "description": "Get ready to fall in love with the most delicious and moist banana bread ever! This recipe has been my go-to for years, and it never disappoints. Known for its irresistible flavor and perfect texture, my banana bread is a hit among friends and family. I love to get creative with toppings, adding everything from crunchy nuts to juicy berries, and even a hint of matcha for a fun twist. It’s also the star of my \"Brews & Bites\" pop-up coffee shop, where I host friends in my apartment for cozy, delicious gatherings. Trust me, one slice of this banana bread, and you'll be hooked!",
+        "time": {
+            "prep": "30 min",
+            "bake": "60 min",
+            "total": "90 min"
+        },
+        "servings": "4 people",
+        "components": [
+            {
+                "name": "Bread",
+                "ingredients": [
+                    { "quantity": "3", "unit": "", "name": "ripe bananas (medium/large)" },
+                    { "quantity": "8", "unit": "tbsp", "name": "unsalted butter" },
+                    { "quantity": "1/2", "unit": "cup", "name": "granualted sugar" },
+                    { "quantity": "2", "unit": "tbsp", "name": "honey" },
+                    { "quantity": "2", "unit": "", "name": "eggs" },
+                    { "quantity": "1 1/2", "unit": "cup", "name": "all-purpose flour" },
+                    { "quantity": "1", "unit": "tsp", "name": "baking soda" },
+                    { "quantity": "1/2", "unit": "tsp", "name": "vanilla extract" },
+                    { "quantity": "1/2", "unit": "tsp", "name": "salt" }
+                ],
+                "method": [
+                    "Preheat your oven to 350°F (175°C), and grease a bread loaf pan.",
+                    "In a large mixing bowl, cream together the softened (room temp) butter, sugar, honey, and vanilla extract until the mixture is light and fluffy. This can be done by hand or or stand mixer on medium speed for about 3-4 minutes.",
+                    "Gradually add the lightly beaten eggs to the creamed mixture, mixing well after each addition to ensure the batter is smooth.",
+                    "Mash the bananas with a fork until they reach the consistency of chunky applesauce. Fold the mashed bananas into the batter until well combined.",
+                    "Sprinkle the baking soda and salt over the batter and mix in gently.",
+                    "Gradually add the flour to the batter, mixing slowly until just combined. Avoid overmixing to keep the bread tender.",
+                    "Pour the batter into the prepared loaf pan and spread it evenly. Bake in the preheated oven for 60 to 65 minutes, or until a toothpick or fork inserted into the center of the bread comes out clean.",
+                    "Remove the bread from the oven and let it cool in the pan for about 10 minutes. Then, transfer it to a wire rack to cool completely. This helps the bread set and makes it easier to slice.",
+                    "Slice and serve your delicious banana bread. It can be enjoyed warm or at room temperature. For an extra treat, spread some butter or cream cheese on a slice."
+                ],
+                "tips": [
+                    "Ripeness of Bananas: The riper the bananas, the sweeter and more flavorful your bread will be. Look for bananas with lots of brown spots.",
+                    "Moisture: If you find your banana bread is too dry, try adding a tablespoon or two of milk or yogurt to the batter.",
+                    "Storage: Store any leftovers in an airtight container at room temperature for up to 3 days, or in the refrigerator for up to a week. Banana bread also freezes well; wrap it tightly in plastic wrap and foil, and freeze for up to 3 months."
+                ]
+            },
+            {
+                "name": "Optional Toppings",
+                "ingredients": [
+                    { "quantity": "1/4", "unit": "cup", "name": "chopped walnuts" },
+                    { "quantity": "1/4", "unit": "cup", "name": "chocolate chips" }
+                ],
+                "method": [
+                    "Fold in the chopped nuts, chocolate chips, or dried fruit if using. This step adds texture and flavor to the banana bread."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Placeholder",
+        "slug": "placeholder",
+        "image1": "placeholder-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "time": {
+            "prep": "XX min",
+            "bake": "XX min",
+            "total": "XX min"
+        },
+        "servings": "Y people",
+        "components": [
+            {
+                "name": "Bread",
+                "ingredients": [
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" }
+                ],
+                "method": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies non ligula sed maximus.",
+                    "Vivamus nisl magna, maximus id tempor vel, suscipit quis massa. Mauris volutpat sit amet erat sed pulvinar.",
+                    "Duis eget diam gravida, posuere augue a, rhoncus metus. Suspendisse facilisis sem eget sapien elementum, sit amet tempor magna posuere.",
+                    "Nunc pretium varius dolor eu facilisis. Duis ullamcorper dictum ligula a lobortis.",
+                    "Suspendisse eleifend elementum ante, id dignissim purus scelerisque id."
+                ],
+                "tips": [
+                    "Duis at tristique lorem. Sed sed mi at odio ullamcorper iaculis. Nunc et commodo justo.",
+                    "Nam feugiat ex a urna cursus, quis porttitor nisi ultrices. Duis vestibulum scelerisque turpis a elementum.",
+                    "Proin ipsum ex, dapibus ut risus ac, semper ornare orci."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Placeholder",
+        "slug": "placeholder",
+        "image1": "placeholder-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "time": {
+            "prep": "XX min",
+            "bake": "XX min",
+            "total": "XX min"
+        },
+        "servings": "Y people",
+        "components": [
+            {
+                "name": "Bread",
+                "ingredients": [
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" }
+                ],
+                "method": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies non ligula sed maximus.",
+                    "Vivamus nisl magna, maximus id tempor vel, suscipit quis massa. Mauris volutpat sit amet erat sed pulvinar.",
+                    "Duis eget diam gravida, posuere augue a, rhoncus metus. Suspendisse facilisis sem eget sapien elementum, sit amet tempor magna posuere.",
+                    "Nunc pretium varius dolor eu facilisis. Duis ullamcorper dictum ligula a lobortis.",
+                    "Suspendisse eleifend elementum ante, id dignissim purus scelerisque id."
+                ],
+                "tips": [
+                    "Duis at tristique lorem. Sed sed mi at odio ullamcorper iaculis. Nunc et commodo justo.",
+                    "Nam feugiat ex a urna cursus, quis porttitor nisi ultrices. Duis vestibulum scelerisque turpis a elementum.",
+                    "Proin ipsum ex, dapibus ut risus ac, semper ornare orci."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Placeholder",
+        "slug": "placeholder",
+        "image1": "placeholder-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "time": {
+            "prep": "XX min",
+            "bake": "XX min",
+            "total": "XX min"
+        },
+        "servings": "Y people",
+        "components": [
+            {
+                "name": "Bread",
+                "ingredients": [
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" }
+                ],
+                "method": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies non ligula sed maximus.",
+                    "Vivamus nisl magna, maximus id tempor vel, suscipit quis massa. Mauris volutpat sit amet erat sed pulvinar.",
+                    "Duis eget diam gravida, posuere augue a, rhoncus metus. Suspendisse facilisis sem eget sapien elementum, sit amet tempor magna posuere.",
+                    "Nunc pretium varius dolor eu facilisis. Duis ullamcorper dictum ligula a lobortis.",
+                    "Suspendisse eleifend elementum ante, id dignissim purus scelerisque id."
+                ],
+                "tips": [
+                    "Duis at tristique lorem. Sed sed mi at odio ullamcorper iaculis. Nunc et commodo justo.",
+                    "Nam feugiat ex a urna cursus, quis porttitor nisi ultrices. Duis vestibulum scelerisque turpis a elementum.",
+                    "Proin ipsum ex, dapibus ut risus ac, semper ornare orci."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Placeholder",
+        "slug": "placeholder",
+        "image1": "placeholder-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "time": {
+            "prep": "XX min",
+            "bake": "XX min",
+            "total": "XX min"
+        },
+        "servings": "Y people",
+        "components": [
+            {
+                "name": "Bread",
+                "ingredients": [
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" },
+                    { "quantity": "X", "unit": "Y", "name": "Z" }
+                ],
+                "method": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies non ligula sed maximus.",
+                    "Vivamus nisl magna, maximus id tempor vel, suscipit quis massa. Mauris volutpat sit amet erat sed pulvinar.",
+                    "Duis eget diam gravida, posuere augue a, rhoncus metus. Suspendisse facilisis sem eget sapien elementum, sit amet tempor magna posuere.",
+                    "Nunc pretium varius dolor eu facilisis. Duis ullamcorper dictum ligula a lobortis.",
+                    "Suspendisse eleifend elementum ante, id dignissim purus scelerisque id."
+                ],
+                "tips": [
+                    "Duis at tristique lorem. Sed sed mi at odio ullamcorper iaculis. Nunc et commodo justo.",
+                    "Nam feugiat ex a urna cursus, quis porttitor nisi ultrices. Duis vestibulum scelerisque turpis a elementum.",
+                    "Proin ipsum ex, dapibus ut risus ac, semper ornare orci."
+                ]
+            }
+        ]
+    }
+]

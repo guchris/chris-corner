@@ -32,8 +32,7 @@ const HighsLowsAndRainbowsPage = () => {
                                     src={"/founder/highs-lows-rainbows/" + card.image}
                                     alt={card.name}
                                     width={200}
-                                    height={150}
-                                    objectFit="cover"
+                                    height={200}
                                 />
                                 <div className="section-skinny">
                                     <p className="caption-upper-bold">{card.name}</p>

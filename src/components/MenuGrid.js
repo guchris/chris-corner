@@ -16,8 +16,7 @@ const MenuGrid = ({ brews }) => {
                             src={"/projects/brews-and-bites/" + brew.menuFront}
                             alt="Brews & Bites Menu - Front"
                             width={200}
-                            height={150}
-                            objectFit="cover"
+                            height={200}
                         />
                         <img className="hover-image" src={"/projects/brews-and-bites/" + brew.menuBack} alt="Brews & Bites Menu - Back"/>
                     </div>

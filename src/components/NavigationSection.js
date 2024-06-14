@@ -41,8 +41,8 @@ const navigationTabs = [
         href: "/food",
         subTabs: [
             {
-                name: "Recipies",
-                href: "/food/recipies"
+                name: "Recipes",
+                href: "/food/recipes"
             },
             {
                 name: "Reviews",

@@ -121,11 +121,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/travel/guides/[slug]/page.js"
     ],
-    "/food/recipies/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/food/recipies/page.js"
-    ],
     "/food/reviews/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -145,6 +140,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/founder/worn/page.js"
+    ],
+    "/food/recipes/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/food/recipes/page.js"
+    ],
+    "/food/recipes/[slug]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/food/recipes/[slug]/page.js"
     ]
   }
 }
