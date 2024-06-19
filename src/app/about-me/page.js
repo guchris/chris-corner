@@ -24,9 +24,11 @@ const AboutMePage = () => {
                     <li>Happiness lives in the present</li>
                     <li>Be brave and bold for future you</li>
                     <li>How lucky we are to be alive right now</li>
-                    <li>This is the youngest you'll ever be</li>
                     <li>You are always on time for your own life</li>
-                    <li>Your life is not a thing, it's an experience</li>
+                    <li>Life is coming from you, not at you</li>
+                    <li>There are no rules to this life, do what makes you happy</li>
+                    <li>Your grass is green already</li>
+                    <li>How lucky am I to have something so special, that makes saying goodbye so hard</li>
                     <li>Fulfill your curiosity</li>
                     <li>Bias to action</li>
                 </ul>
