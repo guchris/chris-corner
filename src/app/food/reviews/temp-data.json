@@ -1,19 +1,5 @@
 [
     {
-        "id": 13,
-        "name": "Bai Tong Thai Street Cafe",
-        "slug": "bai-tong-thai-street-cafe",
-        "meals": "L, D",
-        "cuisine": "Thai",
-        "type": "Restaurant",
-        "tags": "",
-        "price": "$$",
-        "notes": "Thai street food is the focus of this sleek, modern eatery, which also serves classic curries.",
-        "rating": "6.5",
-        "address": "1121 E Pike St, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/vbQNQjnBLKh8U5ag6"
-    },
-    {
         "id": 21,
         "name": "Tilikum Place Cafe",
         "slug": "tilikum-place-cafe",
@@ -54,34 +40,6 @@
         "rating": "7.5",
         "address": "500 Terry Ave N, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/wMm21FXniETFdtwm8"
-    },
-    {
-        "id": 24,
-        "name": "Li'l Woody's",
-        "slug": "lil-woodys",
-        "meals": "L, D",
-        "cuisine": "American",
-        "type": "Restaurant",
-        "tags": "Fries, Burgers",
-        "price": "$",
-        "notes": "Burgers in many combos plus housemade shakes served in an energetic local-chain outpost.",
-        "rating": "8.0",
-        "address": "1211 Pine St, Seattle, WA 98101",
-        "url": "https://maps.app.goo.gl/CkgYsKaL59BPZooa7"
-    },
-    {
-        "id": 25,
-        "name": "Kizuki Ramen & Izakaya",
-        "slug": "kizuki-ramen-and-izakaya",
-        "meals": "L, D",
-        "cuisine": "Japanese",
-        "type": "Restaurant",
-        "tags": "Ramen",
-        "price": "$$",
-        "notes": "Hip venue serving Japanese noodle soups & small plates, plus whiskey, sake & beer amid artful decor.",
-        "rating": "7.5",
-        "address": "320 E Pine St, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/nbnLQT7kXekp958U8"
     },
     {
         "id": 26,

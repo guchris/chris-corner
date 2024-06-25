@@ -58,39 +58,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
-                                <input type="checkbox" className="empty"/>
-                            </div>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="checkbox-text">Build out Startup</p>
-                            <div className="checkboxes">
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="empty"/>
                                 <input type="checkbox" className="empty"/>
                             </div>
                         </div>
@@ -122,7 +90,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="false"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="empty"/>
                             </div>
                         </div>
@@ -154,7 +122,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                             </div>
                         </div>
@@ -186,7 +154,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                             </div>
                         </div>
@@ -218,7 +186,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                             </div>
                         </div>
@@ -250,7 +218,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                             </div>
                         </div>
@@ -282,7 +250,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                             </div>
                         </div>
@@ -314,7 +282,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="false"/>
                                 <input type="checkbox" className="empty"/>
                             </div>
                         </div>
@@ -346,7 +314,7 @@ const GoalsPage = () => {
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="true"/>
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                                 <input type="checkbox" className="empty"/>
                             </div>
                         </div>
