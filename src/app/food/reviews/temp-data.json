@@ -56,20 +56,6 @@
         "url": "https://maps.app.goo.gl/EF83NUDqPVWgghsdA"
     },
     {
-        "id": 27,
-        "name": "Meet Korean BBQ",
-        "slug": "meet-korean-bbq",
-        "meals": "L, D",
-        "cuisine": "Korean",
-        "type": "Restaurant",
-        "tags": "KBBQ",
-        "price": "$$$$",
-        "notes": "Window-filled eatery serving contemporary Korean barbecue dishes, small plates & fermented sides.",
-        "rating": "7.5",
-        "address": "500 E Pike St, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/f4DCrKvBPysHuGYs6"
-    },
-    {
         "id": 28,
         "name": "Menya Musashi",
         "slug": "menya-musashi",
@@ -166,20 +152,6 @@
         "rating": "7.0",
         "address": "1429 12th Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/YWCUG3e4hR7DpGLJ6"
-    },
-    {
-        "id": 35,
-        "name": "The Pink Door",
-        "slug": "the-pink-door",
-        "meals": "L, D",
-        "cuisine": "Italian",
-        "type": "Restaurant",
-        "tags": "Pasta",
-        "price": "$$$",
-        "notes": "Italian restaurant with cabaret shows and trapeze entertainment, plus terrace with Elliott Bay views.",
-        "rating": "7.5",
-        "address": "1919 Post Alley, Seattle, WA 98101",
-        "url": "https://maps.app.goo.gl/FkBpNx3zgQ1QNu6L6"
     },
     {
         "id": 36,
