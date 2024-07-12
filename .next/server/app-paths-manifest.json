@@ -1,11 +1,8 @@
 {
-  "/projects/brews-and-bites/[iteration]/page": "app/projects/brews-and-bites/[iteration]/page.js",
-  "/fashion/closet/page": "app/fashion/closet/page.js",
-  "/food/reviews/page": "app/food/reviews/page.js",
-  "/fashion/page": "app/fashion/page.js",
   "/about-me/goals/page": "app/about-me/goals/page.js",
-  "/icon.png/route": "app/icon.png/route.js",
-  "/fashion/outfits/page": "app/fashion/outfits/page.js",
+  "/food/recipes/page": "app/food/recipes/page.js",
   "/food/page": "app/food/page.js",
-  "/food/recipes/page": "app/food/recipes/page.js"
+  "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
+  "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js",
+  "/icon.png/route": "app/icon.png/route.js"
 }

@@ -1,6 +1,7 @@
 "use client"
 import React, { useState } from "react";
 import Link from 'next/link'
+import Image from 'next/image';
 
 const RankingSection = ({ suppers }) => {
 
@@ -34,7 +35,7 @@ const RankingSection = ({ suppers }) => {
                 Sort by score
             </label>
 
-            {displayedSuppers.map((supper) => (
+            {/* {displayedSuppers.map((supper) => (
                 <div key={supper.id} className="row-skinny">
                     <p className="body-lower">{formatDate(supper.date)}</p>
                     <p className="body-lower">{supper.totalScore}</p>
@@ -42,7 +43,27 @@ const RankingSection = ({ suppers }) => {
                         {supper.name}
                     </Link>
                 </div>
-            ))}
+            ))} */}
+
+            <div className="general-grid">
+                {displayedSuppers.map((supper, index) => (
+                    <Link key={supper.id} href={`/food/sunday-suppers/${supper.slug}`} className="link">
+                        <div key={index} className="grid-item">
+                            <Image
+                                src={`/food/sunday-suppers/${supper.image1}`}
+                                alt={supper.name}
+                                width={200}
+                                height={200}
+                            />
+                            <div className="section-skinny">
+                                <p className="caption-upper-bold">{supper.name}</p>
+                                <p className="caption-upper-bold">{supper.totalScore}</p>
+                                <p className="caption-upper">{formatDate(supper.date)}</p>
+                            </div>
+                        </div>
+                    </Link>
+                ))}
+            </div>
         </div>
     )
 }
