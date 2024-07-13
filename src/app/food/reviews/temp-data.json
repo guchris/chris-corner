@@ -42,20 +42,6 @@
         "url": "https://maps.app.goo.gl/wMm21FXniETFdtwm8"
     },
     {
-        "id": 26,
-        "name": "Tavolàta",
-        "slug": "tavolata",
-        "meals": "L, D",
-        "cuisine": "Italian",
-        "type": "Restaurant",
-        "tags": "Pasta",
-        "price": "$$$",
-        "notes": "Housemade pastas & upmarket rustic Italian fare in a stylish space with communal tables.",
-        "rating": "6.0",
-        "address": "501 E Pike St, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/EF83NUDqPVWgghsdA"
-    },
-    {
         "id": 28,
         "name": "Menya Musashi",
         "slug": "menya-musashi",
@@ -68,34 +54,6 @@
         "rating": "6.5",
         "address": "1510 Belmont Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/9sLTu1au1Y7PMyyFA"
-    },
-    {
-        "id": 29,
-        "name": "Lost Lake",
-        "slug": "lost-lake",
-        "meals": "L, D",
-        "cuisine": "American",
-        "type": "Restaurant",
-        "tags": "",
-        "price": "$",
-        "notes": "Lorem ipsum",
-        "rating": "8.0",
-        "address": "1505 10th Ave, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/27JYwANGCE4yKAr59"
-    },
-    {
-        "id": 30,
-        "name": "HoneyHole Sandwiches",
-        "slug": "honeyhole-sandwiches",
-        "meals": "L, D",
-        "cuisine": "American",
-        "type": "Restaurant",
-        "tags": "Sandwiches",
-        "price": "$",
-        "notes": "Hearty sandwiches made with gourmet ingredients & drink specials offered in a kitschy, casual space.",
-        "rating": "8.5",
-        "address": "703 E Pike St, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/27JYwANGCE4yKAr59"
     },
     {
         "id": 31,
@@ -154,34 +112,6 @@
         "url": "https://maps.app.goo.gl/YWCUG3e4hR7DpGLJ6"
     },
     {
-        "id": 36,
-        "name": "Oddfellows Café",
-        "slug": "oddfellows-cafe",
-        "meals": "BR, BU, L",
-        "cuisine": "",
-        "type": "Cafe",
-        "tags": "",
-        "price": "$",
-        "notes": "Stylish American eatery offers a variety of seasonal fare & craft drinks to a bustling crowd.",
-        "rating": "9.0",
-        "address": "1525 10th Ave, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/C7391FVkFDNEQFPF6"
-    },
-    {
-        "id": 37,
-        "name": "Café Hagen",
-        "slug": "cafe-hagen",
-        "meals": "BR, BU, L",
-        "cuisine": "Scandinavian",
-        "type": "Cafe",
-        "tags": "",
-        "price": "$$",
-        "notes": "Stylish, window-filled space serving specialty coffee drinks & Scandinavian BU/L fare.",
-        "rating": "9.5",
-        "address": "1252 Thomas St, Seattle, WA 98109",
-        "url": "https://maps.app.goo.gl/ksCoZRJu2g5xBhKFA"
-    },
-    {
         "id": 38,
         "name": "Espresso Vivace",
         "slug": "espresso-vivace",
@@ -194,20 +124,6 @@
         "rating": "9.5",
         "address": "227 Yale Ave N, Seattle, WA 98109",
         "url": "https://maps.app.goo.gl/wyK5rFYwFwaLwtjG7"
-    },
-    {
-        "id": 39,
-        "name": "Wunderground Cafe",
-        "slug": "wunderground-cafe",
-        "meals": "BR, BU, L",
-        "cuisine": "",
-        "type": "Cafe",
-        "tags": "",
-        "price": "$",
-        "notes": "Lorem ipsum",
-        "rating": "9.5",
-        "address": "1111 E Pike St #111, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/1VGNRKgYeMpuPGci8"
     },
     {
         "id": 40,
