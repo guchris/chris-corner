@@ -1,8 +1,7 @@
 {
-  "/food/recipes/page": "app/food/recipes/page.js",
-  "/food/page": "app/food/page.js",
-  "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
   "/food/sunday-suppers/[slug]/page": "app/food/sunday-suppers/[slug]/page.js",
   "/food/reviews/page": "app/food/reviews/page.js",
-  "/icon.png/route": "app/icon.png/route.js"
+  "/page": "app/page.js",
+  "/travel/guides/page": "app/travel/guides/page.js",
+  "/food/recipes/page": "app/food/recipes/page.js"
 }

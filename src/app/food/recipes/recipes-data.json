@@ -56,37 +56,40 @@
     },
     {
         "id": 2,
-        "name": "Placeholder",
-        "slug": "placeholder",
-        "image1": "placeholder-1.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "name": "Refreshing Cold Soba Noodles",
+        "slug": "refreshing-cold-soba-noodles",
+        "image1": "refreshing-cold-soba-noodles-1.png",
+        "description": "Say hello to your new favorite refreshing meal—Cold Soba Noodles! Perfect for hot days or whenever you need a light yet satisfying dish, this recipe is quick, easy, and oh-so-delicious. The combination of savory soy sauce, nutty sesame oil, and a touch of sweetness will leave your taste buds dancing. Let's get started!",
         "time": {
-            "prep": "XX min",
-            "bake": "XX min",
-            "total": "XX min"
+            "prep": "5 min",
+            "cook": "10 min",
+            "total": "15 min"
         },
-        "servings": "Y people",
+        "servings": "2 people",
         "components": [
             {
-                "name": "Bread",
+                "name": "Soba Noodles",
                 "ingredients": [
-                    { "quantity": "X", "unit": "Y", "name": "Z" },
-                    { "quantity": "X", "unit": "Y", "name": "Z" },
-                    { "quantity": "X", "unit": "Y", "name": "Z" },
-                    { "quantity": "X", "unit": "Y", "name": "Z" },
-                    { "quantity": "X", "unit": "Y", "name": "Z" }
+                    { "quantity": "3", "unit": "bunches", "name": "Soba Noodles" },
+                    { "quantity": "4", "unit": "Tbsp", "name": "Soy Sauce" },
+                    { "quantity": "3", "unit": "Tbsp", "name": "Seasame Oil" },
+                    { "quantity": "2", "unit": "Tbsp", "name": "Granualted Sugar" },
+                    { "quantity": "2", "unit": "Stalks", "name": "Green Onion" },
+                    { "quantity": "1", "unit": "Tbsp", "name": "Seasame Seeds" }
                 ],
                 "method": [
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies non ligula sed maximus.",
-                    "Vivamus nisl magna, maximus id tempor vel, suscipit quis massa. Mauris volutpat sit amet erat sed pulvinar.",
-                    "Duis eget diam gravida, posuere augue a, rhoncus metus. Suspendisse facilisis sem eget sapien elementum, sit amet tempor magna posuere.",
-                    "Nunc pretium varius dolor eu facilisis. Duis ullamcorper dictum ligula a lobortis.",
-                    "Suspendisse eleifend elementum ante, id dignissim purus scelerisque id."
+                    "Bring a large pot of water to a boil.",
+                    "Add the soba noodles and cook according to the package instructions (usually about 5-7 minutes) until al dente.",
+                    "Drain the noodles and rinse them thoroughly under cold water to stop the cooking process and remove excess starch. Set aside.",
+                    "In a small bowl, mix together the soy sauce, sesame oil, and sugar until the sugar is fully dissolved.",
+                    "In a large mixing bowl, toss the cooled soba noodles with the sauce until evenly coated.",
+                    "Add the minced green onions and gently mix to combine.",
+                    "Garnish with additional green onions or sesame seeds if desired."
                 ],
                 "tips": [
-                    "Duis at tristique lorem. Sed sed mi at odio ullamcorper iaculis. Nunc et commodo justo.",
-                    "Nam feugiat ex a urna cursus, quis porttitor nisi ultrices. Duis vestibulum scelerisque turpis a elementum.",
-                    "Proin ipsum ex, dapibus ut risus ac, semper ornare orci."
+                    "Feel free to add other toppings such as shredded nori (seaweed), toasted sesame seeds, or a sprinkle of chili flakes for some heat.",
+                    "Rinsing the noodles thoroughly under cold water is crucial to achieving the perfect texture. It stops the cooking process and prevents them from becoming mushy.",
+                    "Add some grilled tofu, poached chicken, or a soft-boiled egg to make it a more substantial meal."
                 ]
             }
         ]
