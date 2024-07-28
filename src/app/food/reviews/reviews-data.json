@@ -448,5 +448,35 @@
         "rating": "C",
         "address": "501 E Pike St, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/EF83NUDqPVWgghsdA"
+    },
+    {
+        "id": 31,
+        "name": "Sizzle&Crunch",
+        "slug": "sizzle-and-crunch",
+        "cover": "sizzle-and-crunch-1.png",
+        "meals": "Lunch, Dinner",
+        "cuisine": "Vietnamese",
+        "type": "Restaurant",
+        "tags": "",
+        "price": "$",
+        "notes": "Like Chipotle, but with Vietnamese food. Fresh vegetables, grilled meats, and with right amount of spices. Generous topping of cilantro and dressing. Bowls, Bahn Mi's, and Noodles.",
+        "rating": "A",
+        "address": "500 9th Ave N ste 150, Seattle, WA 98109",
+        "url": "https://maps.app.goo.gl/sWr1b8ivkcav4b8Q7"
+    },
+    {
+        "id": 32,
+        "name": "Communion",
+        "slug": "communion",
+        "cover": "communion-1.png",
+        "meals": "Breakfast, Brunch, Lunch, Dinner",
+        "cuisine": "American",
+        "type": "Restaurant",
+        "tags": "",
+        "price": "$$",
+        "notes": "Tastefully decorated interior serving comforting soul food. Either have a reservation or come early to get a spot. Lots of culture and culinary heritage. Perfect for a larger group of people.",
+        "rating": "A",
+        "address": "2350 E Union St, Seattle, WA 98122",
+        "url": "https://maps.app.goo.gl/oZf1HzUL1eCuEEPU7"
     }
 ]

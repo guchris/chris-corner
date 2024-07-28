@@ -30,7 +30,7 @@ const RecipePage = ({ params }) => {
                     <div className="section-gap">
                         <div className="section-skinny">
                             <p className="body-upper">Servings: {recipe.servings}</p>
-                            <p className="body-upper">Prep Time: {recipe.time.prep} | Bake Time: {recipe.time.bake} | Total Time: {recipe.time.total}</p>
+                            <p className="body-upper">Total Time: {recipe.time.total}</p>
                         </div>
                         <p className="body-lower">{recipe.description}</p>
                     </div>

@@ -14,20 +14,6 @@
         "url": "https://maps.app.goo.gl/eh3YA6QAwdjPL9XW9"
     },
     {
-        "id": 22,
-        "name": "Sizzle&Crunch",
-        "slug": "sizzle-and-crunch",
-        "meals": "L, D",
-        "cuisine": "Vietnamese",
-        "type": "Restaurant",
-        "tags": "",
-        "price": "$",
-        "notes": "Lorem ipsum",
-        "rating": "9.0",
-        "address": "500 9th Ave N ste 150, Seattle, WA 98109",
-        "url": "https://maps.app.goo.gl/sWr1b8ivkcav4b8Q7"
-    },
-    {
         "id": 23,
         "name": "Ba Bar Green",
         "slug": "ba-bar-green",
@@ -54,20 +40,6 @@
         "rating": "6.5",
         "address": "1510 Belmont Ave, Seattle, WA 98122",
         "url": "https://maps.app.goo.gl/9sLTu1au1Y7PMyyFA"
-    },
-    {
-        "id": 31,
-        "name": "Communion",
-        "slug": "communion",
-        "meals": "BR, BU, L, D",
-        "cuisine": "American",
-        "type": "Restaurant",
-        "tags": "",
-        "price": "$$",
-        "notes": "Sophisticated space offering international dishes, cocktails & a take-out option.",
-        "rating": "9.5",
-        "address": "2350 E Union St, Seattle, WA 98122",
-        "url": "https://maps.app.goo.gl/oZf1HzUL1eCuEEPU7"
     },
     {
         "id": 32,
