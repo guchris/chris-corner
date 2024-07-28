@@ -52,24 +52,20 @@ const RecipePage = ({ params }) => {
                             
                             <div className="section-medium">
                                 <h4 className="section-subtitle">Method</h4>
-                                <ol className="bullets">
+                                <ul className="bullets">
                                     {component.method.map((step, idx) => (
                                         <li key={idx}>{step}</li>
                                     ))}
-                                </ol>
+                                </ul>
                             </div>
                             
                             <div className="section-medium">
-                                {component.tips && (
-                                    <>
-                                        <h4 className="section-subtitle">Tips:</h4>
-                                        <ul className="bullets">
-                                            {component.tips.map((tip, idx) => (
-                                                <li key={idx}>{tip}</li>
-                                            ))}
-                                        </ul>
-                                    </>
-                                )}
+                                <h4 className="section-subtitle">Tips:</h4>
+                                <ul className="bullets">
+                                    {component.tips.map((tip, idx) => (
+                                        <li key={idx}>{tip}</li>
+                                    ))}
+                                </ul>
                             </div>
                         </div>
                     ))}
