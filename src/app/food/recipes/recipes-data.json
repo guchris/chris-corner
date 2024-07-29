@@ -4,19 +4,19 @@
         "name": "Best Banana Bread",
         "slug": "best-banana-bread",
         "image1": "best-banana-bread-1.png",
-        "description": "Get ready to fall in love with the most delicious and moist banana bread ever! This recipe has been my go-to for years, and it never disappoints. Known for its irresistible flavor and perfect texture, my banana bread is a hit among friends and family. I love to get creative with toppings, adding everything from crunchy nuts to juicy berries, and even a hint of matcha for a fun twist. It’s also the star of my \"Brews & Bites\" pop-up coffee shop, where I host friends in my apartment for cozy, delicious gatherings. Trust me, one slice of this banana bread, and you'll be hooked!",
+        "description": "Get ready to fall in love with the most delicious and moist banana bread ever! This recipe has been my go-to for years, and it never disappoints. Known for its irresistible flavor and perfect texture, my banana bread is a hit among friends and family. I love to get creative with toppings, adding everything from crunchy nuts to dried fruits, and even a hint of matcha for a fun twist. It’s also the star of my \"Brews & Bites\" pop-up coffee shop series, where I host friends in my apartment for cozy, delicious gatherings. Trust me, one slice of this banana bread, and you'll be hooked!",
         "time": {
-            "prep": "30 min",
-            "bake": "60 min",
-            "total": "90 min"
+            "prep": "20 min",
+            "bake": "50 min",
+            "total": "70 min"
         },
-        "servings": "4 people",
+        "servings": "1-4 people",
         "components": [
             {
                 "name": "Bread",
                 "ingredients": [
                     { "quantity": "3", "unit": "", "name": "ripe bananas (medium/large)" },
-                    { "quantity": "8", "unit": "tbsp", "name": "unsalted butter" },
+                    { "quantity": "8", "unit": "tbsp", "name": "softened, unsalted butter" },
                     { "quantity": "1/2", "unit": "cup", "name": "granualted sugar" },
                     { "quantity": "2", "unit": "tbsp", "name": "honey" },
                     { "quantity": "2", "unit": "", "name": "eggs" },
@@ -26,30 +26,31 @@
                     { "quantity": "1/2", "unit": "tsp", "name": "salt" }
                 ],
                 "method": [
-                    "Preheat your oven to 350°F (175°C), and grease a bread loaf pan.",
-                    "In a large mixing bowl, cream together the softened (room temp) butter, sugar, honey, and vanilla extract until the mixture is light and fluffy. This can be done by hand or or stand mixer on medium speed for about 3-4 minutes.",
+                    "Preheat your oven to 350°F (175°C) and grease a bread loaf pan.",
+                    "In a large mixing bowl, cream together the softened (room temp) butter, sugar, honey, and vanilla extract.",
                     "Gradually add the lightly beaten eggs to the creamed mixture, mixing well after each addition to ensure the batter is smooth.",
                     "Mash the bananas with a fork until they reach the consistency of chunky applesauce. Fold the mashed bananas into the batter until well combined.",
                     "Sprinkle the baking soda and salt over the batter and mix in gently.",
-                    "Gradually add the flour to the batter, mixing slowly until just combined. Avoid overmixing to keep the bread tender.",
-                    "Pour the batter into the prepared loaf pan and spread it evenly. Bake in the preheated oven for 60 to 65 minutes, or until a toothpick or fork inserted into the center of the bread comes out clean.",
-                    "Remove the bread from the oven and let it cool in the pan for about 10 minutes. Then, transfer it to a wire rack to cool completely. This helps the bread set and makes it easier to slice.",
-                    "Slice and serve your delicious banana bread. It can be enjoyed warm or at room temperature. For an extra treat, spread some butter or cream cheese on a slice."
+                    "Gradually add the flour to the batter, mixing slowly until just combined and no visible clumps. Avoid overmixing.",
+                    "Pour the batter into the prepared loaf pan. Slam the pan down on the counter a few times to even out and settle the batter.",
+                    "Bake in the oven for at least 50 minutes, or until a toothpick or fork inserted into the center of the bread comes out clean.",
+                    "Remove the bread from the oven and let it cool in the pan for about 10 minutes."
                 ],
                 "tips": [
-                    "Ripeness of Bananas: The riper the bananas, the sweeter and more flavorful your bread will be. Look for bananas with lots of brown spots.",
-                    "Moisture: If you find your banana bread is too dry, try adding a tablespoon or two of milk or yogurt to the batter.",
-                    "Storage: Store any leftovers in an airtight container at room temperature for up to 3 days, or in the refrigerator for up to a week. Banana bread also freezes well; wrap it tightly in plastic wrap and foil, and freeze for up to 3 months."
+                    "The riper the bananas, the sweeter and more flavorful your bread will be.",
+                    "If you find your banana bread is too dry, try adding a tablespoon or two of milk or yogurt to the batter.",
+                    "Banana bread freezes well; wrap it tightly in plastic wrap and foil, and freeze for up to 1 month."
                 ]
             },
             {
                 "name": "Optional Toppings",
                 "ingredients": [
                     { "quantity": "1/4", "unit": "cup", "name": "chopped walnuts" },
-                    { "quantity": "1/4", "unit": "cup", "name": "chocolate chips" }
+                    { "quantity": "1/4", "unit": "cup", "name": "chocolate chips" },
+                    { "quantity": "1", "unit": "tbsp", "name": "sifted, culinary matcha" }
                 ],
                 "method": [
-                    "Fold in the chopped nuts, chocolate chips, or dried fruit if using. This step adds texture and flavor to the banana bread."
+                    "If adding walnuts / chocolate chips, fold them in before pouring the batter into the loaf pan. If adding matcha, add with the flour."
                 ]
             }
         ]
@@ -71,11 +72,11 @@
                 "name": "Soba Noodles",
                 "ingredients": [
                     { "quantity": "3", "unit": "bunches", "name": "Soba Noodles" },
-                    { "quantity": "4", "unit": "Tbsp", "name": "Soy Sauce" },
-                    { "quantity": "3", "unit": "Tbsp", "name": "Seasame Oil" },
-                    { "quantity": "2", "unit": "Tbsp", "name": "Granualted Sugar" },
-                    { "quantity": "2", "unit": "Stalks", "name": "Green Onion" },
-                    { "quantity": "1", "unit": "Tbsp", "name": "Seasame Seeds" }
+                    { "quantity": "4", "unit": "tbsp", "name": "Soy Sauce" },
+                    { "quantity": "3", "unit": "tbsp", "name": "Seasame Oil" },
+                    { "quantity": "2", "unit": "tbsp", "name": "Granualted Sugar" },
+                    { "quantity": "2", "unit": "stalks", "name": "Green Onion" },
+                    { "quantity": "1", "unit": "tbsp", "name": "Seasame Seeds" }
                 ],
                 "method": [
                     "Bring a large pot of water to a boil.",
