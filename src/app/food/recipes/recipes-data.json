@@ -50,7 +50,8 @@
                     { "quantity": "1", "unit": "tbsp", "name": "sifted, culinary matcha" }
                 ],
                 "method": [
-                    "If adding walnuts / chocolate chips, fold them in before pouring the batter into the loaf pan. If adding matcha, add with the flour."
+                    "If adding walnuts / chocolate chips, fold them in before pouring the batter into the loaf pan.",
+                    "If adding matcha, add with the flour."
                 ]
             }
         ]

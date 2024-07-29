@@ -723,6 +723,10 @@ header {
   padding-bottom: 40px;
 }
 
+.recipe-content li {
+  display: list-item;
+}
+
 
 
 /* FOUNDER / HIGHS LOWS RAINBOWS */
