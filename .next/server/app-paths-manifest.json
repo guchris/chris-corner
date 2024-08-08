@@ -1,7 +1,10 @@
 {
-  "/page": "app/page.js",
-  "/travel/guides/page": "app/travel/guides/page.js",
   "/food/recipes/page": "app/food/recipes/page.js",
   "/food/recipes/[slug]/page": "app/food/recipes/[slug]/page.js",
-  "/fashion/closet/page": "app/fashion/closet/page.js"
+  "/fashion/closet/page": "app/fashion/closet/page.js",
+  "/about-me/career/page": "app/about-me/career/page.js",
+  "/about-me/page": "app/about-me/page.js",
+  "/about-me/education/page": "app/about-me/education/page.js",
+  "/about-me/goals/page": "app/about-me/goals/page.js",
+  "/page": "app/page.js"
 }

@@ -22,6 +22,17 @@ const CareerPage = () => {
                     In my free time, you can catch me creating augmented reality experiences that have been viewed and captured by billions of people and building out ambitious projects and ventures.
                     I'm passionate about using technology to improve people's lives and have a knack for making even the most mundane things just a bit more fun (and viral).<br/><br/>
                 </p>
+
+                <section className="section-gap">
+                    <div className="section-skinny">
+                        <h3 className="body-upper-bold">Gap Year</h3>
+                        <p className="body-upper">Career Break</p>
+                        <p className="body-upper">Jul 2023 - Jul 2024</p>
+                        <p className="body-upper"></p>
+                        <p className="body-upper">Full-time</p>
+                    </div>
+                    <p className="body-lower">Traveled to 35 cities in 22 countries.</p>
+                </section>
                 
                 <section className="section-gap">
                     <div className="section-skinny">
