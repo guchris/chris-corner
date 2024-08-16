@@ -1,6 +1,7 @@
 {
-  "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
   "/fashion/page": "app/fashion/page.js",
+  "/food/sunday-suppers/page": "app/food/sunday-suppers/page.js",
   "/fashion/closet/page": "app/fashion/closet/page.js",
-  "/icon.png/route": "app/icon.png/route.js"
+  "/icon.png/route": "app/icon.png/route.js",
+  "/page": "app/page.js"
 }
