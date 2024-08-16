@@ -18,15 +18,16 @@ const GoalsPage = () => {
                 </h2>
     
                 <p className="intro">
-                    In my approach to setting and achieving goals, I prioritize consistency and acknowledge the possibility of failure.
+                    Setting clear, actionable goals is a powerful way to stay focused and motivated throughout the year. This page serves as a personal roadmap for 2024, outlining the key milestones I aim to achieve. From expanding my horizons through travel to pursuing professional growth, creative expression, and personal fitness, each goal reflects my commitment to continuous improvement and living life with intention. By tracking these goals publicly, I hold myself accountable and invite others to join me on this journey of growth and discovery.
+                    {/* In my approach to setting and achieving goals, I prioritize consistency and acknowledge the possibility of failure.
                     I've categorized my goals into two main groups: those I track weekly and those that are north star endeavors.<br/><br/>
                     
                     For the weekly goals, I mark each as either "true" with a black fill or "false" with a gray fill.
                     Success, in my system, is defined by achieving a rate of over 70% "true" by the end of a 13-week quarter.
-                    This structured and measurable approach has evolved from experienting with various online goal-setting stratgies and templates over the years, and has proven to be a reliable method for assessing and achieving my life goals.
+                    This structured and measurable approach has evolved from experienting with various online goal-setting stratgies and templates over the years, and has proven to be a reliable method for assessing and achieving my life goals. */}
                 </p>
                 
-                <div className="section">
+                {/* <div className="section">
                     <h3 className="section-title">2024 Long Term Goals</h3>
                     <div className="section-medium">
                         <div className="row-skinny">
@@ -398,11 +399,11 @@ const GoalsPage = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 
                 
                 <div className="section">
-                    <h3 className="section-title">2024 Singular Goals</h3>
+                    <h3 className="section-title">2024 Goals</h3>
                     <div className="section-medium">
                         <div className="row-skinny">
                             <p className="checkbox-text">Travel to 5 new countries</p>
@@ -468,6 +469,12 @@ const GoalsPage = () => {
                             <p className="checkbox-text">Release new HLR cards</p>
                             <div className="checkboxes">
                                 <input type="checkbox" className="true"/>
+                            </div>
+                        </div>
+                        <div className="row-skinny">
+                            <p className="checkbox-text">Release Worn Beta</p>
+                            <div className="checkboxes">
+                                <input type="checkbox" className="false"/>
                             </div>
                         </div>
                     </div>

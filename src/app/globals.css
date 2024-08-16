@@ -679,6 +679,19 @@ header {
   margin: 0;
 }
 
+.chart-container {
+  display: flex;
+  justify-content: flex-start; /* Aligns the chart to the left */
+  width: 100%;  /* Allow the chart to take up the full width of the container */
+  max-width: 100%;
+  margin: 20px auto;
+}
+
+.chart-container canvas {
+  width: 100% !important;  /* Ensure the canvas takes up the full width */
+  height: auto !important;  /* Maintain aspect ratio while allowing height to adjust */
+}
+
 @media (max-width: 800px) {
 
   .item {

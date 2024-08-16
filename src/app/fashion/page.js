@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 
 import FashionStats from '@/components/FashionStats';
+import FashionCharts from '@/components/FashionCharts';
 import closetData from './closet/closet-data.json';
 
 const FashionPage = () => {
@@ -24,8 +25,15 @@ const FashionPage = () => {
                     Check out <Link href="/fashion/closet" className="link"><b>CLOSET</b></Link> for the moment.<br/>
                 </p>
 
-                <h4 className="section-title">Fashion Stats</h4>
-                <FashionStats closetData={closetData} />
+                <section className="section">
+                    <h4 className="section-title">Fashion Stats</h4>
+                    <FashionStats closetData={closetData} />
+                </section>
+
+                <section className="section">
+                    <h4 className="section-title">Fashion Charts</h4>
+                    <FashionCharts closetData={closetData} />
+                </section>
             </div>
         </>
     );
