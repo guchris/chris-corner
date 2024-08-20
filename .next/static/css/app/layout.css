@@ -424,6 +424,19 @@ header {
   object-fit: cover;
 }
 
+.small-images-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  max-width: 100%;
+}
+
+.small-image {
+  height: 30px;
+  width: 40px;
+  object-fit: cover;
+}
+
 .filters {
   width: 120px;
   margin-left: 20px;

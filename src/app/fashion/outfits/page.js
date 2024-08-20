@@ -2,6 +2,11 @@ import React from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 
+import OutfitsGrid from '@/components/OutfitsGrid';
+
+import outfitsData from './outfits-data.json';
+import closetData from '../closet/closet-data.json';
+
 const OutfitsPage = () => {
     
     return (
@@ -19,6 +24,11 @@ const OutfitsPage = () => {
                 <p className="intro">
                     Dope outfits coming soon.
                 </p>
+
+                <OutfitsGrid
+                    outfits={outfitsData}
+                    closetItems={closetData}
+                />
             </div>
         </>
     );

@@ -1,0 +1,30 @@
+[    
+    {
+        "id": 1,
+        "image": "outfit1.png",
+        "description": "",
+        "items": [41, 90, 70],
+        "date": "Aug 5, 2024"
+    },
+    {
+        "id": 2,
+        "image": "outfit1.png",
+        "description": "",
+        "items": [41, 90, 70],
+        "date": "Aug 5, 2024"
+    },
+    {
+        "id": 3,
+        "image": "outfit1.png",
+        "description": "",
+        "items": [41, 90, 70],
+        "date": "Aug 5, 2024"
+    },
+    {
+        "id": 4,
+        "image": "outfit1.png",
+        "description": "",
+        "items": [41, 90, 70],
+        "date": "Aug 5, 2024"
+    }
+]
