@@ -50,6 +50,61 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/fashion/closet/[id]/page.js"
+    ],
+    "/about-me/career/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/about-me/career/page.js"
+    ],
+    "/about-me/education/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/about-me/education/page.js"
+    ],
+    "/travel/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/travel/page.js"
+    ],
+    "/travel/guides/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/travel/guides/page.js"
+    ],
+    "/travel/packing/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/travel/packing/page.js"
+    ],
+    "/travel/checklist/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/travel/checklist/page.js"
+    ],
+    "/projects/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/projects/page.js"
+    ],
+    "/photography/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/photography/page.js"
+    ],
+    "/founder/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/founder/page.js"
+    ],
+    "/food/recipes/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/food/recipes/page.js"
+    ],
+    "/food/reviews/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/food/reviews/page.js"
     ]
   }
 }

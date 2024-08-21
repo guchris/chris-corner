@@ -22,7 +22,7 @@ const GuidesPage = () => {
 
                 <p className="intro">
                     Learnings and itineraries from my travels.<br/>
-                    Guides coming soon. Below guides are placeholders with random text.
+                    Guides coming soon.
                 </p>
 
                 <h4 className="section-title">Recent Trip Guides</h4>

@@ -1,6 +1,6 @@
 "use client"
 import React from 'react';
-import { Line, Pie } from 'react-chartjs-2';
+import { Line, Pie, Bar } from 'react-chartjs-2';
 import 'chart.js/auto';
 
 const FashionCharts = ({ closetData }) => {
@@ -40,6 +40,23 @@ const FashionCharts = ({ closetData }) => {
         return { labels, data };
     };
 
+    const getTopBrandsData = () => {
+        const brandCounts = {};
+        closetData.forEach(item => {
+            const brand = item.brand || 'Unknown';
+            brandCounts[brand] = (brandCounts[brand] || 0) + 1;
+        });
+
+        const sortedBrands = Object.entries(brandCounts)
+            .sort(([, a], [, b]) => b - a) // Sort by quantity descending
+            .slice(0, 10); // Take top 10 brands
+
+        const labels = sortedBrands.map(([brand]) => brand);
+        const data = sortedBrands.map(([, count]) => count);
+
+        return { labels, data };
+    };
+
     const getPieChartData = () => {
         const categoryCounts = { Tops: 0, Bottoms: 0, Accessories: 0 };
         closetData.forEach(item => {
@@ -64,6 +81,7 @@ const FashionCharts = ({ closetData }) => {
 
     const timelineData = getTimelineData();
     const spendingData = getSpendingData();
+    const topBrandsData = getTopBrandsData();
     const pieChartData = getPieChartData();
 
     return (
@@ -108,6 +126,31 @@ const FashionCharts = ({ closetData }) => {
                     options={{
                         responsive: true,
                         maintainAspectRatio: false,
+                    }}
+                />
+            </div>
+
+            <h4 className="section-subtitle">Top 10 Brands by Quantity</h4>
+            <div className="chart-container">
+                <Bar
+                    data={{
+                        labels: topBrandsData.labels,
+                        datasets: [
+                            {
+                                label: '# Items',
+                                data: topBrandsData.data,
+                                backgroundColor: '#36A2EB',
+                            },
+                        ]
+                    }}
+                    options={{
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                            },
+                        },
                     }}
                 />
             </div>

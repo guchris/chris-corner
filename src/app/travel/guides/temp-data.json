@@ -1,0 +1,758 @@
+[
+    {
+        "id": 1,
+        "destination": "Los Angeles",
+        "slug": "los-angeles",
+        "dates_visited" : {
+            "start_date": "01-31-2024",
+            "end_date": "02-07-2024"
+        },
+        "summary": "Experience the trendiest neighborhoods and cultural hotspots of Los Angeles...except, we got tarnatial downpour - the most ever in 2 days in over 2 decades!",
+        "itinerary": [
+            {
+                "day": "Day 1",
+                "activities": [
+                    "Explore Venice Beach and Boardwalk",
+                    "Visit the Venice Canals",
+                    "Dine at Gjelina"
+                ]
+            },
+            {
+                "day": "Day 2",
+                "activities": [
+                    "Hike to the Hollywood Sign",
+                    "Hike to the Griffith Observatory"
+                ]
+            },
+            {
+                "day": "Day 3",
+                "activities": [
+                    "Stroll along Melrose Avenue for shopping and street art",
+                    "Visit LACMA (Los Angeles County Museum of Art)",
+                    "Visit Peterson Automobile Museum"
+                ]
+            },
+            {
+                "day": "Day 4",
+                "activities": [
+                    "Explore the Arts District",
+                    "Visit The Broad Museum",
+                    "Lunch at Grand Central Market"
+                ]
+            },
+            {
+                "day": "Day 5",
+                "activities": [
+                    "Tour the Getty Center",
+                    "Relax at Santa Monica Pier",
+                    "Dinner at Nobu Malibu"
+                ]
+            },
+            {
+                "day": "Day 6",
+                "activities": [
+                    "Shop and dine on Abbot Kinney Boulevard",
+                    "Visit the Hammer Museum",
+                    "Enjoy sunset at Manhattan Beach"
+                ]
+            },
+            {
+                "day": "Day 7",
+                "activities": [
+                    "Hike in Runyon Canyon Park",
+                    "Explore the Sunset Strip",
+                    "Farewell dinner at Perch"
+                ]
+            }
+        ],
+        "recommendations": {
+            "places": [
+                {
+                  "name": "The Last Bookstore",
+                  "description": "A must-visit indie bookstore with a unique atmosphere.",
+                  "category": "Bookstore",
+                  "location": "453 S Spring St, Los Angeles, CA 90013"
+                },
+                {
+                  "name": "Griffith Park",
+                  "description": "One of the largest urban parks in North America, offering hiking trails and scenic views of LA.",
+                  "category": "Park",
+                  "location": "Griffith Park, Los Angeles, CA 90027"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Street Art Tour in the Arts District",
+                    "description": "Explore the vibrant street art scene in the hip Arts District with a guided tour."
+                },
+                {
+                    "name": "Venice Beach Bike Rental",
+                    "description": "Rent a bike and cruise along the iconic Venice Beach Boardwalk, soaking in the sights and sounds."
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Sqirl",
+                    "description": "Famous for their inventive breakfast and brunch dishes featuring local ingredients.",
+                    "cuisine": "American, Californian",
+                    "location": "720 N Virgil Ave #4, Los Angeles, CA 90029"
+                },
+                {
+                    "name": "Bestia",
+                    "description": "A trendy Italian restaurant known for its house-made charcuterie and pasta dishes.",
+                    "cuisine": "Italian",
+                    "location": "2121 E 7th Pl, Los Angeles, CA 90021"
+                }
+            ]
+        },
+        "transportation": "Uber/Lyft or rental car are convenient options for getting around LA. Public transportation is also available via Metro buses and trains.",
+        "accommodation": "Stay in a trendy boutique hotel or Airbnb rental in neighborhoods like Venice Beach, Silver Lake, or Downtown LA.",
+        "tips": "Pack comfortable walking shoes and layers, as LA weather can vary throughout the day. Make restaurant reservations in advance, especially for popular spots.",
+        "cost_estimate": "Estimated cost for a week in LA can range from $1500 to $3000, depending on accommodation, dining choices, and activities.",
+        "language_spoken": "English is the primary language spoken in Los Angeles.",
+        "currency_used": "United States Dollar (USD)",
+        "emergency_contact": "Emergency contact information, including local emergency services, embassy or consulate contact details",
+        "weather_information": "February in Los Angeles typically has mild and pleasant weather, with average temperatures ranging from 50°F (10°C) to 70°F (21°C).",
+        "best_time_to_visit": "Spring (March to May) and Fall (September to November) are ideal times to visit Los Angeles, with mild temperatures and fewer crowds.",
+        "recommended_duration": "A week is a good amount of time to explore Los Angeles and its diverse neighborhoods and attractions.",
+        "local_customs": "Tipping is customary in Los Angeles, typically 15-20% in restaurants and for services like taxis and hairdressers."
+    },
+    {
+        "id": 2,
+        "destination": "New York City",
+        "slug": "new-york-city",
+        "dates_visited": {
+            "start_date": "01-01-2024",
+            "end_date": "01-07-2024"
+        },
+        "summary": "Experience the hustle and bustle of the Big Apple, from iconic landmarks like Times Square and the Statue of Liberty to trendy neighborhoods like Brooklyn and Greenwich Village.",
+        "itinerary": [
+            {
+                "day": "Day 1",
+                "activities": [
+                    "Explore Times Square and visit the TKTS booth for discounted Broadway tickets",
+                    "Take a stroll through Central Park and visit the Central Park Zoo",
+                    "Dine at a classic New York deli for lunch"
+                ]
+            },
+            {
+                "day": "Day 2",
+                "activities": [
+                    "Visit the Statue of Liberty and Ellis Island",
+                    "Take a ferry ride to Staten Island for panoramic views of the city skyline",
+                    "Explore the High Line park"
+                ]
+            },
+            {
+                "day": "Day 3",
+                "activities": [
+                    "Discover the museums of Museum Mile, including the Metropolitan Museum of Art and the Guggenheim Museum",
+                    "Take a walking tour of historic neighborhoods like the Upper East Side and Harlem",
+                    "Catch a Broadway show in the evening"
+                ]
+            },
+            {
+                "day": "Day 4",
+                "activities": [
+                    "Shop along Fifth Avenue, including iconic stores like Tiffany & Co. and Saks Fifth Avenue",
+                    "Visit the Empire State Building for panoramic views of the city",
+                    "Enjoy dinner in Little Italy"
+                ]
+            },
+            {
+                "day": "Day 5",
+                "activities": [
+                    "Explore the trendy neighborhoods of Brooklyn, including Williamsburg and DUMBO",
+                    "Walk across the Brooklyn Bridge for stunning views of the Manhattan skyline",
+                    "Sample artisanal food at Smorgasburg food market"
+                ]
+            },
+            {
+                "day": "Day 6",
+                "activities": [
+                    "Take a ferry to Governors Island for outdoor activities and historic sites",
+                    "Visit the 9/11 Memorial & Museum",
+                    "Explore the vibrant nightlife of Greenwich Village"
+                ]
+            },
+            {
+                "day": "Day 7",
+                "activities": [
+                    "Visit the Museum of Modern Art (MoMA)",
+                    "Explore the diverse neighborhoods of Queens, including Astoria and Long Island City",
+                    "Farewell dinner in a trendy restaurant in the Meatpacking District"
+                ]
+            }
+        ],
+        "recommendations": {
+            "places": [
+                {
+                    "name": "Top of the Rock Observation Deck",
+                    "description": "Enjoy stunning views of Manhattan from the top of the Rockefeller Center.",
+                    "category": "Landmark",
+                    "location": "30 Rockefeller Plaza, New York, NY 10112"
+                },
+                {
+                    "name": "Brooklyn Botanic Garden",
+                    "description": "Escape the city hustle and explore beautiful gardens and greenhouses in Brooklyn.",
+                    "category": "Garden",
+                    "location": "990 Washington Ave, Brooklyn, NY 11225"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Broadway Walking Tour",
+                    "description": "Learn about the history of Broadway and its iconic theaters on a guided walking tour.",
+                    "category": "Tour"
+                },
+                {
+                    "name": "Central Park Bike Rental",
+                    "description": "Rent a bike and explore Central Park at your own pace, visiting landmarks like Bethesda Terrace and Bow Bridge.",
+                    "category": "Recreation"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Katz's Delicatessen",
+                    "description": "Experience the classic New York deli atmosphere and enjoy pastrami sandwiches and matzo ball soup.",
+                    "cuisine": "Jewish, Deli",
+                    "location": "205 E Houston St, New York, NY 10002"
+                },
+                {
+                    "name": "Le Bernardin",
+                    "description": "Indulge in exquisite seafood dishes prepared by renowned chef Eric Ripert.",
+                    "cuisine": "French, Seafood",
+                    "location": "155 W 51st St, New York, NY 10019"
+                }
+            ]
+        },
+        "transportation": "Subway and bus are convenient options for getting around New York City. Taxis and rideshare services like Uber and Lyft are also widely available.",
+        "accommodation": "Stay in a hotel in Manhattan for easy access to major attractions. Alternatively, explore trendy neighborhoods like Brooklyn and Queens for unique accommodation options.",
+        "tips": "Plan your itinerary in advance and book tickets for popular attractions to avoid long lines. Be prepared for walking and wear comfortable shoes. Explore the city's diverse neighborhoods to experience its cultural richness.",
+        "cost_estimate": "Estimated cost for a week in New York City can range from $2000 to $4000, depending on accommodation, dining choices, and activities.",
+        "language_spoken": "English is the primary language spoken in New York City, but you'll also hear a variety of languages due to its diverse population.",
+        "currency_used": "United States Dollar (USD)",
+        "emergency_contact": "Emergency contact information, including local emergency services, embassy or consulate contact details",
+        "weather_information": "January in New York City is typically cold, with average temperatures ranging from 25°F (-4°C) to 40°F (4°C). Be prepared for winter weather, including snow and freezing temperatures.",
+        "best_time_to_visit": "Spring (April to June) and Fall (September to November) are ideal times to visit New York City, with mild weather and fewer tourists.",
+        "recommended_duration": "A week is a good amount of time to explore New York City and its iconic attractions, but you could easily spend more time to delve deeper into its neighborhoods and cultural offerings.",
+        "local_customs": "Tipping is customary in New York City, typically 15-20% in restaurants and for services like taxis and hairdressers. Respect personal space and be aware of your surroundings in crowded areas."
+    },
+    {
+        "id": 3,
+        "destination": "Guatemala",
+        "slug": "Guatemala",
+        "dates_visited": {
+            "start_date": "02-11-2024",
+            "end_date": "02-18-2024"
+        },
+        "summary": "My Guatemala journey was a spontaneous whirlwind of fun! It all started with a random decision spurred by a super cheap flight. Traversing through Antigua was like strolling through a living history book, with every corner revealing vibrant markets and stunning colonial charm. Not to mention being a stone throw's away from multiple majestic volcanos. From there, I shuttled over to Lake Atitlán, crashing in quirky hostels and exploring the laid-back vibes of San Pedro and San Marcos. Kayaking and hiking in and around this lake was serene and magical. And amidst all the adventure, I found myself immersed in the local culture, making new amigos, and brushing up on my Spanish. Who knew a spur-of-the-moment trip could turn into such an unforgettable escapade? Guatemala, you've stolen a piece of my heart!",
+        "itinerary": [
+            {
+                "day": "Day 0",
+                "activities": [
+                    "Departed from SEA",
+                    "Arrived at LAX",
+                    "Departed from LAX"
+                ]
+            },
+            {
+                "day": "Day 1",
+                "activities": [
+                    "Arrived at GUA",
+                    "Shuttled to Antigua",
+                    "Checked-in to Somos Hostel",
+                    "Strolled through Parque Central",
+                    "Hiked up to the Hill of the Cross",
+                    "Visited the Santa Catalina Arch",
+                    "Got coffee in the Starbucks courtyard",
+                    "Ate lunch at Wachuma",
+                    "Bought some goods at Mercado Central",
+                    "Joined a Bean to Bar Chocolate Workshop at ChocoMuseo",
+                    "Ate dinner at Restaurante La Estancia Steak House"
+                ]
+            },
+            {
+                "day": "Day 2",
+                "activities": [
+                    "Embarked on the Acatenango Volcano Overnight Hike",
+                    "Did the optional Fuego Hike"
+                ]
+            },
+            {
+                "day": "Day 3",
+                "activities": [
+                    "Did the optional Sunrise Hike",
+                    "Finished the Acatenango Volcano Overnight Hike",
+                    "Ate dinner at Barriga Llena"
+                ]
+            },
+            {
+                "day": "Day 4",
+                "activities": [
+                    "Hiked up to and visited Hobbitenango",
+                    "Ate lunch at Hobbitenango",
+                    "Ate dinner at Antigua Brewing Company",
+                    "Started bar crawl at Tropicana Hostel",
+                    "Ended bar crawl at Las Vibras de la Casbah"
+                ]
+            },
+            {
+                "day": "Day 5",
+                "activities": [
+                    "Checked-out of Somos Hostel",
+                    "Shuttled to Lake Atitlán",
+                    "Checked-in to Mr. Mullets Hostel",
+                    "Ate lunch at Sabada",
+                    "Explored San Pedro",
+                    "Kayaked on the lake",
+                    "Paritied at Mr. Mullets"
+                ]
+            },
+            {
+                "day": "Day 6",
+                "activities": [
+                    "Hiked the Indian Nose Viewpoint for sunrise",
+                    "Ate breakfast at Sabada Cafe",
+                    "Hiked up Volcan San Pedro",
+                    "Ate lunch at the top of Volcan San Pedro",
+                    "Kayaked on the lake",
+                    "Ate dinner at No Hay Deer"
+                ]
+            },
+            {
+                "day": "Day 7",
+                "activities": [
+                    "Walked to and explored San Juan",
+                    "Walked to and explored San Pablo",
+                    "Walked to and explored San Marcos",
+                    "Had a smoothie at Amoló Cafe",
+                    "Ate lunch at The Hidden Garden",
+                    "Exercised at Fitness Mania",
+                    "Did the Mr Mullets Bar Crawl"
+                ]
+            },
+            {
+                "day": "Day 8",
+                "activities": [
+                    "Checked-out of Mr. Mullets",
+                    "Shuttled to Antigua",
+                    "Got coffee in the Starbucks courtyard",
+                    "Ate lunch at Los Tres Tiempos",
+                    "Shuttled to GUA",
+                    "Departed from GUA"
+                ]
+            }
+        ],
+        "recommendations": {
+            "places": [
+                {
+                    "name": "TBD",
+                    "description": "Lorem ipsum",
+                    "category": "Landmark",
+                    "location": "[address here]"
+                },
+                {
+                    "name": "TBD",
+                    "description": "Lorem ipsum",
+                    "category": "Garden",
+                    "location": "[address here]"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "TBD",
+                    "description": "Lorem ipsum",
+                    "category": "Tour"
+                },
+                {
+                    "name": "TBD",
+                    "description": "Lorem ipsum",
+                    "category": "Adventure"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "TBD",
+                    "description": "Lorem ipsum",
+                    "cuisine": "Guatemalan",
+                    "location": "[address here]]"
+                },
+                {
+                    "name": "TBD",
+                    "description": "Lorem ipsum",
+                    "cuisine": "Guatemalan",
+                    "location": "[address here]]"
+                }
+            ]
+        },
+        "transportation": "Walk or use local taxis to navigate around Antigua Guatemala, as the city center is compact and easily walkable. Consider hiring a driver or joining a tour for day trips to nearby attractions.",
+        "accommodation": "Stay in a boutique hotel or colonial-style guesthouse in the historic center of Antigua Guatemala for a truly authentic experience.",
+        "tips": "Pack comfortable walking shoes and lightweight clothing for exploring the city's cobblestone streets. Be sure to carry a reusable water bottle and stay hydrated, especially when exploring outdoor attractions.",
+        "cost_estimate": "Estimated cost for a week in Antigua Guatemala can range from $800 to $1500, depending on accommodation, dining choices, and activities.",
+        "language_spoken": "Spanish is the primary language spoken in Antigua Guatemala, but English is widely understood in tourist areas.",
+        "currency_used": "Guatemalan Quetzal (GTQ)",
+        "emergency_contact": "Emergency contact information, including local emergency services and embassy or consulate contact details",
+        "weather_information": "March in Antigua Guatemala is typically warm and dry, with average temperatures ranging from 60°F (15°C) to 75°F (24°C). Be prepared for occasional rain showers.",
+        "best_time_to_visit": "The best time to visit Antigua Guatemala is during the dry season from November to April, when the weather is pleasant and there are fewer crowds.",
+        "recommended_duration": "A week is a good amount of time to explore Antigua Guatemala and its surrounding attractions at a leisurely pace.",
+        "local_customs": "Respect the local culture and traditions, including dress codes when visiting religious sites. It's customary to greet people with a handshake and a friendly 'buenos días' (good morning) or 'buenas tardes' (good afternoon)."
+    },
+    {
+        "id": 4,
+        "destination": "Costa Rica",
+        "slug": "costa-rica",
+        "dates_visited": {
+            "start_date": "02-19-2024",
+            "end_date": "03-01-2024"
+        },
+        "summary": "Immerse yourself in the natural beauty and biodiversity of Costa Rica, known for its lush rainforests, pristine beaches, and abundant wildlife.",
+        "itinerary": [
+            {
+                "day": "Day 1 (Feb 19)",
+                "activities": [
+                    "Arrive at SJO",
+                    "Shuttled to La Fortuna",
+                    "Checked-in to Arenal Backpackers Resort",
+                    "Did laundry at Lavanderia El Almendro",
+                    "Worked out at Arenal Fitness Center",
+                    "Ate dinner at Mexikah Taqueria w/ hostel friends"
+                ]
+            },
+            {
+                "day": "Day 2 (Feb 20)",
+                "activities": [
+                    "Worked out at Arenal Fitness Center",
+                    "Explored downtown La Fortuna",
+                    "Joined the North Fields Coffee & Chocolate Tour",
+                    "Ate dinner at Pollo Fortuneno"
+                ]
+            },
+            {
+                "day": "Day 3 (Feb 21)",
+                "activities": [
+                    "Worked out at Arenal Fitness Center",
+                    "Joined Sloth Watching Tour",
+                    "Ate dinner at Mexikah Taqueria w/ with tour friends"
+                ]
+            },
+            {
+                "day": "Day 4 (Feb 22)",
+                "activities": [
+                    "Worked out at Arenal Fitness Center",
+                    "Explored Mistico Arenal Hanging Bridges",
+                    "Ate dinner at Soda Víquez",
+                    "Ate ice cream at Chocolate Fusión",
+                    "Explored downtown La Fortuna"
+                ]
+            },
+            {
+                "day": "Day 5 (Feb 23)",
+                "activities": [
+                    "Ate breakfast at Panadería La Principal",
+                    "(Viator Tour) Hiked Arenal Volcano",
+                    "(Viator Tour) Swam at the La Fortuna waterfall",
+                    "(Viator Tour) Visited Maleku Indian village",
+                    "(Viator Tour) Soaked in a Hot Spring",
+                    "Ate dinner at Pollo Fortuneno"
+                ]
+            },
+            {
+                "day": "Day 6 (Feb 24)",
+                "activities": [
+                    "Checked-out of Arenal Backpackers Resort",
+                    "Shuttled to Manuel Antonio",
+                    "Checked-in to Selina Hostel",
+                    "Went on a short run",
+                    "Did a free Selina Vinyasa Flow Yoga class",
+                    "Beached at Espadilla Beach",
+                    "Got a free Selina welcome drink",
+                    "Partied at the Wild Jungle event w/ hostel friends"
+                ]
+            },
+            {
+                "day": "Day 7 (Feb 25)",
+                "activities": [
+                    "Worked out at MA Fitness",
+                    "Went on the Catamaran Tour",
+                    "Ate dinner at El Avión"
+                ]
+            },
+            {
+                "day": "Day 8 (Feb 26)",
+                "activities": [
+                    "Worked out at MA Fitness",
+                    "Joined a surfing class",
+                    "Did a free Selina HITT class",
+                    "Ate dinner at El Avión",
+                    "Chatted w/ hostel friends at the pool"
+                ]
+            },
+            {
+                "day": "Day 9 (Feb 27)",
+                "activities": [
+                    "Did a 1-1 Tarzan Tour",
+                    "Joined a Night Tour",
+                    "Ate at Claro Que Si w/ hostel friends"
+                ]
+            },
+            {
+                "day": "Day 10 (Feb 28)",
+                "activities": [
+                    "Went to Manuel Antonio National Park Tour",
+                    "Did a free Selina pole dancing class",
+                    "Ate dinner at Falafel Bar w/ hostel friends",
+                    "Watched Salsa dancing"
+                ]
+            },
+            {
+                "day": "Day 11 (Feb 29)",
+                "activities": [
+                    "Shuttled to San Jose",
+                    "Departed from SJO",
+                    "Arrived in GUA",
+                    "Departed from GUA",
+                    "Arrived in LA",
+                    "Departed from LA",
+                    "Arrived in SEA"
+                ]
+            }
+        ],
+        "recommendations": {
+            "places": [
+                {
+                    "name": "Tortuguero National Park",
+                    "description": "Explore this remote park known for its nesting sea turtles, dense rainforest, and network of navigable canals.",
+                    "category": "National Park",
+                    "location": "Tortuguero, Limón Province, Costa Rica"
+                },
+                {
+                    "name": "Corcovado National Park",
+                    "description": "Discover one of the most biodiverse regions in the world with pristine rainforest, rugged coastline, and abundant wildlife.",
+                    "category": "National Park",
+                    "location": "Osa Peninsula, Puntarenas Province, Costa Rica"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Surfing Lessons",
+                    "description": "Learn to ride the waves at some of the best surf spots in the world, with options for beginners and experienced surfers alike.",
+                    "category": "Adventure"
+                },
+                {
+                    "name": "Rainforest Canopy Tour",
+                    "description": "Experience the thrill of zip-lining through the treetops and enjoying breathtaking views of the rainforest below.",
+                    "category": "Adventure"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Soda Viquez",
+                    "description": "Enjoy authentic Costa Rican cuisine like casados (traditional plates) and gallo pinto (rice and beans) at this popular local eatery.",
+                    "cuisine": "Costa Rican",
+                    "location": "San Jose, Costa Rica"
+                },
+                {
+                    "name": "El Avión",
+                    "description": "Dine in a unique setting inside a vintage cargo plane overlooking the ocean, and enjoy fresh seafood and international cuisine.",
+                    "cuisine": "Seafood, International",
+                    "location": "Manuel Antonio, Costa Rica"
+                }
+            ]
+        },
+        "transportation": "Renting a car is the best way to explore Costa Rica's diverse landscapes, but public buses and shuttles are also available for longer journeys between destinations.",
+        "accommodation": "Stay in eco-lodges, boutique hotels, or beachfront resorts for an authentic Costa Rican experience. Consider booking accommodations in advance, especially during peak tourist season.",
+        "tips": "Pack lightweight clothing, a reusable water bottle, and insect repellent for outdoor activities. Be prepared for occasional rain showers, especially during the rainy season from May to November.",
+        "cost_estimate": "Estimated cost for a week in Costa Rica can range from $1000 to $3000, depending on accommodation, transportation, dining choices, and activities.",
+        "language_spoken": "Spanish is the official language of Costa Rica, but English is widely spoken in tourist areas.",
+        "currency_used": "Costa Rican Colón (CRC)",
+        "emergency_contact": "Emergency contact information, including local emergency services and embassy or consulate contact details",
+        "weather_information": "May in Costa Rica is the start of the rainy season, with warm temperatures and occasional rain showers. Be prepared for humid conditions and plan outdoor activities accordingly.",
+        "best_time_to_visit": "The best time to visit Costa Rica is during the dry season from December to April, when the weather is sunny and dry.",
+        "recommended_duration": "A week is a good amount of time to explore Costa Rica's main attractions, but consider extending your stay to fully experience the country's natural beauty and outdoor activities.",
+        "local_customs": "Respect the local culture and customs, including conserving water and electricity, and supporting sustainable tourism practices. It's customary to greet people with a handshake and a friendly 'buenos días' (good morning) or 'pura vida' (pure life)."
+    },
+    {
+        "id": 5,
+        "destination": "Iceland",
+        "slug": "iceland",
+        "dates_visited": {
+            "start_date": "04-05-2024",
+            "end_date": "04-12-2024"
+        },
+        "summary": "TBD",
+        "itinerary": [
+            {
+                "day": "Day 1",
+                "date": "Apr 5",
+                "activities": [
+                    {
+                        "tag": "Flight",
+                        "route": "JFK to KEF",
+                        "flight": "Icelandair FL612",
+                        "duration": "1:00 PM (ET) → 10:35 PM (GMT)"
+                    },
+                    {
+                        "tag": "Lodging",
+                        "title": "Konvin Hotel",
+                        "address": "762, Keilisbraut, 235 Keflavík, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/bTexqsN38krSWNdF6",
+                        "notes": "Super close to Keflavik airport. Nice and convenient. Also super close to a local gym."
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "date": "Apr 6",
+                "activities": [
+                    {
+                        "tag": "Lodging",
+                        "title": "Greenhouse Hotel",
+                        "address": "Austurmörk 6, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/PP98TzzhcuSiCxyR8",
+                        "notes": "Houses a food hall, gift shops, and a bakery."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Fagradalsfjall Volcano",
+                        "address": "VP5F+MR7, 241 Grindavik, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/vvWSwi8wVYUgfR6NA",
+                        "cost": "FREE",
+                        "description": "The craters of Litli-Hrútur are the newest landscape of Iceland. The area, known broadly as Fagradalsfjall volcano, has erupted three times since 2021 and remains a top-attraction in Iceland's southwest corner.",
+                        "notes": "This entire area of Iceland was closed during my trip. Learn more about hiking Fagradalsfjall: https://www.visiticeland.com/article/hiking-to-the-volcano1."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Gígvatnsvatn",
+                        "address": "241, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/6SKNipbzhHVZAzRk8",
+                        "cost": "FREE",
+                        "description": "Small, but beautiful lake. Water gives off a green color, distinct from the other lakes in the area.",
+                        "notes": "No official parking lot."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Kleifarvatn",
+                        "address": "241, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/rE3oPJB3afKt7zHy9",
+                        "cost": "FREE",
+                        "description": "The largest lake on the Reykjanes Peninsula features hiking trails & a small fishing lodge.",
+                        "notes": "No official parking lot."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Seltún Geothermal Area",
+                        "address": "241, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/3frdwt9n1erFptnE9",
+                        "cost": "FREE",
+                        "description": "A natural geothermal area full of fumeroles and mud pots. There are wooden boardwalks all around the various pools, mud pots, etc. Clouds of sulfur as you walk around. Small hike towards the back that will take you up onto the nearby hill, giving you a fabulous view of the whole area.",
+                        "notes": "Small, free-of-charge parking lot. Toilets were closed."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Reykjadalur Hot Spring Thermal River",
+                        "address": "Reykjadalur 816, 816, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/D8xDZy1yQfpTzsoK9",
+                        "cost": "FREE",
+                        "description": "4-5 mile roundtrip, medium hike leading up the Reykjadalur Valley to a natural hot spring surrounded by majestic views.",
+                        "notes": "Make sure to bring a swimsuit and towel. Drive up to the carpark (which auto scans your license plate) and type your plate into the machine at the lodge. When you leave, pay at the machine. I paid 1000 ISK. Carpark location: https://maps.app.goo.gl/rKan951ULNgJFhbt7"
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "The Geothermal Park Hveragerði / Hveragarðurinn",
+                        "address": "Hveramörk 13, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/B4LuLxjyxWLhiAxq8",
+                        "cost": "500 ISK / person",
+                        "description": "A small park that houses some geothermal activites. The entrance is a small greenhouse split in two parts, a tea-room and small garden. You can cook an egg using the boiling geothermal water and eat home-made bread baked in the geothermic oven.",
+                        "notes": "Located in the middle of Hveragerði"
+                    },
+                    {
+                        "tag": "Food",
+                        "title": "Matkráin",
+                        "address": "XRX6+GXG, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/BDCL8o1V3T4LT46a6",
+                        "cost": "4000 - 5000 ISK / person",
+                        "description": "A small, local restaurant serving various types of Icelandic smørrebrød.",
+                        "notes": "The smørrebrød meat options were delicious, but quite small."
+                    },
+                    {
+                        "tag": "Food",
+                        "title": "Ölverk Pizza & Brewery",
+                        "address": "Breiðamörk 2, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/ShB4XZiq1cTgGokY7",
+                        "cost": "2000 - 4000 ISK / person",
+                        "description": "A modern pizzeria combined with a brewery with a few local beers on tap.",
+                        "notes": "The pizzas are thin and personal size."
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "date": "Apr 7",
+                "activities": [
+                    {
+                        "tag": "Lodging",
+                        "title": "Greenhouse Hotel",
+                        "address": "Austurmörk 6, 810 Hveragerði, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/PP98TzzhcuSiCxyR8",
+                        "notes": "Houses a food hall, gift shops, and a bakery."
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Urriðafossvegur, 803, Iceland",
+                        "address": "VP5F+MR7, 241 Grindavik, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/cYZegVE3q8cVGxYM8",
+                        "cost": "FREE",
+                        "description": "Broad, powerful cascade & summer fishing spot in a serene locale.",
+                        "notes": "Lorem ipsum"
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Seljalandsfoss",
+                        "address": "Þórsmerkurvegur, 861, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/mgLXbnPFKYFRMSJc8",
+                        "cost": "FREE",
+                        "description": "Cool waterfall",
+                        "notes": "Lorem ipsum"
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Gljufrabui",
+                        "address": "Þórsmerkurvegur, 861, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/rK5KndnmZpUP9qFJ6",
+                        "cost": "FREE",
+                        "description": "Cool waterfall",
+                        "notes": "Lorem ipsum"
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Skógafoss",
+                        "address": "861, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/atrbWW9ufrT8XQjs6",
+                        "cost": "FREE",
+                        "description": "Striking 60m falls over a sheer, rocky cliff along the former coastline, with a viewing platform.",
+                        "notes": "Lorem ipsum"
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Fimmvorduhals",
+                        "address": "Gönguleið um Fimmvörðuháls, 861, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/PC6LU3GxKM1AT7Kq8",
+                        "cost": "FREE",
+                        "description": "Trail up to the top of Skogafoss and beyond to Steinbogafoss",
+                        "notes": "Lorem ipsum"
+                    },
+                    {
+                        "tag": "Place",
+                        "title": "Kvernufoss",
+                        "address": "GGH9+HWC, 861 Evindarhólar, Iceland",
+                        "gmaps": "https://maps.app.goo.gl/YMNXtJExsFe4y8Rq6",
+                        "cost": "FREE",
+                        "description": "Thundering falls rushing over sheer, moss-covered cliffs & accessible via a rugged hiking trail.",
+                        "notes": "Lorem ipsum"
+                    }
+                ]
+            }
+        ]
+    }
+]

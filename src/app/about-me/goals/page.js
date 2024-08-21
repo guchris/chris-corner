@@ -474,7 +474,7 @@ const GoalsPage = () => {
                         <div className="row-skinny">
                             <p className="checkbox-text">Release Worn Beta</p>
                             <div className="checkboxes">
-                                <input type="checkbox" className="false"/>
+                                <input type="checkbox" className="empty"/>
                             </div>
                         </div>
                     </div>

@@ -25,10 +25,6 @@ const ChecklistPage = () => {
                 <div className="section">
                     <h3 className="section-title">Upcoming</h3>
                     <div className="row-skinny">
-                        <p className="body-upper">[08/2024]</p>
-                        <p className="body-upper">Chicago, Illinois, USA</p>
-                    </div>
-                    <div className="row-skinny">
                         <p className="body-upper">[10/2024]</p>
                         <p className="body-upper">Puerto Vallarta, Mexico</p>
                     </div>
@@ -82,6 +78,10 @@ const ChecklistPage = () => {
 
                 <div className="section">
                     <h3 className="section-title">Traveled</h3>
+                    <div className="row-skinny">
+                        <p className="body-upper">[08/2024]</p>
+                        <p className="body-upper">Chicago, Illinois, USA</p>
+                    </div>
                     <div className="row-skinny">
                         <p className="body-upper">[05/2024]</p>
                         <p className="body-upper">Tokyo, Japan</p>

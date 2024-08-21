@@ -22,7 +22,7 @@ const OutfitsPage = () => {
                     <Link href="/fashion" className="link">Fashion</Link> | Outfits
                 </h2>
                 <p className="intro">
-                    Dope outfits coming soon.
+                    Outfits coming soon. Page still in progress.
                 </p>
 
                 <OutfitsGrid
