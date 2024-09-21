@@ -4,7 +4,6 @@ import Link from 'next/link';
 import DateSection from '@/components/DateSection'
 import Navigation from '@/components/NavigationSection'
 import MobileMenu from '@/components/MobileMenu';
-import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Analytics } from '@vercel/analytics/react';
 
 export default function RootLayout({ children }) {
@@ -60,7 +59,6 @@ export default function RootLayout({ children }) {
 							</aside>
 							{children}
 							<Analytics />
-							<SpeedInsights/>
 						</div>
 					</main>
 					<MobileMenu />
