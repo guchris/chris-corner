@@ -436,27 +436,21 @@ const GoalsPage = () => {
                             </div>
                         </div>
                         <div className="row-skinny">
-                            <p className="checkbox-text">Publish 1 YouTube video</p>
-                            <div className="checkboxes">
-                                <input type="checkbox" className="empty"/>
-                            </div>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="checkbox-text">Publish 1 TikTok video</p>
+                            <p className="checkbox-text">Publish Chris' Corner beta</p>
                             <div className="checkboxes">
                                 <input type="checkbox" className="true"/>
                             </div>
                         </div>
                         <div className="row-skinny">
-                            <p className="checkbox-text">Publish Prototype Chris' Corner</p>
+                            <p className="checkbox-text">Publish happns beta</p>
                             <div className="checkboxes">
                                 <input type="checkbox" className="true"/>
                             </div>
                         </div>
                         <div className="row-skinny">
-                            <p className="checkbox-text">Publish MVP Chris' Corner</p>
+                            <p className="checkbox-text">Publish worn beta</p>
                             <div className="checkboxes">
-                                <input type="checkbox" className="empty"/>
+                                <input type="checkbox" className="true"/>
                             </div>
                         </div>
                         <div className="row-skinny">
@@ -469,12 +463,6 @@ const GoalsPage = () => {
                             <p className="checkbox-text">Release new HLR cards</p>
                             <div className="checkboxes">
                                 <input type="checkbox" className="true"/>
-                            </div>
-                        </div>
-                        <div className="row-skinny">
-                            <p className="checkbox-text">Release Worn Beta</p>
-                            <div className="checkboxes">
-                                <input type="checkbox" className="empty"/>
                             </div>
                         </div>
                     </div>

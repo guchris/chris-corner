@@ -46,15 +46,6 @@ export default function RootLayout({ children }) {
 									<a href="https://www.instagram.com/gu_christopher/" className="tab-link" target="_blank">INSTAGRAM</a>
 									<a href="https://www.tiktok.com/@gu_christopher" className="tab-link" target="_blank">TIKTOK</a>
 								</section>
-
-								{/* <!-- Hero Image Caption --> */}
-								{/* <HeroImageCaption {...selectedImage}/> */}
-								{/* <p className="hero-image-caption">
-									Friday, September 8, 2023<br/>
-									Orsières, Switzerland<br/>
-									Apple iPhone 14 Pro<br/>
-									ƒ/1.78 1/18519 6.86mm ISO80
-								</p> */}
 								
 							</aside>
 							{children}
